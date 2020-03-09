@@ -1,13 +1,31 @@
+@font-face {
+  font-family: 		'QuigleyWiggly';
+  src: 				url('/storage/fonts/quigleywiggly.woff') format('woff');
+  font-weight: 		normal;
+  font-style: 		normal;
+}
+@font-face {
+  font-family: 		'Greyscale';
+  src: 				url('/storage/fonts/greyscale.woff') format('woff');
+  font-weight: 		normal;
+  font-style: 		normal;
+}
 body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: 'Greyscale', Avenir, 'Helvetica Neue', 'Lato', 'Segoe UI', Helvetica, Arial, sans-serif;
+}
+header {
+  font-family: 'QuigleyWiggly', serif;
+}
+code {
+  font-family: monospace;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+*,
+*:after,
+*:before {
+  box-sizing:border-box;
+}
+a:focus,
+button:focus {
+  outline:none;
 }
