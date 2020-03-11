@@ -165,9 +165,35 @@ const Footer = (colors) => {
         'https://www.w3schools.com/colors/colors_converter.asp': 'Color Converter'
     };
 
-    const renderedBlogs = Object.keys(blogs).map(key =>
-        <li style={styles.li}><a className="blog_modal" href={"/blogs/" + key} title="Posted: {blogs[key].created_at}">{blogs[key].title}</a></li>
+    const modalOpen = (e) => {
+        console.log(e);
+    //     if ($("#modal").is(':empty')) {
+    //
+    //         var closeButton = $('<a id="modal_close">&times;</a>'),
+    //             iframe = $('<iframe src="' + blog_url + '"></iframe>').css({'opacity':'0'}),
+    //             avatar = $('<img src="/storage' + blog_url.replace('blogs', 'www') + '.png" alt="">');
+    //
+    //         $("#modal").append(closeButton, iframe).show();
+    //         iframe.animate({'opacity':'1'}, 2000);
+    //         $("#avatar").append(avatar).show().animate({'margin-left':'-184px'}, 2000, function() {
+    //             $(this).css({'z-index':'101'});
+    //         });
+    //
+    //         closeButton.on("click", modalClose);
+    //     }
+    };
+
+    const modalClose = (e) => {
+    //     $("#modal").empty().hide();
+    //     $("#avatar").empty().hide().css({'margin-left':'0', 'z-index':'99'});
+    };
+
+    const renderedBlogs = Object.keys(blogs).map(key => (
+        <li style={styles.li}>
+            <a className="blog_modal" href={"/blogs/" + key} id={key} title="Posted: {blogs[key].created_at}" onClick={modalOpen}>{blogs[key].title}</a>
+        </li>)
     );
+
     const renderedLinks = Object.keys(blogs).map(key =>
         <li style={styles.li}><a href={key}>{links[key]}</a></li>
     );

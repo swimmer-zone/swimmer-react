@@ -1,5 +1,5 @@
 import React from 'react';
-import SC from '../Music/sdk-3.1.2';
+//import SC from '../Music/sdk-3.1.2';
 
 const Playlist = () => {
     var styles = {
@@ -21,44 +21,6 @@ const Playlist = () => {
         }
     };
 
-    var soundcloud = {
-        userId: '722173945',
-        clientId: 'ded74e4c81cd4e66c3dd68d1d22fbbe1',
-        redirectUri: 'http://swimmer.zone/callback.html'
-    };
-
-    //	Connect to Soundcloud, retrieve data and build player
-    connectSoundcloud();
-
-    //	Show playlist on click
-    var elNav = document.getElementsByTagName("nav")[0];
-    var elA = elNav.getElementsByTagName('a');
-
-    for (var i; i < elA.length; i++) {
-        elA[i].onClick = function(e) {
-
-            //	Prevent Soundcloud from being visited, which is the default action
-            // e.preventDefault();
-
-            // //	Scroll to the clicked playlist
-            // $("#carousel").scrollTo("#" + $(this).data("article"), 1000, {
-            //     axis: "x0", onAfter: function () {
-            //
-            //         $("article.active").find("ul").animate({"height": "100%"}, 200);
-            //     }
-            // });
-            //
-            // $(".covers").scrollTo("#cover_" + $(this).data("article"), 1000, {offset: -10, axis: "x0"});
-            //
-            // //	Animations of image and list
-            // $("article.active").find("ul").animate({"height": "0"}, 200);
-            //
-            // //	Add active class to the clicked menu item and the playlist
-            // $("article#" + $(this).data("article")).addClass("active");
-            // $("nav .active").removeClass("active");
-            // $(this).parent().addClass("active");
-        }
-    }
 
     // //	Play the track when clicked
     // $("#carousel_scroll").delegate(".play", "click autoClick", function(e) {
@@ -246,32 +208,6 @@ const Playlist = () => {
     //             $("a[data-permalink='" + track + "']").parent().find(".stop_parent").remove();
     //         });
     //     });
-    // };
-    //
-    // //	Show modal for blogs
-    // const modalOpen = function(blog_url) {
-    //
-    //     if ($("#modal").is(':empty')) {
-    //
-    //         var closeButton = $('<a id="modal_close">&times;</a>'),
-    //             iframe = $('<iframe src="' + blog_url + '"></iframe>').css({'opacity':'0'}),
-    //             avatar = $('<img src="/storage' + blog_url.replace('blogs', 'www') + '.png" alt="">');
-    //
-    //         $("#modal").append(closeButton, iframe).show();
-    //         iframe.animate({'opacity':'1'}, 2000);
-    //         $("#avatar").append(avatar).show().animate({'margin-left':'-184px'}, 2000, function() {
-    //             $(this).css({'z-index':'101'});
-    //         });
-    //
-    //         closeButton.on("click", modalClose);
-    //     }
-    // };
-    //
-    // //	Close modal window
-    // const modalClose = function() {
-    //
-    //     $("#modal").empty().hide();
-    //     $("#avatar").empty().hide().css({'margin-left':'0', 'z-index':'99'});
     // };
 
     return(

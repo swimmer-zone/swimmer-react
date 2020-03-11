@@ -87,8 +87,41 @@ const Navigation = (colors) => {
         }
     };
 
+    var soundcloud = {
+        userId: '722173945',
+        clientId: 'ded74e4c81cd4e66c3dd68d1d22fbbe1',
+        redirectUri: 'http://swimmer.zone/callback.html'
+    };
+
+    //  Connect to Soundcloud, retrieve data and build player
+    //connectSoundcloud();
+
+    //  Show playlist on click
+    function clickHandler() {
+        //  Prevent Soundcloud from being visited, which is the default action
+        // e.preventDefault();
+
+        // //   Scroll to the clicked playlist
+        // $("#carousel").scrollTo("#" + $(this).data("article"), 1000, {
+        //     axis: "x0", onAfter: function () {
+        //
+        //         $("article.active").find("ul").animate({"height": "100%"}, 200);
+        //     }
+        // });
+        //
+        // $(".covers").scrollTo("#cover_" + $(this).data("article"), 1000, {offset: -10, axis: "x0"});
+        //
+        // //   Animations of image and list
+        // $("article.active").find("ul").animate({"height": "0"}, 200);
+        //
+        // //   Add active class to the clicked menu item and the playlist
+        // $("article#" + $(this).data("article")).addClass("active");
+        // $("nav .active").removeClass("active");
+        // $(this).parent().addClass("active");
+    }
+
     return (
-        <nav style={styles.nav}></nav>
+        <nav style={styles.nav} onClick={clickHandler}></nav>
     );
 };
 

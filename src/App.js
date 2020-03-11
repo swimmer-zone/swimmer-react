@@ -40,12 +40,13 @@ const App = () => {
             <Header colors={colors}/>
 
             <section id="music">
-                <img src={panorama} alt=""/>
 
                 <Navigation colors={colors}/>
                 <Playlist/>
                 <Social colors={colors}/>
             </section>
+                
+            <img src={panorama} alt=""/>
 
             <Footer colors={colors}/>
             <Modal colors={colors}/>
