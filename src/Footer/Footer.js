@@ -1,4 +1,15 @@
 import React from 'react';
+import Async from 'react-async';
+
+const loadBlogs = () =>
+    fetch('http://swimmer.zone/json/blogs')
+    .then(res => (res.ok ? res : Promise.reject(res)))
+    .then(res => res.json());
+
+const loadLinks = () =>
+    fetch('http://swimmer.zone/json/links')
+    .then(res => (res.ok ? res : Promise.reject(res)))
+    .then(res => res.json());
 
 const Footer = (colors) => {
     var styles = {
@@ -54,119 +65,8 @@ const Footer = (colors) => {
         }
     };
 
-    var blogs = {
-        19: {
-            'title': 'Boom',
-            'created_at': '01-09-2018'
-        },
-        18: {
-            'title': 'Audio Resources',
-            'created_at': '03-01-2018'
-        },
-        17: {
-            'title': 'xkcd',
-            'created_at': '26-12-2017'
-        },
-        16: {
-            'title': 'CodeIgniter',
-            'created_at': '22-01-2016'
-        },
-        15: {
-            'title': 'SoundCloud',
-            'created_at': '20-06-2015'
-        },
-        14: {
-            'title': 'Bookmarks',
-            'created_at': '26-11-2014'
-        },
-        13: {
-            'title': 'Aurora VPS',
-            'created_at': '03-03-2014'
-        },
-        12: {
-            'title': 'Conky',
-            'created_at': '17-04-2013'
-        },
-        11: {
-            'title': 'SQL Joins',
-            'created_at': '08-11-2010'
-        },
-        10: {
-            'title': 'Design Patterns',
-            'created_at': '17-10-2010'
-        },
-        9: {
-            'title': 'Casemod',
-            'created_at': '18-07-2009'
-        },
-        8: {
-            'title': 'VPS Tutorial',
-            'created_at': '08-06-2009'
-        },
-        7: {
-            'title': 'Fantastic Contraption',
-            'created_at': '12-01-2009'
-        },
-        6: {
-            'title': 'On My Way',
-            'created_at': '20-05-2008'
-        },
-        5: {
-            'title': 'Fire',
-            'created_at': '04-01-2008'
-        },
-        4: {
-            'title': 'Equalizer',
-            'created_at': '29-08-2007'
-        },
-        3: {
-            'title': 'One Terabyte',
-            'created_at': '09-09-2006'
-        },
-        2: {
-            'title': 'Clocky',
-            'created_at': '17-06-2006'
-        },
-        1: {
-            'title': 'Some history',
-            'created_at': '29-04-2006'
-        }
-    };
-
-    var links = {
-        'http://blackhole.voyage/': 'Black Hole',
-        'http://weerbaarworden.nl/': 'Weerbaar Worden',
-        'http://rijles7sterren.nl/': '7 Sterren',
-        'http://swimmer.zone/projects/record/': 'Dub of the Record',
-        'http://swimmer.zone/projects/index/': 'Index',
-        'http://swimmer.zone/projects/identity/': 'Identity',
-        'http://swimmer.zone/projects/solari/': 'Solari',
-        'http://tympanus.net/codrops/': 'Codrops',
-        'http://css-tricks.com/': 'CSS Tricks',
-        'https://caniuse.com/': 'Can I Use',
-        'http://www.smashingmagazine.com/': 'Smashing Magazine',
-        'http://blog.iusmentis.com/': 'Arnoud Engelfriet',
-        'http://tweakers.net/': 'Tweakers',
-        'http://gathering.tweakers.net/': 'Gathering of Tweakers',
-        'http://tweakblogs.net/': 'Tweakblogs',
-        'http://xkcd.com/': 'xkcd',
-        'http://what-if.xkcd.com/': 'What If?',
-        'http://www.speld.nl/': 'De Speld',
-        'http://www.yankodesign.com/': 'Yanko Design',
-        'https://freesound.org': 'Freesound',
-        'https://www.looperman.com/': 'Looperman',
-        'https://nextgtrgod.github.io/webaudio-synth/': 'Web Synth',
-        'http://psytranceguide.com/': 'Psytrance Guide',
-        'https://codepen.io/jcoulterdesign/full/ZxXbeP/': 'Solar System',
-        'https://www.goabase.net/': 'Goa Base',
-        'https://ektoplazm.com/section/free-music': 'Ektoplazm',
-        'http://everynoise.com/': 'Every Noise',
-        'https://dirpy.com/': 'Dirpy',
-        'https://www.w3schools.com/colors/colors_converter.asp': 'Color Converter'
-    };
-
     const modalOpen = (e) => {
-        console.log(e);
+        console.log(e.target.dataid);
     //     if ($("#modal").is(':empty')) {
     //
     //         var closeButton = $('<a id="modal_close">&times;</a>'),
@@ -183,20 +83,10 @@ const Footer = (colors) => {
     //     }
     };
 
-    const modalClose = (e) => {
-    //     $("#modal").empty().hide();
-    //     $("#avatar").empty().hide().css({'margin-left':'0', 'z-index':'99'});
-    };
-
-    const renderedBlogs = Object.keys(blogs).map(key => (
-        <li style={styles.li}>
-            <a className="blog_modal" href={"/blogs/" + key} id={key} title="Posted: {blogs[key].created_at}" onClick={modalOpen}>{blogs[key].title}</a>
-        </li>)
-    );
-
-    const renderedLinks = Object.keys(blogs).map(key =>
-        <li style={styles.li}><a href={key}>{links[key]}</a></li>
-    );
+    // const modalClose = (e) => {
+    // //     $("#modal").empty().hide();
+    // //     $("#avatar").empty().hide().css({'margin-left':'0', 'z-index':'99'});
+    // };
 
     return(
         <footer style={styles.footer}>
@@ -216,20 +106,59 @@ const Footer = (colors) => {
                 <path style={styles.path} d="M34 4h-32c-1.1 0-2 0.9-2 2v20c0 1.1 0.9 2 2 2h32c1.1 0 2-0.9 2-2v-20c0-1.1-0.9-2-2-2zM20 8h4v4h-4v-4zM26 14v4h-4v-4h4zM14 8h4v4h-4v-4zM20 14v4h-4v-4h4zM8 8h4v4h-4v-4zM14 14v4h-4v-4h4zM4 8h2v4h-2v-4zM4 14h4v4h-4v-4zM6 24h-2v-4h2v4zM24 24h-16v-4h16v4zM32 24h-6v-4h6v4zM32 18h-4v-4h4v4zM32 12h-6v-4h6v4z"></path>
             </svg>
 
-            <ul style={styles.ul}>
-                {renderedBlogs}
-            </ul><br/>
+
+            <Async promiseFn={loadBlogs}>
+                <Async.Loading>Loading...</Async.Loading>
+                <Async.Fulfilled>
+                    {data => {
+                        return (
+                            <ul style={styles.ul}>
+                                {data.data.map(blog => (
+                                    <li style={styles.li}>
+                                        <a 
+                                            className="blog_modal" 
+                                            href={"/blogs/" + blog.id} 
+                                            dataid={blog.id} 
+                                            title="Posted: {blog.created_at}" 
+                                            onClick={modalOpen}>{blog.title}</a>
+                                    </li>
+                                ))}
+                            </ul>
+                        )
+                    }}
+                </Async.Fulfilled>
+                <Async.Rejected>
+                    {error => `Something went wrong: ${error.message}`}
+                </Async.Rejected>
+            </Async>
+            <br/>
 
             <svg style={styles.listicon} version="1.1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
                 <path style={styles.path} d="M0 2v20h32v-20h-32zM30 20h-28v-16h28v16zM21 24h-10l-1 4-2 2h16l-2-2z"></path>
             </svg>
 
-            <ul style={styles.ul}>
-                {renderedLinks}
-            </ul><br/>
+            <Async promiseFn={loadLinks}>
+                <Async.Loading>Loading...</Async.Loading>
+                <Async.Fulfilled>
+                    {data => {
+                        return (
+                            <ul style={styles.ul}>
+                                {data.data.map(link => (
+                                    <li style={styles.li}>
+                                        <a href={link.url}>{link.title}</a>
+                                    </li>
+                                ))}
+                            </ul>
+                        )
+                    }}
+                </Async.Fulfilled>
+                <Async.Rejected>
+                    {error => `Something went wrong: ${error.message}`}
+                </Async.Rejected>
+            </Async>
+            <br/>
 
             <p style={styles.copy}>&copy; Swimmer 2005&thinsp;/&thinsp;2019 - Version 17.0.0</p>
-
         </footer>
     );
 };

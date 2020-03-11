@@ -87,11 +87,11 @@ const Navigation = (colors) => {
         }
     };
 
-    var soundcloud = {
-        userId: '722173945',
-        clientId: 'ded74e4c81cd4e66c3dd68d1d22fbbe1',
-        redirectUri: 'http://swimmer.zone/callback.html'
-    };
+    // var soundcloud = {
+    //     userId: '722173945',
+    //     clientId: 'ded74e4c81cd4e66c3dd68d1d22fbbe1',
+    //     redirectUri: 'http://swimmer.zone/callback.html'
+    // };
 
     //  Connect to Soundcloud, retrieve data and build player
     //connectSoundcloud();

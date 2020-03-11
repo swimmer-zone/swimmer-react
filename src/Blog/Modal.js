@@ -25,14 +25,36 @@ const Modal = (colors) => {
             padding: '10px',
             display: 'none',
             zIndex: '99'
+        },
+        iframe: {
+            opacity: '0'
+        },
+        img: {
+            marginLeft: '0',
+            zIndex: 99
         }
+    };
+
+    //     iframe.animate({'opacity':'1'}, 2000);
+    //     $("#avatar").append(avatar).show().animate({'margin-left':'-184px'}, 2000, function() {
+    //         $(this).css({'z-index':'101'});
+    //     });
+
+    const modalClose = (e) => {
+    //     $("#modal").empty().hide();
+    //     $("#avatar").empty().hide().css();
     };
 
     return(
         <>
-            <section style={styles.modal}></section>
-            <Frame/>
-            <figure style={styles.avatar}></figure>
+            <section style={styles.modal}>
+                <iframe style={styles.iframe} src="blog_url"></iframe>
+                <button onClick={modalClose} value="&times;"/>
+            </section>
+            
+            <figure style={styles.avatar}>
+                <img style={styles.img} src="/storage' + blog_url.replace('blogs', 'www') + '.png" alt=""/>
+            </figure>
         </>
     );
 };

@@ -1,6 +1,5 @@
 import React from 'react';
 import panorama from './panorama.png';
-import './App.css';
 
 import Header from './Header/Header';
 import Navigation from './Music/Navigation';

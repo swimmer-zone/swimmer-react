@@ -47,7 +47,7 @@ const Logo = (colors) => {
                     </stop>
                     <stop style={styles.purple} offset="1"/>
                 </linearGradient>
-                <filter id="dropshadow" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+                <filter id="dropshadow" filterUnits="userSpaceOnUse" colorInterpolationFilters="sRGB">
                     <feComponentTransfer in="SourceAlpha">
                         <feFuncA type="linear" slope="0.6"/>
                         <feFuncR type="discrete" tableValues="0.7"/>
