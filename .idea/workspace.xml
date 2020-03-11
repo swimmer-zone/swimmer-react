@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b17363ec-3b7b-4c14-a363-96249ded7c4c" name="Default Changelist" comment="" />
+    <list default="true" id="b17363ec-3b7b-4c14-a363-96249ded7c4c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/Header/Cover.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Header/Header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06e8d72a7de7e20724f97e99535c6688e07bc39b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/440bc7112ede664b55d9e137e23b189145ce68a0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d3a8cd532ece5b4ddbd4b3b6a678ba686d300bc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48c899e8ecbf10572d2acff7890ac6b1ea94068" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48c899e8ecbf10572d2acff7890ac6b1ea94068" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2027b5f83a0feac0de5bd691ac5abd36c51a116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Blog/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blog/Modal.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Config/jquery.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Config/jquery.nav.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/Logo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Logo.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Header/_header.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Music/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Music/Navigation.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Music/Playlist.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Music/Playlist.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Music/_player.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Music/_player.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Music/_scrollbar.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Music/jquery.scrollTo.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Music/yweb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -67,6 +90,8 @@
       <updated>1583526053742</updated>
       <workItem from="1583526056341" duration="6429000" />
       <workItem from="1583583719416" duration="9045000" />
+      <workItem from="1583773020677" duration="5353000" />
+      <workItem from="1583824899776" duration="133000" />
     </task>
     <servers />
   </component>

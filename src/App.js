@@ -2,7 +2,7 @@ import React from 'react';
 import panorama from './panorama.png';
 import './App.css';
 
-import Logo from './Header/Logo';
+import Header from './Header/Header';
 import Navigation from './Music/Navigation';
 import Playlist from './Music/Playlist';
 import Social from './Footer/Social';
@@ -37,16 +37,12 @@ const App = () => {
     }
     return(
         <>
-            <header id="menu">
-                <Logo/>
-                <p></p>
-                <div className="covers"></div>
-            </header>
+            <Header colors={colors}/>
 
             <section id="music">
                 <img src={panorama} alt=""/>
 
-                <Navigation/>
+                <Navigation colors={colors}/>
                 <Playlist/>
                 <Social colors={colors}/>
             </section>

@@ -1,5 +1,5 @@
 import React from 'react';
-// import Frame from './Blog/Frame';
+import Frame from '../Blog/Frame';
 
 const Modal = (colors) => {
     var styles = {
@@ -31,7 +31,7 @@ const Modal = (colors) => {
     return(
         <>
             <section style={styles.modal}></section>
-            {/*<Frame/>*/}
+            <Frame/>
             <figure style={styles.avatar}></figure>
         </>
     );
