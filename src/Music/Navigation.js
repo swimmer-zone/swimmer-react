@@ -1,4 +1,6 @@
 import React from 'react';
+import SC from 'soundcloud';
+
 
 const Navigation = (colors) => {
     var styles = {
@@ -87,14 +89,30 @@ const Navigation = (colors) => {
         }
     };
 
-    // var soundcloud = {
-    //     userId: '722173945',
-    //     clientId: 'ded74e4c81cd4e66c3dd68d1d22fbbe1',
-    //     redirectUri: 'http://swimmer.zone/callback.html'
-    // };
+    var soundcloud = {
+        userId: '722173945',
+        clientId: 'ded74e4c81cd4e66c3dd68d1d22fbbe1',
+        redirectUri: 'http://swimmer.zone/callback.html'
+    };
 
-    //  Connect to Soundcloud, retrieve data and build player
-    //connectSoundcloud();
+    SC.initialize({
+        client_id: soundcloud.clientId,
+        redirect_uri: soundcloud.redirectUri
+    });
+
+    const authSoundcloud = () => 
+        SC.connect().then((session) => {
+            fetchSoundcloudMe(session);
+        });
+
+    const fetchSoundcloudMe = (session) => 
+        fetch('//api.soundcloud.com/me?oauth_token=' + session.oauth_token)
+        .then((response) => response.json())
+        .then((data) => {
+            console.log(data);
+        });
+
+    authSoundcloud();
 
     //  Show playlist on click
     function clickHandler() {

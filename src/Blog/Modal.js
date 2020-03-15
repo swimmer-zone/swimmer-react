@@ -1,5 +1,5 @@
 import React from 'react';
-import Frame from '../Blog/Frame';
+// import Frame from '../Blog/Frame';
 
 const Modal = (colors) => {
     var styles = {
@@ -48,7 +48,7 @@ const Modal = (colors) => {
     return(
         <>
             <section style={styles.modal}>
-                <iframe style={styles.iframe} src="blog_url"></iframe>
+                {/* <iframe style={styles.iframe} src="blog_url" title=""></iframe> */}
                 <button onClick={modalClose} value="&times;"/>
             </section>
             
