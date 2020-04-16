@@ -2,28 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b17363ec-3b7b-4c14-a363-96249ded7c4c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Header/Cover.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Header/Header.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/6/06e8d72a7de7e20724f97e99535c6688e07bc39b" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/440bc7112ede664b55d9e137e23b189145ce68a0" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/6/d/6d3a8cd532ece5b4ddbd4b3b6a678ba686d300bc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48c899e8ecbf10572d2acff7890ac6b1ea94068" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48c899e8ecbf10572d2acff7890ac6b1ea94068" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/2/f2027b5f83a0feac0de5bd691ac5abd36c51a116" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13eea37ed2e1d99006788e063dbdc29a16b62996" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b70b3c055ce3ffdf53fb5dde7c5493b02e33b09" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b86cf5bc1af28210f9e8eb23a16113fc7a15049" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e81592f8c503487876ac9b43f82989e8e1d6a3d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74cf9151a60214253b8be7bf7481651fa2593281" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7dbc3cdf6e2a8709262972de60801bf191ceb951" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fee5e825668b0ac4f9ed7d8e3b9d6d5b59264d8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/923703ced91ac38943d37930d9d27a7ebe8f01ad" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a5271ab7b6aa3018077e6ea60577c080f80d9f6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48c899e8ecbf10572d2acff7890ac6b1ea94068" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2c9f082ff2d8535b81e04e3dae184353ff1b4f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c504d7a9da97d411a1edf14463d40b62ca987f0a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1f775917037d784b3d650f7c85f093e2e028d7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0b176589e072fe464b9828a34268e70cde59c44" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8de5c4fb47a873fc9323dbb5735c87cd0fceedd" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Blog/Modal.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Blog/Modal.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Config/jquery.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Config/jquery.nav.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/Logo.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Header/Logo.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Header/_header.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Music/Navigation.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Music/Navigation.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Music/Playlist.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/Music/Playlist.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Music/_player.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/Music/_player.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Music/_scrollbar.scss" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Music/jquery.scrollTo.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Music/yweb.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,6 +64,7 @@
     <property name="node.js.path.for.package.standard" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.standard" value="" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="watcher.settings" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
   </component>
@@ -92,6 +89,7 @@
       <workItem from="1583583719416" duration="9045000" />
       <workItem from="1583773020677" duration="5353000" />
       <workItem from="1583824899776" duration="133000" />
+      <workItem from="1587039253262" duration="491000" />
     </task>
     <servers />
   </component>
