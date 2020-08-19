@@ -11,7 +11,7 @@ function countDown(duration, time) {
 }
 
 const loadTracks = () =>
-    fetch('...')
+	fetch('http://swimmer.zone/json/tracks')
     .then(res => (res.ok ? res : Promise.reject(res)))
     .then(res => res.json());
 
