@@ -1,5 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Async from 'react-async';
+import { Roll, Bounce } from 'react-reveal';
 
 function countDown(duration, time) {
     if (!isNaN(time)) {
@@ -22,8 +23,6 @@ const Music = () => {
         currentTime: null,
         duration: null
     });
-    let currentTime = getTime(state.currentTime);
-    let duration = getTime(state.duration);
     let timeLeft = countDown(state.duration, state.currentTime);
     let currentTrack = null;
 
@@ -69,19 +68,27 @@ const Music = () => {
 
         								<Bounce right cascade>
 											<ul>
-												{Object.keys(data[title].tracks).map(track => {console.log(data[title].tracks);
+												{Object.keys(data[title].tracks).map(track => {													
+													let timer;
+													console.log(state.currentTrack, data[title].tracks[track].filename)
+													if (state.currentTime && state.currentTrack == data[title].tracks[track].filename) {
+														timer = <span className="duration">{timeLeft}</span>
+													}
+													else {
+														timer = <span 
+																data-seconds="{data[title].tracks[track].playtime_seconds}" 
+																className="duration">{data[title].tracks[track].playtime_string}</span>
+													}
 													return(
 														<li key={data[title].tracks[track].filename}>
 															<span className="a">
 																<button 
 																	data-permalink={data[title].tracks[track].title}
-																	onClick={() => setPlay({currentTrack: data[title].tracks[track].filename, play: !play})}>
+																	onClick={() => setState({currentTrack: data[title].tracks[track].filename})}>
 																	{data[title].tracks[track].title}
 																</button>
 															</span>
-															<span 
-																data-seconds="{data[title].tracks[track].playtime_seconds}" 
-																className="duration">{data[title].tracks[track].playtime_string}</span>
+															{timer}
 														</li>
 													)
 												})}
