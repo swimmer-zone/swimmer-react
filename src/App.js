@@ -1,58 +1,113 @@
 import React from 'react';
-import panorama from './panorama.png';
-
-import Logo from './Layout/Logo';
-import Social from './Layout/Social';
-import Modal from './Layout/BlogModal';
-import Error from './Error';
-
+import Header from './Layout/Header';
 import Music from './Layout/Music';
-import Blog from './Layout/Blog';
-import Links from './Layout/Links';
+import Footer from './Layout/Footer';
+import Error from './Error';
+import './App.scss';
+import {
+	BrowserRouter as Router,
+	Switch,
+	Route,
+	useRouteMatch,
+	useParams
+} from "react-router-dom";
+import Async from 'react-async';
+import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
 
 const App = () => {
+  	return (
+	    <Router>
+	        <Switch>
+	          	<Route path="/blog">
+	            	<Blog />
+	          	</Route>
+	          	<Route path="/">
+	            	<Home />
+	          	</Route>
+	        </Switch>
+	    </Router>
+  	);
+}
 
-    var colors = {
-        'purple': '#6c6eec',
-        'purpleDark': '#5c5edc',
-        'dark': '#4a4b50',
-        'quotes': '#5c5d62',
-        'modal': '#6a6b70',
-        'code': '#aaaaaa',
-        'light': '#dddddd',
-        'white': '#ffffff',
-        'black': '#000000',
-
-        'soundcloud': '#ff5500',
-        'youtube': '#e62117',
-        'facebook': '#3b5998',
-        'instagram': '#ee583f',
-        'linkedin': '#0077B5',
-        'twitter': '#1da1f2',
-        'github': '#fafbfc'
-    };
-
+function Home() {
     if (false) {
         return (<Error/>);
     }
-    return(
-        <>
-            <Logo/>
-            <Music/>
-            <Blog/>
-            <Links/>
+  	return (
+    	<>
+      		<Header />
+      		<Music />
+      		<Footer />
+    	</>
+  	);
+}
 
-            <footer>
-                <Social/>
-                <img src={panorama} alt="" className="panorama"/>
-                <p>&copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.0</p>
-            </footer>
+function Blog() {
+	let match = useRouteMatch();
 
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-            <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-scrollTo/2.1.2/jquery.scrollTo.min.js"></script>
-            <script src="/js/app.js"></script>
-        </>
+  	return (
+		<Switch>
+			<Route path={`${match.path}/:blogId`}>
+				<Post />
+			</Route>
+			<Route path={match.path}>
+				<h3>Please select a post.</h3>
+			</Route>
+		</Switch>
+  	);
+}
+
+function Post() {
+  	let { blogId } = useParams();
+
+	const loadBlog = () =>
+	    fetch('http://swimmer.zone/json/blog/' + blogId)
+	    .then(res => (res.ok ? res : Promise.reject(res)))
+	    .then(res => res.json());
+
+	const options = {
+  		settings: {
+			autoplaySpeed: 3000
+		},
+  		buttons: {
+	    	backgroundColor: 'rgba(30,30,36,0)',
+	    	iconColor: 'rgba(108, 110, 236, 0.9)',
+    		showDownloadButton: false
+  		},
+  		caption: {
+		    captionColor: 'rgba(108, 110, 236, 1)',
+	    	captionFontSize: '1.2rem',
+		    captionFontWeight: 'bold'
+  		},
+		progressBar: {
+			backgroundColor: 'rgba(108, 110, 236, 0)',
+			fillColor: 'rgba(108, 110, 236, 1)'
+		}
+	};
+
+	return (
+        <Async promiseFn={loadBlog}>
+            <Async.Loading>Loading...</Async.Loading>
+            <Async.Fulfilled>
+                {blog => {console.log(blog);
+                    return (
+                        <section className="blog">
+                        	<img className="avatar" src={"http://swimmer.zone/storage/www/" + blog.id + ".png"} alt="Avatar"/>
+							
+							<SimpleReactLightbox>
+	      						<SRLWrapper options={options}>
+	                        		<div className="article" dangerouslySetInnerHTML={{__html: blog.body}}></div>
+	      						</SRLWrapper>
+	      					</SimpleReactLightbox>
+                        </section>
+                    )
+                }}
+            </Async.Fulfilled>
+            <Async.Rejected>
+                {error => `Something went wrong: ${error.message}`}
+            </Async.Rejected>
+        </Async>
     );
-};
+}
 
 export default App;
