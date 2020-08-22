@@ -22,7 +22,7 @@ const Footer = () => {
                     I'm hosting my tracks myself again, after some issues with the SoundCloud API. You can still find my music there though.
                     The other half are blog posts, my portfolio and a couple of my favorite resources. 
                     Please use the social media buttons to contact me about my music, blogs or any web-related topic.<br/>
-                    <strong>Todo:</strong> Play audio on click & next tracks &mdash; Portraits &mdash; Slug
+                    <strong>Todo:</strong> Play next tracks &mdash; Portraits &mdash; Slug &mdash; Deployment
                 </p>
             </section>
 
