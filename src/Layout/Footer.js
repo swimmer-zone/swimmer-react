@@ -22,7 +22,7 @@ const Footer = () => {
                     I'm hosting my tracks myself again, after some issues with the SoundCloud API. You can still find my music there though.
                     The other half are blog posts, my portfolio and a couple of my favorite resources. 
                     Please use the social media buttons to contact me about my music, blogs or any web-related topic.<br/>
-                    <strong>Todo:</strong> Play next tracks &mdash; Portraits &mdash; Slug &mdash; Deployment
+                    <strong>Todo:</strong> Play next tracks &mdash; Portraits
                 </p>
             </section>
 
@@ -41,7 +41,7 @@ const Footer = () => {
                                         {data.data.map(blog => (
                                             <li key={blog.id}>
                                                 <span className="a">
-                                                    <a href={"/blog/" + blog.id} dataid={blog.id} title={"Posted: " + blog.created_at}>
+                                                    <a href={"/blog/" + blog.title.toLowerCase().replace(/ /g, '-')} dataid={blog.id} title={"Posted: " + blog.created_at}>
                                                         {blog.title}
                                                     </a>
                                                 </span>
@@ -88,7 +88,7 @@ const Footer = () => {
                 </Async>
             </section>
             <p className="copy">
-                &copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.2<br />
+                &copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.4<br />
                 &copy; Header Movie from <a href="https://vimeo.com/103849476">https://vimeo.com/103849476</a>
             </p>
         </footer>
