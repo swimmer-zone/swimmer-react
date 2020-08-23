@@ -70,7 +70,6 @@ const Music = () => {
 											<ul>
 												{Object.keys(data[title].tracks).map(track => {													
 													let timer;
-													console.log(state.currentTrack, data[title].tracks[track].filename)
 													if (state.currentTime && state.currentTrack == data[title].tracks[track].filename) {
 														timer = <span className="duration">{timeLeft}</span>
 													}

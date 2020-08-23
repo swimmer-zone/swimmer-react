@@ -1,19 +1,12 @@
 import React from 'react';
-import video from '../boom.mp4';
 import Social from '../Layout/Social';
 import Logo from '../Layout/Logo';
 
 const Header = () => {
-	var styles = {
-		header: {
-			backgroundImage: 'url(' + video + ')'
-		}
-	};
-
 	return (
 		<header>
 			<video controls autoPlay muted loop controlsList="nodownload" preload="true">
-  				<source src={video} type="video/mp4" />
+  				<source src="http://swimmer.zone/storage/boom.mp4" type="video/mp4" />
   			</video>
   			<div className="wrapper">
 			<div>

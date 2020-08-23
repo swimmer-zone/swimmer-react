@@ -89,7 +89,7 @@ function Post() {
         <Async promiseFn={loadBlog}>
             <Async.Loading>Loading...</Async.Loading>
             <Async.Fulfilled>
-                {blog => {console.log(blog);
+                {blog => {
                     return (
                         <section className="blog">
                         	<img className="avatar" src={"http://swimmer.zone/storage/www/" + blog.id + ".png"} alt="Avatar"/>
