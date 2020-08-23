@@ -24,7 +24,6 @@ const Music = () => {
         duration: null
     });
     let timeLeft = countDown(state.duration, state.currentTime);
-    let currentTrack = null;
 
     useEffect(() => {
         if (state.currentTrack) {

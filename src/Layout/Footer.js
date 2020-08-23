@@ -88,7 +88,7 @@ const Footer = () => {
                 </Async>
             </section>
             <p className="copy">
-                &copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.1<br />
+                &copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.2<br />
                 &copy; Header Movie from <a href="https://vimeo.com/103849476">https://vimeo.com/103849476</a>
             </p>
         </footer>
