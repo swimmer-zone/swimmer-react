@@ -1,6 +1,8 @@
 import React from 'react';
 import Async from 'react-async';
 import { Bounce } from 'react-reveal';
+import me from '../me.png';
+import meHover from '../me-hover.png';
 
 const loadBlogs = () =>
     fetch('http://swimmer.zone/json/blogs')
@@ -22,7 +24,7 @@ const Footer = () => {
                     I'm hosting my tracks myself again, after some issues with the SoundCloud API. You can still find my music there though.
                     The other half are blog posts, my portfolio and a couple of my favorite resources. 
                     Please use the social media buttons to contact me about my music, blogs or any web-related topic.<br/>
-                    <strong>Todo:</strong> Play next tracks &mdash; Portraits
+                    <strong>Todo:</strong> Play next tracks
                 </p>
             </section>
 
@@ -87,8 +89,12 @@ const Footer = () => {
                     </Async.Rejected>
                 </Async>
             </section>
+            <div className="me">
+                <img src={me} alt="" />
+                <img src={meHover} alt="" />
+            </div>
             <p className="copy">
-                &copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.4<br />
+                &copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.5<br />
                 &copy; Header Movie from <a href="https://vimeo.com/103849476">https://vimeo.com/103849476</a>
             </p>
         </footer>
