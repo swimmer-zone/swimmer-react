@@ -61,7 +61,7 @@ function Post() {
   	let { blogId } = useParams();
 
 	const loadBlog = () =>
-	    fetch('http://swimmer.zone/json/blog/' + blogId)
+	    fetch('http://api.swimmer.zone/json/blog/' + blogId)
 	    .then(res => (res.ok ? res : Promise.reject(res)))
 	    .then(res => res.json());
 
@@ -92,7 +92,7 @@ function Post() {
                 {blog => {
                     return (
                         <section className="blog">
-                        	<img className="avatar" src={"http://swimmer.zone/storage/www/" + blog.id + ".png"} alt="Avatar"/>
+                        	<img className="avatar" src={"http://api.swimmer.zone/storage/www/" + blog.id + ".png"} alt="Avatar"/>
 							
 							<SimpleReactLightbox>
 	      						<SRLWrapper options={options}>

@@ -5,17 +5,17 @@ import me from '../me.png';
 import meHover from '../me-hover.png';
 
 const loadBlogs = () =>
-    fetch('http://swimmer.zone/json/blogs')
+    fetch('http://api.swimmer.zone/json/blogs')
     .then(res => (res.ok ? res : Promise.reject(res)))
     .then(res => res.json());
 
 const loadPortfolio = () =>
-    fetch('http://swimmer.zone/json/portfolio')
+    fetch('http://api.swimmer.zone/json/portfolio')
     .then(res => (res.ok ? res : Promise.reject(res)))
     .then(res => res.json());
 
 const loadLinks = () =>
-    fetch('http://swimmer.zone/json/links')
+    fetch('http://api.swimmer.zone/json/links')
     .then(res => (res.ok ? res : Promise.reject(res)))
     .then(res => res.json());
 

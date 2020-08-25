@@ -1,25 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b17363ec-3b7b-4c14-a363-96249ded7c4c" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/3/13eea37ed2e1d99006788e063dbdc29a16b62996" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/b/1b70b3c055ce3ffdf53fb5dde7c5493b02e33b09" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b86cf5bc1af28210f9e8eb23a16113fc7a15049" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5e81592f8c503487876ac9b43f82989e8e1d6a3d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/4/74cf9151a60214253b8be7bf7481651fa2593281" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/d/7dbc3cdf6e2a8709262972de60801bf191ceb951" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/f/7fee5e825668b0ac4f9ed7d8e3b9d6d5b59264d8" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/2/923703ced91ac38943d37930d9d27a7ebe8f01ad" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/a/9a5271ab7b6aa3018077e6ea60577c080f80d9f6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/a/aa7165aefcf8ee3d73539e99ab007daf1aa18d8d" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/4/b48c899e8ecbf10572d2acff7890ac6b1ea94068" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2c9f082ff2d8535b81e04e3dae184353ff1b4f4" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/5/c504d7a9da97d411a1edf14463d40b62ca987f0a" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/d/ed1f775917037d784b3d650f7c85f093e2e028d7" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/0/f0b176589e072fe464b9828a34268e70cde59c44" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/8/f8de5c4fb47a873fc9323dbb5735c87cd0fceedd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,21 +55,24 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.standard" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.path.for.package.standard" value="project" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.eslint" value="" />
     <property name="node.js.selected.package.standard" value="" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="watcher.settings" />
+    <property name="settings.editor.selected.configurable" value="settings.nodejs" />
     <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -75,6 +81,7 @@
       <recent name="$PROJECT_DIR$/public" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -90,24 +97,48 @@
       <workItem from="1583773020677" duration="5353000" />
       <workItem from="1583824899776" duration="133000" />
       <workItem from="1587039253262" duration="491000" />
+      <workItem from="1598479787410" duration="1592000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="560" y="252" key="#ESLint" timestamp="1583531112404">
-      <screen x="0" y="23" width="1920" height="1127" />
+    <state x="823" y="414" width="277" height="217" key="#ESLint" timestamp="1598480169242">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="560" y="252" key="#ESLint/0.23.1920.1127@0.23.1920.1127" timestamp="1583531112404" />
-    <state x="461" y="225" key="SettingsEditor" timestamp="1583586884153">
-      <screen x="0" y="23" width="1920" height="1127" />
+    <state x="823" y="414" width="277" height="217" key="#ESLint/0.0.1920.1040@0.0.1920.1040" timestamp="1598480169242" />
+    <state x="682" y="324" width="545" height="384" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1598480082346">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="225" key="SettingsEditor/0.23.1920.1127@0.23.1920.1127" timestamp="1583586884153" />
-    <state x="832" y="355" width="685" height="486" key="find.popup" timestamp="1583590083289">
-      <screen x="0" y="23" width="1920" height="1127" />
+    <state x="682" y="324" width="545" height="384" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1598480082346" />
+    <state x="738" y="274" width="424" height="478" key="FileChooserDialogImpl" timestamp="1598480769222">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="832" y="355" width="685" height="486" key="find.popup/0.23.1920.1127@0.23.1920.1127" timestamp="1583590083289" />
+    <state x="738" y="274" width="424" height="478" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1598480769222" />
+    <state x="464" y="154" key="SettingsEditor" timestamp="1598481371298">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1598481371298" />
+    <state x="680" y="330" width="550" height="371" key="jetbrains.nodejs.interpreters-dialog" timestamp="1598481369667">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="680" y="330" width="550" height="371" key="jetbrains.nodejs.interpreters-dialog/0.0.1920.1040@0.0.1920.1040" timestamp="1598481369667" />
+    <state x="623" y="228" key="search.everywhere.popup" timestamp="1598479822485">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="228" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1598479822485" />
   </component>
 </project>
