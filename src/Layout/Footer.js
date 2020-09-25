@@ -5,17 +5,17 @@ import me from '../me.png';
 import meHover from '../me-hover.png';
 
 const loadBlogs = () =>
-    fetch('http://api.swimmer.zone/json/blogs')
+    fetch('https://sww.tf/blogs')
     .then(res => (res.ok ? res : Promise.reject(res)))
     .then(res => res.json());
 
 const loadPortfolio = () =>
-    fetch('http://api.swimmer.zone/json/portfolio')
+    fetch('https://sww.tf/portfolio')
     .then(res => (res.ok ? res : Promise.reject(res)))
     .then(res => res.json());
 
 const loadLinks = () =>
-    fetch('http://api.swimmer.zone/json/links')
+    fetch('https://sww.tf/links')
     .then(res => (res.ok ? res : Promise.reject(res)))
     .then(res => res.json());
 
@@ -44,11 +44,11 @@ const Footer = () => {
                             return (
                                 <Bounce cascade>
                                     <ul>
-                                        {data.data.map(blog => (
-                                            <li key={blog.id}>
+                                        {Object.keys(data).map(key => (
+                                            <li key={data[key].id}>
                                                 <span className="a">
-                                                    <a href={"/blog/" + blog.title.toLowerCase().replace(/ /g, '-')} dataid={blog.id} title={"Posted: " + blog.created_at}>
-                                                        {blog.title}
+                                                    <a href={"/blog/" + data[key].title.toLowerCase().replace(/ /g, '-')} dataid={data[key].id} title={"Posted: " + data[key].created_at}>
+                                                        {data[key].title}
                                                     </a>
                                                 </span>
                                             </li>
@@ -76,10 +76,10 @@ const Footer = () => {
                             return (
                                 <Bounce cascade>
                                     <ul>
-                                        {data.data.map(link => (
-                                            <li key={link.id}>
+                                        {Object.keys(data).map(key => (
+                                            <li key={data[key].id}>
                                                 <span className="a">
-                                                    <a href={link.url}>{link.title}</a>
+                                                    <a href={data[key].url}>{data[key].title}</a>
                                                 </span>
                                             </li>
                                         ))}
@@ -106,10 +106,10 @@ const Footer = () => {
                             return (
                                 <Bounce cascade>
                                     <ul>
-                                        {data.data.map(link => (
-                                            <li key={link.id}>
+                                        {Object.keys(data).map(key => (
+                                            <li key={data[key].id}>
                                                 <span className="a">
-                                                    <a href={link.url}>{link.title}</a>
+                                                    <a href={data[key].url}>{data[key].title}</a>
                                                 </span>
                                             </li>
                                         ))}
@@ -128,7 +128,7 @@ const Footer = () => {
                 <img src={meHover} alt="" />
             </div>
             <p className="copy">
-                &copy; Swimmer 2005&thinsp;/&thinsp;2020 - Version 17.0.7<br />
+                &copy; Swimmer 2005&thinsp;/&thinsp;{(new Date().getFullYear())} - Version 17.0.7<br />
                 &copy; Header Movie from <a href="https://vimeo.com/103849476">https://vimeo.com/103849476</a>
             </p>
         </footer>

@@ -6,7 +6,7 @@ const Header = () => {
 	return (
 		<header>
 			<video controls autoPlay muted loop controlsList="nodownload" preload="true">
-  				<source src="http://api.swimmer.zone/storage/boom.mp4" type="video/mp4" />
+  				<source src="https://sww.tf/media/swimmer/boom.mp4" type="video/mp4" />
   			</video>
   			<div className="wrapper">
 			<div>
