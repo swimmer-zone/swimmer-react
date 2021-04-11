@@ -44,7 +44,7 @@ const Music = () => {
     }, [state.currentTrack]);
 
     return (
-		<section className="music">
+		<section className="music" id="music">
 			<Async promiseFn={loadTracks}>
 				<Async.Loading>Loading...</Async.Loading>
 				<Async.Fulfilled>
