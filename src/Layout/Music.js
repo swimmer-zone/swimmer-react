@@ -1,6 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
-import Async from 'react-async';
-import { Roll, Bounce } from 'react-reveal';
+import Slider from 'react-animated-slider';
+import '../Carousel.scss';
 
 function countDown(duration, time) {
     if (!isNaN(time)) {
@@ -11,18 +11,15 @@ function countDown(duration, time) {
     }
 }
 
-const loadTracks = () =>
-	fetch('https://sww.tf/tracks')
-    .then(res => (res.ok ? res : Promise.reject(res)))
-    .then(res => res.json());
-
 const Music = () => {
     const player = useRef(null);
+  	const [ albums, setAlbums ] = useState([]);
     const [ state, setState ] = useState({
         currentTrack: null,
         currentTime: null,
         duration: null
     });
+
     let timeLeft = countDown(state.duration, state.currentTime);
 
     useEffect(() => {
@@ -39,72 +36,72 @@ const Music = () => {
         });
 
         return function cleanup() {
-            player.current.removeEventListener('timeupdate', () => {});
+        //    player.current.removeEventListener('timeupdate', () => {});
         }
     }, [state.currentTrack]);
 
-    return (
-		<section className="music">
-			<Async promiseFn={loadTracks}>
-				<Async.Loading>Loading...</Async.Loading>
-				<Async.Fulfilled>
-					{data => {
-						return (
-							Object.keys(data).map(title => (<>
-								<article key={"album_" + data[title].title_lower} id={"album_" + data[title].title_lower}>
-									<Roll>
-										<div className="cover-wrapper">
-											<img src={data[title].cover} alt="cover" className="cover" />
-										</div>
-									</Roll>
-									<div className="tracklist" data-set={data[title].title_lower}>
+  	useEffect(() => {
+    	getAlbums();
+  	}, []);
 
-										<h2 key={data[title].id}>
-											{data[title].title}
-										</h2>
+  	async function getAlbums() {
+    	const response = await fetch('https://sww.tf/tracks');
+    	const albums = await response.json();
+    	setAlbums(albums);
+  	}
 
-										<p>{data[title].comment}</p>
+  	return (
+		<section className="music" id="music">
+			<Slider infinite={false}>
+	      		{Object.keys(albums).map(key => {
+	      			let album = albums[key];
+	      			return(
+						<article key={"album_" + album.title_lower} id={"album_" + album.title_lower}>
+							<div className="cover-wrapper">
+								<img src={album.cover} alt="cover" className="cover" />
+							</div>
+							<div className="tracklist" data-set={album.title_lower}>
 
-        								<Bounce right cascade>
-											<ul>
-												{Object.keys(data[title].tracks).map(track => {													
-													let timer;
-													if (state.currentTime && state.currentTrack == data[title].tracks[track].filename) {
-														timer = <span className="duration">{timeLeft}</span>
-													}
-													else {
-														timer = <span 
-																data-seconds="{data[title].tracks[track].playtime_seconds}" 
-																className="duration">{data[title].tracks[track].playtime_string}</span>
-													}
-													return(
-														<li key={data[title].tracks[track].filename}>
-															<span className="a">
-																<button 
-																	data-permalink={data[title].tracks[track].title}
-																	onClick={() => setState({currentTrack: data[title].tracks[track].filename})}>
-																	{data[title].tracks[track].title}
-																</button>
-															</span>
-															{timer}
-														</li>
-													)
-												})}
-											</ul>
-										</Bounce>
-									</div>
-								</article>
-							</>))
-						)
-					}}
-				</Async.Fulfilled>
-				<Async.Rejected>
-					{error => `Something went wrong: ${error.message}`}
-				</Async.Rejected>
-			</Async>
+								<h2 key={album.id}>
+									{album.title}
+								</h2>
+
+								<p>{album.comment}</p>
+
+								<ul>
+									{Object.keys(album.tracks).map(trackKey => {
+										let timer;
+										let track = album.tracks[trackKey];
+										if (state.currentTime && state.currentTrack === track.filename) {
+											timer = <span className="duration">{timeLeft}</span>
+										}
+										else {
+											timer = <span 
+													data-seconds="{track.playtime_seconds}" 
+													className="duration">{track.playtime_string}</span>
+										}
+										return(
+											<li key={track.filename}>
+												<span className="a">
+													<button 
+														data-permalink={track.title}
+														onClick={() => setState({currentTrack: track.filename})}>
+														{track.title}
+													</button>
+												</span>
+												{timer}
+											</li>
+										)
+									})}
+								</ul>
+							</div>
+						</article>
+					)
+				})}
+			</Slider>
 			<audio ref={player} />
 		</section>
-	);
-}
+  	);
+};
 
 export default Music;

@@ -49,16 +49,14 @@ ol {
 	margin-left: 2vw;
 }
 #root > header,
-#root > section > article,
-#root > footer,
-#todo {
+#root > section,
+#root > footer {
 	height: 100vh;
 	width: 100vw;
     box-sizing: border-box;
 }
-#root > section > article,
-#root > footer,
-#todo {
+#root > section,
+#root > footer {
 	scroll-snap-align: start;
 }
 * {
@@ -83,17 +81,17 @@ header {
 	color: $black;
 
 	video {
-		position: absolute;
-		top: 0;
-		left: 0;
-		width: 100vw;
-		height: 100vh;
+	    position: absolute;
+	    top: -6vh;
+	    left: -3vw;
+	    width: 106vw;
+	    height: 106vh;
 	}
 	.wrapper {
 		position: absolute;
 		top: 0;
 		left: 0;
-		border: 5.2vw;
+		border: 4vw;
 		border-color: $white;
 		border-style: solid;
 		padding: 4vw;
@@ -117,9 +115,9 @@ header {
         text-decoration: none;
         background: $white;
         padding: 16px;
-        margin: 6vh 0;
+        margin: 6vh 2vw 0 0;
         border-radius: 4px;
-        display: block;
+        display: inline-block;
         width: 240px;
         text-align: center;
 
@@ -211,6 +209,18 @@ header {
 // Music.js
 .music {
 	border: 0;
+	width: 100vw;
+	height: 100vh;
+
+	.previousButton,
+	.nextButton {
+		polygon {
+			fill: $purple;
+		}
+		&.disabled polygon {
+			fill: $light;
+		}
+	}
 
 	article {
 		display: flex;
@@ -264,6 +274,7 @@ header {
 						cursor: pointer;
 						width: 20vw;
 						text-align: left;
+						background: none;
 					}
 					duration {
 						display: inline-block;
@@ -493,13 +504,13 @@ footer {
 }
 
 ::-webkit-scrollbar {
-	height: 8px;
-	width: 8px;
+	height: 2px;
+	width: 2px;
 	background: transparent;
 }
 ::-webkit-scrollbar-thumb {
-	background: $purple;
-	border: 1px solid $white;
+	background: $light;
+	border: 0;
 }
 ::-webkit-scrollbar-thumb:window-inactive {
   	background: $white;

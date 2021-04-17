@@ -1,6 +1,5 @@
 import React from 'react';
 import Async from 'react-async';
-import { Bounce } from 'react-reveal';
 import me from '../me.png';
 import meHover from '../me-hover.png';
 
@@ -21,7 +20,7 @@ const loadLinks = () =>
 
 const Footer = () => {
     return (
-        <footer>
+        <footer id="footer">
             <section className="intro">
                 <h2>Blog & Links</h2>
                 <p>
@@ -42,19 +41,17 @@ const Footer = () => {
                     <Async.Fulfilled>
                         {data => {
                             return (
-                                <Bounce cascade>
-                                    <ul>
-                                        {Object.keys(data).map(key => (
-                                            <li key={data[key].id}>
-                                                <span className="a">
-                                                    <a href={"/blog/" + data[key].title.toLowerCase().replace(/ /g, '-')} dataid={data[key].id} title={"Posted: " + data[key].created_at}>
-                                                        {data[key].title}
-                                                    </a>
-                                                </span>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </Bounce>
+                                <ul>
+                                    {Object.keys(data).map(key => (
+                                        <li key={data[key].id}>
+                                            <span className="a">
+                                                <a href={"/blog/" + data[key].title.toLowerCase().replace(/ /g, '-')} dataid={data[key].id} title={"Posted: " + data[key].created_at}>
+                                                    {data[key].title}
+                                                </a>
+                                            </span>
+                                        </li>
+                                    ))}
+                                </ul>
                             )
                         }}
                     </Async.Fulfilled>
@@ -74,17 +71,15 @@ const Footer = () => {
                     <Async.Fulfilled>
                         {data => {
                             return (
-                                <Bounce cascade>
-                                    <ul>
-                                        {Object.keys(data).map(key => (
-                                            <li key={data[key].id}>
-                                                <span className="a">
-                                                    <a href={data[key].url}>{data[key].title}</a>
-                                                </span>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </Bounce>
+                                <ul>
+                                    {Object.keys(data).map(key => (
+                                        <li key={data[key].id}>
+                                            <span className="a">
+                                                <a href={data[key].url}>{data[key].title}</a>
+                                            </span>
+                                        </li>
+                                    ))}
+                                </ul>
                             )
                         }}
                     </Async.Fulfilled>
@@ -104,17 +99,15 @@ const Footer = () => {
                     <Async.Fulfilled>
                         {data => {
                             return (
-                                <Bounce cascade>
-                                    <ul>
-                                        {Object.keys(data).map(key => (
-                                            <li key={data[key].id}>
-                                                <span className="a">
-                                                    <a href={data[key].url}>{data[key].title}</a>
-                                                </span>
-                                            </li>
-                                        ))}
-                                    </ul>
-                                </Bounce>
+                                <ul>
+                                    {Object.keys(data).map(key => (
+                                        <li key={data[key].id}>
+                                            <span className="a">
+                                                <a href={data[key].url}>{data[key].title}</a>
+                                            </span>
+                                        </li>
+                                    ))}
+                                </ul>
                             )
                         }}
                     </Async.Fulfilled>
@@ -128,7 +121,7 @@ const Footer = () => {
                 <img src={meHover} alt="" />
             </div>
             <p className="copy">
-                &copy; Swimmer 2005&thinsp;/&thinsp;{(new Date().getFullYear())} - Version 17.0.7<br />
+                &copy; Swimmer 2005&thinsp;/&thinsp;{(new Date().getFullYear())} - Version 17.1.0<br />
                 &copy; Header Movie from <a href="https://vimeo.com/103849476">https://vimeo.com/103849476</a>
             </p>
         </footer>

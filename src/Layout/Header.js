@@ -17,7 +17,8 @@ const Header = () => {
 					myself Swimmer. My music is mostly ambient, dub and techno, but I'm trying to infuse some ethnic influences and even some psytrance 
 					tryouts.
 				</p>
-				<a href="#album_collectifest" className="button">Check out my albums!</a>
+				<a href="#music" className="button">Check out my albums!</a>
+				<a href="#footer" className="button secondary">Blog & Links</a>
 			</div>
 			</div>
 			<Logo />
