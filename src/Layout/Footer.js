@@ -124,6 +124,27 @@ const Footer = () => {
                 &copy; Swimmer 2005&thinsp;/&thinsp;{(new Date().getFullYear())} - Version 17.1.0<br />
                 &copy; Header Movie from <a href="https://vimeo.com/103849476">https://vimeo.com/103849476</a>
             </p>
+
+            <svg viewBox="0 0 800 290" id="logo" style={{width: '320px'}}>
+                <defs>
+                    <linearGradient id="gradient" x1="0%" y1="0%" x2="100%" y2="0%">
+                        <stop style={{stopColor: '#4c4ecc'}} offset="0" />
+                        <stop style={{stopColor: '#6c6eec'}} offset="0.6" stop-opacity="1">
+                              <animate attributeName="offset" dur="5s" values="0.7;0.4;0.7" repeatCount="indefinite" />
+                        </stop>
+                        <stop style={{stopColor: '#6c6eec'}} offset="1" />
+                    </linearGradient>
+                </defs>
+
+                <path class="s" fill="url(#gradient)" d=" M10,130 a20,20 0 0 1 20,-20 h80 v20 h-60 v10 h60 v50 l-20,20 h-80 v-20 h40 v-20 h-40 z" />
+                <path class="w" fill="url(#gradient)" d="M115,130 a20,20 0 0 1 20,-20 h10 v50 h20 v-30 h5 v-20 h1 v20 h4 v30 h20 v-50 h50 v80 l-20,20 h-110 z" />
+                <path class="i" fill="url(#gradient)" d="M250,130 a20,20 0 0 1 20,-20 h40 v80 l-20,20 h-40 z" />
+                <path class="m" fill="url(#gradient)" d="M315,130 a20,20 0 0 1 20,-20 h110 v80 l-20,20 h-30 v-50 h-20 v30 h-4 v20 h-1 v-20 h-5 v-30 h-20 v50 h-30 z" />
+                <path class="m" fill="url(#gradient)" d="M450,130 a20,20 0 0 1 20,-20 h110 v80 l-20,20 h-30 v-50 h-20 v30 h-4 v20 h-1 v-20 h-5 v-30 h-20 v50 h-30 z" />
+                <path class="e" fill="url(#gradient)" d="M585,130 a20,20 0 0 1 20,-20 h80 v60 h-40 v-30 h20 v-10 h-20 v60 h40 h0 l-20,20 h-80 z" />
+                <path class="r" fill="url(#gradient)" d="M690,130 a20,20 0 0 1 20,-20 h80 v20 h-40 v80 h-60 z" />
+
+            </svg>
         </footer>
     );
 };
