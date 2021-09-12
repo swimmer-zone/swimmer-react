@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from "./Layout/Logo";
+import Logo from './Components/Logo';
 
 const Error = (colors) => {
 	var styles = {

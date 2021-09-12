@@ -55,6 +55,8 @@ const Music = () => {
 			<Slider infinite={false}>
 	      		{Object.keys(albums).map(key => {
 	      			let album = albums[key];
+					let timer;
+
 	      			return(
 						<article key={"album_" + album.title_lower} id={"album_" + album.title_lower}>
 							<div className="cover-wrapper">
@@ -70,8 +72,8 @@ const Music = () => {
 
 								<ul>
 									{Object.keys(album.tracks).map(trackKey => {
-										let timer;
 										let track = album.tracks[trackKey];
+
 										if (state.currentTime && state.currentTrack === track.filename) {
 											timer = <span className="duration">{timeLeft}</span>
 										}
@@ -80,7 +82,8 @@ const Music = () => {
 													data-seconds="{track.playtime_seconds}" 
 													className="duration">{track.playtime_string}</span>
 										}
-										return(
+
+										return (
 											<li key={track.filename}>
 												<span className="a">
 													<button 
@@ -91,7 +94,7 @@ const Music = () => {
 												</span>
 												{timer}
 											</li>
-										)
+										);
 									})}
 								</ul>
 							</div>

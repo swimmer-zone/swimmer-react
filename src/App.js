@@ -12,9 +12,12 @@ import {
 	useParams
 } from "react-router-dom";
 import Async from 'react-async';
+// import Drive from 'google-drive-cms';
 import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
 
 const App = () => {
+	// Drive.getDoc('1UC7Ah...').then(console.log);
+
   	return (
 	    <Router>
 	        <Switch>
@@ -29,7 +32,7 @@ const App = () => {
   	);
 }
 
-function Home() {
+const Home = () => {
     if (false) {
         return (<Error/>);
     }
@@ -42,7 +45,7 @@ function Home() {
   	);
 }
 
-function Blog() {
+const Blog = () => {
 	let match = useRouteMatch();
 
   	return (
@@ -57,7 +60,7 @@ function Blog() {
   	);
 }
 
-function Post() {
+const Post = () => {
   	let { blogId } = useParams();
 
 	const loadBlog = () =>
