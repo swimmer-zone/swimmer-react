@@ -2,7 +2,7 @@ import React from 'react';
 
 const Wave = () => {
     return (
-    	<svg version="1.1" id="wave" viewBox="0 0 1920 600">
+    	<svg version="1.1" id="wave" viewBox="0 0 1920 400">
 	        <path d="M0 167 C 273,283 822,60 1920,206 V 0 H 0 V 167 Z" className="dark">
 	            <animate
 	                repeatCount="indefinite"
