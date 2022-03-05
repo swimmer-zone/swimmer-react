@@ -1,4 +1,5 @@
 import React from 'react';
+import ReactMarkdown from 'react-markdown';
 import Header from './Layout/Header';
 import Music from './Layout/Music';
 import Footer from './Layout/Footer';
@@ -10,14 +11,11 @@ import {
 	Route,
 	useRouteMatch,
 	useParams
-} from "react-router-dom";
+} from 'react-router-dom';
 import Async from 'react-async';
-// import Drive from 'google-drive-cms';
-import SimpleReactLightbox, { SRLWrapper } from "simple-react-lightbox";
+import SimpleReactLightbox, { SRLWrapper } from 'simple-react-lightbox';
 
 const App = () => {
-	// Drive.getDoc('1UC7Ah...').then(console.log);
-
   	return (
 	    <Router>
 	        <Switch>
@@ -64,9 +62,9 @@ const Post = () => {
   	let { blogId } = useParams();
 
 	const loadBlog = () =>
-	    fetch('https://sww.tf/blog/' + blogId)
+	    fetch('../data/blogs/' + blogId + '/README.md')
 	    .then(res => (res.ok ? res : Promise.reject(res)))
-	    .then(res => res.json());
+	    .then(res => res.text());
 
 	const options = {
   		settings: {
@@ -95,11 +93,11 @@ const Post = () => {
                 {blog => {
                     return (
                         <section className="blog">
-                        	<img className="avatar" src={"https://sww.tf/images/blogs/" + blog.id + ".png"} alt="Avatar"/>
+                        	<img className="avatar" src={"../data/blogs/" + blogId + "/avatar.png"} alt="Avatar"/>
 							
 							<SimpleReactLightbox>
 	      						<SRLWrapper options={options}>
-	                        		<div className="article" dangerouslySetInnerHTML={{__html: blog.body}}></div>
+	                        		<div className="article"><ReactMarkdown>{blog}</ReactMarkdown></div>
 	      						</SRLWrapper>
 	      					</SimpleReactLightbox>
                         </section>

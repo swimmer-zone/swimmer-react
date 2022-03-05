@@ -1,0 +1,18 @@
+# Wikipedia
+
+* [Domain Name System](https://en.wikipedia.org/wiki/Domain_Name_System#Circular_dependencies_and_glue_records)
+* [Luhn algorithm](https://en.wikipedia.org/wiki/Luhn_algorithm)
+* [Non-English-based Programming Languages](https://en.wikipedia.org/wiki/Non-English-based_programming_languages)
+* [Timeline of The Far Future](https://en.wikipedia.org/wiki/Timeline_of_the_far_future)
+* [Standard Model](https://en.wikipedia.org/wiki/Standard_Model)
+* [List of Common Misconceptions](https://en.wikipedia.org/wiki/List_of_common_misconceptions)
+* [Eight-circuit Model of Consciousness](https://en.wikipedia.org/wiki/Eight-circuit_model_of_consciousness)
+* [Flying Spaghetti Monster](https://en.wikipedia.org/wiki/Flying_Spaghetti_Monster)
+* [One-electron Universe](https://en.wikipedia.org/wiki/One-electron_universe)
+* [Ship of Theseus](https://en.wikipedia.org/wiki/Ship_of_Theseus)
+* [String Theory](https://en.wikipedia.org/wiki/String_theory)
+* [Amen Break](https://en.wikipedia.org/wiki/Amen_break)
+* [Two Envelopes Problem](https://en.wikipedia.org/wiki/Two_envelope_problem)
+* [Interplanetary Transport Network](https://en.wikipedia.org/wiki/Interplanetary_Transport_Network)
+* [Paris_Night](https://upload.wikimedia.org/wikipedia/commons/e/e6/Paris_Night.jpg)
+* [Six Degrees of Wikipedia](https://www.sixdegreesofwikipedia.com/?source=Names%20of%20large%20numbers&target=Timeline%20of%20the%20far%20future)

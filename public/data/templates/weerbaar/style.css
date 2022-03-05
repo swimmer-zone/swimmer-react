@@ -1,0 +1,23 @@
+body {
+    background-color:#ff9900;
+}
+img {
+    display: inline-block;
+}
+h1 {
+    display: inline-block;
+    color:#ff6600;
+    font-size:29px;
+    font-weight:bold;
+    letter-spacing:4px;
+    font-family:"Helvetica","Verdana",sans-serif;
+}
+label,
+strong {
+    display: inline-block;
+    color:#00ffbb;
+    padding:8px;
+    font-size:14px;
+    width:400px;
+    background-color:#0069b3;
+}

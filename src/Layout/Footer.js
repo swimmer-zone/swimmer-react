@@ -1,112 +1,73 @@
 import React from 'react';
+import ReactMarkdown from 'react-markdown';
 import Async from 'react-async';
 import me from '../me.png';
 import meHover from '../me-hover.png';
-
-const loadBlogs = () =>
-    fetch('https://sww.tf/blogs')
-    .then(res => (res.ok ? res : Promise.reject(res)))
-    .then(res => res.json());
-
-const loadPortfolio = () =>
-    fetch('https://sww.tf/portfolio')
-    .then(res => (res.ok ? res : Promise.reject(res)))
-    .then(res => res.json());
-
-const loadLinks = () =>
-    fetch('https://sww.tf/links')
-    .then(res => (res.ok ? res : Promise.reject(res)))
-    .then(res => res.json());
+import blogs from '../json/blogs.json';
+import links from '../json/links.json';
 
 const Footer = () => {
+    const loadIntro = () =>
+        fetch('../data/README.md')
+        .then(res => (res.ok ? res : Promise.reject(res)))
+        .then(res => res.text());
+
     return (
         <footer id="footer">
             <section className="intro">
-                <h2>Hey guys, I'm Swimmer</h2>
-                <p>
-                    I'm phlegmatic and I'm a Scorpio, both of which relate to water. Above all I like to swim, floating far and away... in the water... 
-                    in the music... and on many other journeys. With my music I like to create such journeys for others to join me, that's why I call 
-                    myself Swimmer. My music is mostly ambient, dub and techno, but I'm trying to infuse some ethnic influences and even some psytrance 
-                    tryouts.
-                </p>
-                <p>
-                    I'm a minimalist; throughout the years everything has shrunk, including my website. 
-                    I'm hosting my tracks myself again, after some issues with the SoundCloud API. You can still find my music there though.
-                    The other half are blog posts, my portfolio and a couple of my favorite resources. 
-                    Please use the social media buttons to contact me about my music, blogs or any web-related topic.
-                </p>
+                <Async promiseFn={loadIntro}>
+                    <Async.Loading>Loading...</Async.Loading>
+                    <Async.Fulfilled>
+                        {intro => {
+                            return (<ReactMarkdown>{intro}</ReactMarkdown>)
+                        }}
+                    </Async.Fulfilled>
+                    <Async.Rejected>
+                        {error => `Something went wrong: ${error.message}`}
+                    </Async.Rejected>
+                </Async>
             </section>
 
             <h2>Blogs</h2>
-            <Async promiseFn={loadBlogs}>
-                <Async.Loading>Loading...</Async.Loading>
-                <Async.Fulfilled>
-                    {data => {
-                        return (
-                            <ul>
-                                {Object.keys(data).map(key => (
-                                    <li key={data[key].id}>
-                                        <span className="a">
-                                            <a href={"/blog/" + data[key].title.toLowerCase().replace(/ /g, '-')} dataid={data[key].id} title={"Posted: " + data[key].created_at}>
-                                                {data[key].title}
-                                            </a>
-                                        </span>
-                                    </li>
-                                ))}
-                            </ul>
-                        )
-                    }}
-                </Async.Fulfilled>
-                <Async.Rejected>
-                    {error => `Something went wrong: ${error.message}`}
-                </Async.Rejected>
-            </Async>
+            <ul>
+                {Object.keys(blogs).map(key => (
+                    <li key={key}>
+                        <span className="a">
+                            <a href={"/blog/" + blogs[key].title.toLowerCase().replace(/ /g, '-')} dataid={key} title={"Posted: " + blogs[key].created_at}>
+                                {blogs[key].title}
+                            </a>
+                        </span>
+                    </li>
+                ))}
+            </ul>
 
             <h2>Portfolio</h2>
-            <Async promiseFn={loadPortfolio}>
-                <Async.Loading>Loading...</Async.Loading>
-                <Async.Fulfilled>
-                    {data => {
+            <ul>
+                {Object.keys(links).map(key => {
+                    if (links[key].is_portfolio === '1') {
                         return (
-                            <ul>
-                                {Object.keys(data).map(key => (
-                                    <li key={data[key].id}>
-                                        <span className="a">
-                                            <a href={data[key].url}>{data[key].title}</a>
-                                        </span>
-                                    </li>
-                                ))}
-                            </ul>
-                        )
-                    }}
-                </Async.Fulfilled>
-                <Async.Rejected>
-                    {error => `Something went wrong: ${error.message}`}
-                </Async.Rejected>
-            </Async>
+                            <li key={key}>
+                                <span className="a">
+                                    <a href={links[key].url}>{links[key].title}</a>
+                                </span>
+                            </li>);
+                    } else return '';
+                })}
+            </ul>
 
             <h2>Links</h2>
-            <Async promiseFn={loadLinks}>
-                <Async.Loading>Loading...</Async.Loading>
-                <Async.Fulfilled>
-                    {data => {
+            <ul>
+                {Object.keys(links).map(key => {
+                    if (links[key].is_portfolio === '0') {
                         return (
-                            <ul>
-                                {Object.keys(data).map(key => (
-                                    <li key={data[key].id}>
-                                        <span className="a">
-                                            <a href={data[key].url}>{data[key].title}</a>
-                                        </span>
-                                    </li>
-                                ))}
-                            </ul>
-                        )
-                    }}
-                </Async.Fulfilled>
-                <Async.Rejected>
-                    {error => `Something went wrong: ${error.message}`}
-                </Async.Rejected>
-            </Async>
+                            <li key={key}>
+                                <span className="a">
+                                    <a href={links[key].url}>{links[key].title}</a>
+                                </span>
+                            </li>);
+                    } else return '';
+                })}
+            </ul>
 			
 			<div className="social footer">
 				<a href="https://www.weprovide.com" title="WeProvide">

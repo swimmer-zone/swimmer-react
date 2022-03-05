@@ -1,0 +1,16 @@
+# xkcd
+
+* [Five Day Forecast](https://xkcd.com/1606/)
+* [Pipelines](https://xkcd.com/1649/)
+* [Fixing Problems](https://xkcd.com/1739/)
+* [Wifi](https://xkcd.com/1785/)
+* [xkcd Phone 5](https://xkcd.com/1809/)
+* [xkcd Phone 6](https://xkcd.com/1889/)
+* [Tinder](https://xkcd.com/1927/)
+* [Approximations](https://xkcd.com/1047/)
+* [Click and Drag](https://xkcd.com/1110/)
+* [Traffic Lights](https://xkcd.com/1116/)
+* [Electoral Precedent](https://xkcd.com/1122/)
+* [Top 5 XKCD Comics Illustrate Programming Questions](http://explainextended.com/2014/07/09/top-5-xkcd-comics-which-can-illustrate-programming-questions/)
+* [Plotting - xkcd-style Graphs](http://mathematica.stackexchange.com/questions/11350/xkcd-style-graphs)
+* [Create xkcd-style Comics with Comix](http://davidwalsh.name/cmx-js)

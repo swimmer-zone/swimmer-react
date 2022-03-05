@@ -1,0 +1,16 @@
+# Photography
+
+* [Incredible Beauty Of Red Hair Around The World](https://www.boredpanda.com/these-beautiful-portraits-show-that-redheads-arent-only-from-ireland-scotland/)
+* [National Geographic Photo Contest](http://m.theatlantic.com/infocus/2011/11/national-geographic-photo-contest-2011/100187/)
+* [One Big Photo](http://onebigphoto.com/)
+* [About Working With Models](http://photo.tutsplus.com/tutorials/shooting/10-things-you-dont-know-about-working-with-models/)
+* [Freaky and Bizarre Animal Mashups](http://psd.tutsplus.com/articles/inspiration/animal-mashups-by-human-descent/)
+* [Unsplash](http://unsplash.com/)
+* [Seyit UYGURo](http://vimeo.com/24709888)
+* [Adventure Is Calling](http://vimeo.com/76820114)
+* [Movie Poster Minimalism](http://weburbanist.com/2011/12/13/movie-poster-minimalism-41-stripped-down-examples/)
+* [Crayon The Grids](http://www.datapointed.net/2014/10/maps-of-street-grids-by-orientation/)
+* [15 Famous Landmarks Zoomed Out](http://www.demilked.com/15-famous-landmarks-zoomed-out/)
+* [3D GIFs Created with a Simple Visual Effect](http://www.mymodernmet.com/profiles/blogs/3d-gifs)
+* [Splashbase](http://www.splashbase.co/)
+* [Words As Images](http://www.webdesignerdepot.com/2013/03/words-as-images/)

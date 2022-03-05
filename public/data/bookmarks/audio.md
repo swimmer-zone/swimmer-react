@@ -1,0 +1,17 @@
+# Audio
+
+* [Every Noise](http://everynoise.com/)
+* [Learning Synths](https://learningsynths.ableton.com/playground)
+* [Sheet music editor](https://www.hacklily.org/)
+* [Bassoon Tracker](https://www.stef.be/bassoontracker/)
+* [Music Theory](http://academic.udayton.edu/tobyrush/theorypages/index.html)
+* [A Soft Murmur](http://asoftmurmur.com/)
+* [Drinkify](http://drinkify.org/)
+* [Auld Lang Syne tab](http://www.soundslice.com/scores/auld-lang-syne/)
+* [Pink Trombone](https://dood.al/pinktrombone/)
+* [Beatport | History of Techno](https://www.beatportal.com/features/beatports-definitive-guide-to-techno/)
+* [Chordify](https://chordify.net/)
+* [Movie Sounds](https://movie-sounds.org/sci-fi-movie-samples/quotes-with-sound-clips-from-the-matrix/page-33)
+* [Vocodes](https://vo.codes/)
+* [Smoothstep](https://smoothstep.io/)
+* [Tutorial](https://alda.io/tutorial/)

@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Slider from 'react-animated-slider';
 import '../Carousel.scss';
+import albums from '../json/albums.json';
 
 function countDown(duration, time) {
     if (!isNaN(time)) {
@@ -13,7 +14,7 @@ function countDown(duration, time) {
 
 const Music = () => {
     const player = useRef(null);
-  	const [ albums, setAlbums ] = useState([]);
+  	// const [ albums, setAlbums ] = useState([]);
     const [ state, setState ] = useState({
         currentTrack: null,
         currentTime: null,
@@ -40,16 +41,6 @@ const Music = () => {
         }
     }, [state.currentTrack]);
 
-  	useEffect(() => {
-    	getAlbums();
-  	}, []);
-
-  	async function getAlbums() {
-    	const response = await fetch('https://sww.tf/tracks');
-    	const albums = await response.json();
-    	setAlbums(albums);
-  	}
-
   	return (
 		<section className="music" id="music">
 			<Slider infinite={false}>
@@ -58,13 +49,13 @@ const Music = () => {
 					let timer;
 
 	      			return(
-						<article key={"album_" + album.title_lower} id={"album_" + album.title_lower}>
+						<article key={"album_" + key} id={"album_" + key}>
 							<div className="cover-wrapper">
-								<img src={album.cover} alt="cover" className="cover" />
+								<img src={"/data/albums/" + album.title.toLowerCase().replace(/ /g, '-') + "/cover.jpg"} alt="cover" className="cover" />
 							</div>
-							<div className="tracklist" data-set={album.title_lower}>
+							<div className="tracklist" data-set={key}>
 
-								<h2 key={album.id}>
+								<h2 key={key}>
 									{album.title}
 								</h2>
 
@@ -73,14 +64,16 @@ const Music = () => {
 								<ul>
 									{Object.keys(album.tracks).map(trackKey => {
 										let track = album.tracks[trackKey];
+										let scName = 'https://feeds.soundcloud.com/stream/' + track.filename + '.mp3';
+										let playTime = Math.floor(track.playtime / 60) + ":" + ("0" + Math.floor(track.playtime % 60)).slice(-2)
 
 										if (state.currentTime && state.currentTrack === track.filename) {
 											timer = <span className="duration">{timeLeft}</span>
 										}
 										else {
 											timer = <span 
-													data-seconds="{track.playtime_seconds}" 
-													className="duration">{track.playtime_string}</span>
+													data-seconds="{track.playtime}" 
+													className="duration">{playTime}</span>
 										}
 
 										return (
@@ -88,7 +81,7 @@ const Music = () => {
 												<span className="a">
 													<button 
 														data-permalink={track.title}
-														onClick={() => setState({currentTrack: track.filename})}>
+														onClick={() => setState({currentTrack: scName})}>
 														{track.title}
 													</button>
 												</span>
