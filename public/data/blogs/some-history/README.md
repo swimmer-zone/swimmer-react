@@ -28,13 +28,13 @@ It's been a while, but with this version I finally got 10.000 visitors!
 
 My students room
 
-![Room 1](https://sww.tf/images/other/kamer.jpg)
-![Room 2](https://sww.tf/images/other/plaatjes.jpg)
+![Room 1](/data/blogs/some-history/images/kamer.jpg)
+![Room 2](/data/blogs/some-history/images/plaatjes.jpg)
 
 Previous logo's
 
-![Logo 1](https://sww.tf/images/other/eerste-bericht.png)
-![Logo 2](https://sww.tf/images/other/logo_full.png)
+![Logo 1](/data/blogs/some-history/images/eerste-bericht.png)
+![Logo 2](/data/blogs/some-history/images/logo_full.png)
 
 <svg version="1.1" xmlns="https://www.w3.org/2000/svg" x="0px" y="0px" width="720px" height="290px" viewBox="0 0 720 290" id="logo">
     <defs>
@@ -81,14 +81,14 @@ Previous logo's
 
 Previous portraits for previous versions of my website
 
-![Me 1](https://sww.tf/images/other/ik_oud.png)
-![Me 2](https://sww.tf/images/other/ik.png)
+![Me 1](/data/blogs/some-history/images/ik_oud.png)
+![Me 2](/data/blogs/some-history/images/ik.png)
 
 An explanatory diagram of the MVC pattern, from a previous version of my website
-![MVC](https://sww.tf/images/other/mvc-pattern.png)
+![MVC](/data/blogs/some-history/images/mvc-pattern.png)
 
 A previous version
-![Screenshot](https://sww.tf/images/other/ss.png)
+![Screenshot](/data/blogs/some-history/images/ss.png)
 
 A visual representation of the structure in one of the previous versions
-![UML](https://sww.tf/images/other/uml.png)
+![UML](/data/blogs/some-history/images/uml.png)

@@ -6,7 +6,7 @@ I always had trouble using `JOINS` in SQL, but the images below and the queries 
 
 ## Cross Join
 
-![Cross Join](https://sww.tf/images/joins/cross_join.png)
+![Cross Join](/data/blogs/sql-joins/images/cross_join.png)
 
 For starters a `CROSS JOIN`, you have to be careful with this `JOIN`, because it results in a [Cartesian product](https://en.wikipedia.org/wiki/Cartesian_product) between the tables. Every record of table_a is linked to every record of table_b. If both tables have 2 records, it results in 4 records, but if table_a has 1.000 records and table_b 10.000 records, it results in 10.000.000 records of which, in most cases, a lot of records are filtered afterwards. The diagram is empty, because essentially there is no relation between the tables.
 
@@ -18,8 +18,8 @@ CROSS JOIN  table_b AS b
 
 ## Left and Right Join
 
-![Left Join](https://sww.tf/images/joins/left_join.png)
-![Right Join](https://sww.tf/images/joins/right_join.png)
+![Left Join](/data/blogs/sql-joins/images/left_join.png)
+![Right Join](/data/blogs/sql-joins/images/right_join.png)
 
 A piece of example code, in which table_a points to a in the image and table_b points to b. This can be used to show replies to a news post. In the example queries I use the `ON` clause. `USING` can be used too. `ON a.id = b.id` becomes `USING (id)`. One condition is that the columns share the same name, in the result set only one id column appears, where there's two in the `ON`. Mostly id of one table matches sub_id in the other, so the use of `USING` is a lot harder.
 
@@ -58,8 +58,8 @@ LEFT JOIN   comments.user_id = user.id;
 
 With the exception of overlapping records
 
-![Left join B-Key Is NULL](https://sww.tf/images/joins/left_outer_join.png)
-![Right join A-Key Is NULL](https://sww.tf/images/joins/right_outer_join.png)
+![Left join B-Key Is NULL](/data/blogs/sql-joins/images/left_outer_join.png)
+![Right join A-Key Is NULL](/data/blogs/sql-joins/images/right_outer_join.png)
 
 This query can be used when you want to match all news posts which don't have any replies, or when the author is anonymous.
 
@@ -81,7 +81,7 @@ WHERE           a.id = NULL;
 
 ## Inner Join
 
-![Inner Join](https://sww.tf/images/joins/inner_join.png)
+![Inner Join](/data/blogs/sql-joins/images/inner_join.png)
 
 This query can be used when you want to match all users who are logged in at least once, if logins are logged in a log table.
 
@@ -94,7 +94,7 @@ INNER JOIN      table_b AS b
 
 ## Outer Join
 
-![Outer Join](https://sww.tf/images/joins/outer_join.png)
+![Outer Join](/data/blogs/sql-joins/images/outer_join.png)
 
 ```sql
 SELECT          *
@@ -107,7 +107,7 @@ FULL OUTER JOIN table_b AS b
 
 With the exception of overlapping records
 
-![Outer join Key Is NULL](https://sww.tf/images/joins/full_outer_join.png)
+![Outer join Key Is NULL](/data/blogs/sql-joins/images/full_outer_join.png)
 
 ```sql
 SELECT          *

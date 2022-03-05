@@ -296,7 +296,7 @@ ${offset 20}${color0}${execi 60 python ~/conkywidgets/twitter.py htimeline5}
 
 ## Example screenshots
 
-![Screenshot 1](https://sww.tf/images/other/conky_1.png)
-![Screenshot 2](https://sww.tf/images/other/conky_2.png)
+![Screenshot 1](/data/blogs/conky/images/conky_1.png)
+![Screenshot 2](/data/blogs/conky/images/conky_2.png)
 
 [Some other examples](https://forums.linuxmint.com/viewtopic.php?f=60&amp;t=30209&amp;p=392703&amp;hilit=conky+sector+11#p392703)

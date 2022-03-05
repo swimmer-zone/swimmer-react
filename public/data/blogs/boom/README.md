@@ -8,7 +8,7 @@ We spent the first night alongside the road in France, just before Bordeaux. The
 
 After Boom 2018, we had a little roadtrip, we went for a citytrip in Porto, where we spent 2 nights in the Garden House hostel and another hostel. Then we went to a nature reserve in Guimaraes, just north of Porto.\nThe 17th night we also spent alongside the road, we were trying to get to Switzerland as fast as possible. As we almost managed to do that, we went for a burger and a beer in Chamonix, at the foot of the Mont Blanc. But the mission was to camp somewhere high in the mountains, so we drove some more, spent a night on a parking space in Locarno and the next day we were on our destination, at an altitude of 2.5 km, nearby Fusio and the Italian border.
 
-[![Panorama Alpen](https://sww.tf/images/other_panorama.jpg)](https://sww.tf/images/other_panorama.jpg)
+[![Panorama Alpen](/data/blogs/boom/images/panorama.jpg)](/data/blogs/boom/images/panorama.jpg)
 
 After this we went more or less straight to home, with a citytrip in Luzern and a night in Jugendhostel am Rotsee.
 

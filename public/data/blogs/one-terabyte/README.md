@@ -6,7 +6,7 @@ My HDD's are ready to be built in, it's unbelievable how hard it is to buy a RAI
 
 To explain the RAID principle, using RAID5 as an example with images from [Gathering of Tweakers](https://gathering.tweakers.net):
 
-![RAID5](https://sww.tf/images/other/raid5.jpg)
+![RAID5](/data/blogs/one-terabyte/images/raid5.jpg)
 
 Assuming there are four disks, every disk has three parts with data and the fourth part contains the checksum of that fourth part of the other three disks. If one of the drives fails, the lost data can be retrieved using the rest of the data and this checksum. Also, the data can be accessed faster. To explain that using the image: If you want to read data from drive B, you can also use 1/3 of the capacity of the grey cell on drive A. It's a small improvement of speed, but with the security being the first priority, it's a nice extra feature.
 

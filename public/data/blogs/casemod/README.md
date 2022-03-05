@@ -12,20 +12,20 @@ The optical drive is a Plextor PX-716AL, with a slot-in mechanism, so I only hav
 
 One week after the Sziget festival, I received a package. It contains an on-button, reset-button and the acrylic panels. I had to do some research to find out how the buttons have to be connected (5 pins: + and - for the LED, a Common, a Normally Open and a Normally Closed pin) and the pin layout of the header on the main board, but in the end this all wasn't a problem. I had to remove the molex connector of the fan controller and solder the connection to the PSU directly on it, here it's also nice to have a modular PSU. I had some trouble with the GPU though, I didn't get any signal on my monitor, but the GPU is a new one and I didn't get any beeps from the main board. I tried my old GPU, but no signal either. I was afraid the main board was broken, that has happened before, but after some searching it became clear that it all was because of a loose memory strip.
 
-[![Casemod](https://sww.tf/images/projects/2009_pc_01.jpg)](https://sww.tf/images/projects/2009_pc_01.jpg)
-[![Casemod](https://sww.tf/images/projects/2009_pc_02.jpg)](https://sww.tf/images/projects/2009_pc_02.jpg)
-[![Casemod](https://sww.tf/images/projects/2009_pc_03.jpg)](https://sww.tf/images/projects/2009_pc_03.jpg)
-[![Casemod](https://sww.tf/images/projects/2009_pc_04.jpg)](https://sww.tf/images/projects/2009_pc_04.jpg)
+[![Casemod](/data/blogs/casemod/images/2009_pc_01.jpg)](/data/blogs/casemod/images/2009_pc_01.jpg)
+[![Casemod](/data/blogs/casemod/images/2009_pc_02.jpg)](/data/blogs/casemod/images/2009_pc_02.jpg)
+[![Casemod](/data/blogs/casemod/images/2009_pc_03.jpg)](/data/blogs/casemod/images/2009_pc_03.jpg)
+[![Casemod](/data/blogs/casemod/images/2009_pc_04.jpg)](/data/blogs/casemod/images/2009_pc_04.jpg)
 
 ## Some other projects
 
-[![Kamer Delfzijl](https://sww.tf/images/projects/2003_delfzijl_01.jpg)](https://sww.tf/images/projects/2003_delfzijl_01.jpg)
-[![Tafeltje](https://sww.tf/images/projects/2006_tafeltje_01.jpg)](https://sww.tf/images/projects/2006_tafeltje_01.jpg)
-[![Kamer Venlo](https://sww.tf/images/projects/2006_venlo_01.jpg)](https://sww.tf/images/projects/2006_venlo_01.jpg)
-[![Audiomeubel](https://sww.tf/images/projects/2009_kastje_01.jpg)](https://sww.tf/images/projects/2009_kastje_01.jpg)
-[![Audiomeubel](https://sww.tf/images/projects/2009_kastje_02.jpg)](https://sww.tf/images/projects/2009_kastje_02.jpg)
-[![Plank](https://sww.tf/images/projects/2009_plank_01.jpg)](https://sww.tf/images/projects/2009_plank_01.jpg)
-[![Tafel](https://sww.tf/images/projects/2009_tafel_01.jpg)](https://sww.tf/images/projects/2009_tafel_01.jpg)
-[![PC](https://sww.tf/images/projects/2012_pc_01.jpg)](https://sww.tf/images/projects/2012_pc_01.jpg)
-[![Bar](https://sww.tf/images/projects/2017_bar_01.jpg)](https://sww.tf/images/projects/2017_bar_01.jpg)
-[![Lounge](https://sww.tf/images/projects/2017_terras_01.jpg)](https://sww.tf/images/projects/2017_terras_01.jpg)
+[![Kamer Delfzijl](/data/blogs/casemod/images/2003_delfzijl_01.jpg)](/data/blogs/casemod/images/2003_delfzijl_01.jpg)
+[![Tafeltje](/data/blogs/casemod/images/2006_tafeltje_01.jpg)](/data/blogs/casemod/images/2006_tafeltje_01.jpg)
+[![Kamer Venlo](/data/blogs/casemod/images/2006_venlo_01.jpg)](/data/blogs/casemod/images/2006_venlo_01.jpg)
+[![Audiomeubel](/data/blogs/casemod/images/2009_kastje_01.jpg)](/data/blogs/casemod/images/2009_kastje_01.jpg)
+[![Audiomeubel](/data/blogs/casemod/images/2009_kastje_02.jpg)](/data/blogs/casemod/images/2009_kastje_02.jpg)
+[![Plank](/data/blogs/casemod/images/2009_plank_01.jpg)](/data/blogs/casemod/images/2009_plank_01.jpg)
+[![Tafel](/data/blogs/casemod/images/2009_tafel_01.jpg)](/data/blogs/casemod/images/2009_tafel_01.jpg)
+[![PC](/data/blogs/casemod/images/2012_pc_01.jpg)](/data/blogs/casemod/images/2012_pc_01.jpg)
+[![Bar](/data/blogs/casemod/images/2017_bar_01.jpg)](/data/blogs/casemod/images/2017_bar_01.jpg)
+[![Lounge](/data/blogs/casemod/images/2017_terras_01.jpg)](/data/blogs/casemod/images/2017_terras_01.jpg)
