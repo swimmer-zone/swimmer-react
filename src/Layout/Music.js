@@ -14,7 +14,6 @@ function countDown(duration, time) {
 
 const Music = () => {
     const player = useRef(null);
-  	// const [ albums, setAlbums ] = useState([]);
     const [ state, setState ] = useState({
         currentTrack: null,
         currentTime: null,
@@ -35,10 +34,6 @@ const Music = () => {
                 currentTrack: prevState.currentTrack
             }));
         });
-
-        return function cleanup() {
-        //    player.current.removeEventListener('timeupdate', () => {});
-        }
     }, [state.currentTrack]);
 
   	return (
@@ -65,9 +60,9 @@ const Music = () => {
 									{Object.keys(album.tracks).map(trackKey => {
 										let track = album.tracks[trackKey];
 										let scName = 'https://feeds.soundcloud.com/stream/' + track.filename + '.mp3';
-										let playTime = Math.floor(track.playtime / 60) + ":" + ("0" + Math.floor(track.playtime % 60)).slice(-2)
+										let playTime = Math.floor(track.playtime / 60) + ":" + ("0" + Math.floor(track.playtime % 60)).slice(-2);
 
-										if (state.currentTime && state.currentTrack === track.filename) {
+										if (state.currentTime && state.currentTrack === scName) {
 											timer = <span className="duration">{timeLeft}</span>
 										}
 										else {

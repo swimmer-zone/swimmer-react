@@ -45,22 +45,14 @@ I expected to be able to travel to London from here, but a reservation is requir
 
 Right after I wrote the previous paragraph, the train to Paris didn't seem to leave anymore today, so I continued my walk through Bruxelles and decided to spend the time I had as useful as possible. I thought I didn't have any choice, but a hostel came across. 30 euros is pretty much too, but I could use the room and decided to leave early in the morning.
 
+### Bruxelles
+
 [![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0677.jpg)](/data/blogs/on-my-way/images/021_100_0677.jpg)
 [![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0678.jpg)](/data/blogs/on-my-way/images/021_100_0678.jpg)
 [![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0680.jpg)](/data/blogs/on-my-way/images/021_100_0680.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0681.jpg)](/data/blogs/on-my-way/images/021_100_0681.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0682.jpg)](/data/blogs/on-my-way/images/021_100_0682.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0683.jpg)](/data/blogs/on-my-way/images/021_100_0683.jpg)
 [![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0686.jpg)](/data/blogs/on-my-way/images/021_100_0686.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0687.jpg)](/data/blogs/on-my-way/images/021_100_0687.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0688.jpg)](/data/blogs/on-my-way/images/021_100_0688.jpg)
 [![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0689.jpg)](/data/blogs/on-my-way/images/021_100_0689.jpg)
 [![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0690.jpg)](/data/blogs/on-my-way/images/021_100_0690.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0692.jpg)](/data/blogs/on-my-way/images/021_100_0692.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0693.jpg)](/data/blogs/on-my-way/images/021_100_0693.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0694.jpg)](/data/blogs/on-my-way/images/021_100_0694.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0695.jpg)](/data/blogs/on-my-way/images/021_100_0695.jpg)
-[![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0696.jpg)](/data/blogs/on-my-way/images/021_100_0696.jpg)
 [![Bruxelles](/data/blogs/on-my-way/images/thumbs/021_100_0697.jpg)](/data/blogs/on-my-way/images/021_100_0697.jpg)
 
 ## France
@@ -75,57 +67,38 @@ It's a shame that I missed a couple of modern buildings, like Tour Montparnasse,
 
 Right now I left to Strasbourg, where I'm writing this story. I don't plan to stay long. After getting some rest this night and maybe visit an internet cafe and walk around a bit, I'm leaving to Basel and maybe Dornach after that, where the Goetheanum is located. Marc inspired me to visit this, he missed it during his journey, so now I'm checking it out, I never heard about it, but it has quite an interesting story.
 
+### Paris
+
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0698.jpg)](/data/blogs/on-my-way/images/031_100_0698.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0700.jpg)](/data/blogs/on-my-way/images/031_100_0700.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0701.jpg)](/data/blogs/on-my-way/images/031_100_0701.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0702.jpg)](/data/blogs/on-my-way/images/031_100_0702.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0705.jpg)](/data/blogs/on-my-way/images/031_100_0705.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0707.jpg)](/data/blogs/on-my-way/images/031_100_0707.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0708.jpg)](/data/blogs/on-my-way/images/031_100_0708.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0709.jpg)](/data/blogs/on-my-way/images/031_100_0709.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0710.jpg)](/data/blogs/on-my-way/images/031_100_0710.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0711.jpg)](/data/blogs/on-my-way/images/031_100_0711.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0712.jpg)](/data/blogs/on-my-way/images/031_100_0712.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0713.jpg)](/data/blogs/on-my-way/images/031_100_0713.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0714.jpg)](/data/blogs/on-my-way/images/031_100_0714.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0715.jpg)](/data/blogs/on-my-way/images/031_100_0715.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0716.jpg)](/data/blogs/on-my-way/images/031_100_0716.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0717.jpg)](/data/blogs/on-my-way/images/031_100_0717.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0718.jpg)](/data/blogs/on-my-way/images/031_100_0718.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0723.jpg)](/data/blogs/on-my-way/images/031_100_0723.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0725.jpg)](/data/blogs/on-my-way/images/031_100_0725.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0726.jpg)](/data/blogs/on-my-way/images/031_100_0726.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0727.jpg)](/data/blogs/on-my-way/images/031_100_0727.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0728.jpg)](/data/blogs/on-my-way/images/031_100_0728.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0729.jpg)](/data/blogs/on-my-way/images/031_100_0729.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0732.jpg)](/data/blogs/on-my-way/images/031_100_0732.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0733.jpg)](/data/blogs/on-my-way/images/031_100_0733.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0735.jpg)](/data/blogs/on-my-way/images/031_100_0735.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0736.jpg)](/data/blogs/on-my-way/images/031_100_0736.jpg)
 [![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0737.jpg)](/data/blogs/on-my-way/images/031_100_0737.jpg)
-[![Paris](/data/blogs/on-my-way/images/thumbs/031_100_0738.jpg)](/data/blogs/on-my-way/images/031_100_0738.jpg)
 
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0742.jpg)](/data/blogs/on-my-way/images/032_100_0742.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0744.jpg)](/data/blogs/on-my-way/images/032_100_0744.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0745.jpg)](/data/blogs/on-my-way/images/032_100_0745.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0747.jpg)](/data/blogs/on-my-way/images/032_100_0747.jpg)
+### Strassbourg
+
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0748.jpg)](/data/blogs/on-my-way/images/032_100_0748.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0749.jpg)](/data/blogs/on-my-way/images/032_100_0749.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0756.jpg)](/data/blogs/on-my-way/images/032_100_0756.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0757.jpg)](/data/blogs/on-my-way/images/032_100_0757.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0758.jpg)](/data/blogs/on-my-way/images/032_100_0758.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0759.jpg)](/data/blogs/on-my-way/images/032_100_0759.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0760.jpg)](/data/blogs/on-my-way/images/032_100_0760.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0761.jpg)](/data/blogs/on-my-way/images/032_100_0761.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0762.jpg)](/data/blogs/on-my-way/images/032_100_0762.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0763.jpg)](/data/blogs/on-my-way/images/032_100_0763.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0764.jpg)](/data/blogs/on-my-way/images/032_100_0764.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0765.jpg)](/data/blogs/on-my-way/images/032_100_0765.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0766.jpg)](/data/blogs/on-my-way/images/032_100_0766.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0767.jpg)](/data/blogs/on-my-way/images/032_100_0767.jpg)
 [![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0768.jpg)](/data/blogs/on-my-way/images/032_100_0768.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0771.jpg)](/data/blogs/on-my-way/images/032_100_0772.jpg)
-[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0772.jpg)](/data/blogs/on-my-way/images/032_100_0698.jpg)
+[![Strassbourg](/data/blogs/on-my-way/images/thumbs/032_100_0772.jpg)](/data/blogs/on-my-way/images/032_100_0772.jpg)
 
 ## Switzerland
 
@@ -141,37 +114,21 @@ While arriving in Zürich, I checked if there was a train to Milan, which has sl
 
 I planned to go to Milan on the way to Rome, but I have to take this route twice, so I think it's not too much effort to do this on the way back. I will arrive at 9:30 in Rome, so I'm pretty certain that I'll get the chance to see a lot of Rome that day.
 
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0773.jpg)](/data/blogs/on-my-way/images/041_100_0773.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0774.jpg)](/data/blogs/on-my-way/images/041_100_0774.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0780.jpg)](/data/blogs/on-my-way/images/041_100_0780.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0781.jpg)](/data/blogs/on-my-way/images/041_100_0781.jpg)
+### Dornach
+
 [![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0782.jpg)](/data/blogs/on-my-way/images/041_100_0782.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0783.jpg)](/data/blogs/on-my-way/images/041_100_0783.jpg)
 [![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0784.jpg)](/data/blogs/on-my-way/images/041_100_0784.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0785.jpg)](/data/blogs/on-my-way/images/041_100_0785.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0786.jpg)](/data/blogs/on-my-way/images/041_100_0786.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0787.jpg)](/data/blogs/on-my-way/images/041_100_0787.jpg)
 [![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0788.jpg)](/data/blogs/on-my-way/images/041_100_0788.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0789.jpg)](/data/blogs/on-my-way/images/041_100_0789.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0790.jpg)](/data/blogs/on-my-way/images/041_100_0790.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0791.jpg)](/data/blogs/on-my-way/images/041_100_0791.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0792.jpg)](/data/blogs/on-my-way/images/041_100_0792.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0793.jpg)](/data/blogs/on-my-way/images/041_100_0793.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0794.jpg)](/data/blogs/on-my-way/images/041_100_0794.jpg)
 [![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0795.jpg)](/data/blogs/on-my-way/images/041_100_0795.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0796.jpg)](/data/blogs/on-my-way/images/041_100_0796.jpg)
 [![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0797.jpg)](/data/blogs/on-my-way/images/041_100_0797.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0798.jpg)](/data/blogs/on-my-way/images/041_100_0798.jpg)
 [![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0800.jpg)](/data/blogs/on-my-way/images/041_100_0800.jpg)
-[![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0801.jpg)](/data/blogs/on-my-way/images/041_100_0801.jpg)
 [![Dornach](/data/blogs/on-my-way/images/thumbs/041_100_0802.jpg)](/data/blogs/on-my-way/images/041_100_0802.jpg)
 
-[![Zürich](/data/blogs/on-my-way/images/thumbs/042_100_0803.jpg)](/data/blogs/on-my-way/images/042_100_0803.jpg)
+### Zürich
+
 [![Zürich](/data/blogs/on-my-way/images/thumbs/042_100_0804.jpg)](/data/blogs/on-my-way/images/042_100_0804.jpg)
-[![Zürich](/data/blogs/on-my-way/images/thumbs/042_100_0805.jpg)](/data/blogs/on-my-way/images/042_100_0805.jpg)
 [![Zürich](/data/blogs/on-my-way/images/thumbs/042_100_0806.jpg)](/data/blogs/on-my-way/images/042_100_0806.jpg)
 [![Zürich](/data/blogs/on-my-way/images/thumbs/042_100_0807.jpg)](/data/blogs/on-my-way/images/042_100_0807.jpg)
-[![Zürich](/data/blogs/on-my-way/images/thumbs/042_100_0808.jpg)](/data/blogs/on-my-way/images/042_100_0808.jpg)
 [![Zürich](/data/blogs/on-my-way/images/thumbs/042_100_0813.jpg)](/data/blogs/on-my-way/images/042_100_0813.jpg)
 
 ## Italy
@@ -237,160 +194,90 @@ Now I'm back in the motel again, I've stayed for 4 hours, it was smaller than I 
 
 Finally I've arrived at the railway station. I find out again and again that it's very hard to place direction signs to important places like stations. I've gotten some directions, but with those I had to walk along the highway without banks or sidewalks. An example is Paris, with its Eiffel Tower: there was a sign, but it was about a hundred metres away from the tower itself, so I could see the top already. Today I'm going to Salzburg, through Verona and Innsbruck, which is actually a detour, I will be sitting in the train for about six hours. In the train a deaf man came by, asking for some money, but gave back a little lantern. A nice little souvenir. This happened to me before in Paris, someone asked for my pink and I was stuck before I knew it, he made me a bracelet, right on the spot. These things are nicer than souvenirs you buy in some store.
 
+### Rome
+
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0816.jpg)](/data/blogs/on-my-way/images/051_100_0816.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0817.jpg)](/data/blogs/on-my-way/images/051_100_0817.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0818.jpg)](/data/blogs/on-my-way/images/051_100_0818.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0819.jpg)](/data/blogs/on-my-way/images/051_100_0819.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0821.jpg)](/data/blogs/on-my-way/images/051_100_0821.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0822.jpg)](/data/blogs/on-my-way/images/051_100_0822.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0823.jpg)](/data/blogs/on-my-way/images/051_100_0823.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0824.jpg)](/data/blogs/on-my-way/images/051_100_0824.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0825.jpg)](/data/blogs/on-my-way/images/051_100_0825.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0826.jpg)](/data/blogs/on-my-way/images/051_100_0826.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0827.jpg)](/data/blogs/on-my-way/images/051_100_0827.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0828.jpg)](/data/blogs/on-my-way/images/051_100_0828.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0829.jpg)](/data/blogs/on-my-way/images/051_100_0829.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0830.jpg)](/data/blogs/on-my-way/images/051_100_0830.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0831.jpg)](/data/blogs/on-my-way/images/051_100_0831.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0832.jpg)](/data/blogs/on-my-way/images/051_100_0832.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0834.jpg)](/data/blogs/on-my-way/images/051_100_0834.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0835.jpg)](/data/blogs/on-my-way/images/051_100_0835.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0836.jpg)](/data/blogs/on-my-way/images/051_100_0836.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0837.jpg)](/data/blogs/on-my-way/images/051_100_0837.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0839.jpg)](/data/blogs/on-my-way/images/051_100_0839.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0840.jpg)](/data/blogs/on-my-way/images/051_100_0840.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0841.jpg)](/data/blogs/on-my-way/images/051_100_0841.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0842.jpg)](/data/blogs/on-my-way/images/051_100_0842.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0843.jpg)](/data/blogs/on-my-way/images/051_100_0843.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0844.jpg)](/data/blogs/on-my-way/images/051_100_0844.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0845.jpg)](/data/blogs/on-my-way/images/051_100_0845.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0846.jpg)](/data/blogs/on-my-way/images/051_100_0846.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0847.jpg)](/data/blogs/on-my-way/images/051_100_0847.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0848.jpg)](/data/blogs/on-my-way/images/051_100_0848.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0849.jpg)](/data/blogs/on-my-way/images/051_100_0849.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0850.jpg)](/data/blogs/on-my-way/images/051_100_0850.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0851.jpg)](/data/blogs/on-my-way/images/051_100_0851.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0852.jpg)](/data/blogs/on-my-way/images/051_100_0852.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0853.jpg)](/data/blogs/on-my-way/images/051_100_0853.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0854.jpg)](/data/blogs/on-my-way/images/051_100_0854.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0856.jpg)](/data/blogs/on-my-way/images/051_100_0856.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0857.jpg)](/data/blogs/on-my-way/images/051_100_0857.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0858.jpg)](/data/blogs/on-my-way/images/051_100_0858.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0859.jpg)](/data/blogs/on-my-way/images/051_100_0859.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0860.jpg)](/data/blogs/on-my-way/images/051_100_0860.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0861.jpg)](/data/blogs/on-my-way/images/051_100_0861.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0862.jpg)](/data/blogs/on-my-way/images/051_100_0862.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0863.jpg)](/data/blogs/on-my-way/images/051_100_0863.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0864.jpg)](/data/blogs/on-my-way/images/051_100_0864.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0865.jpg)](/data/blogs/on-my-way/images/051_100_0865.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0868.jpg)](/data/blogs/on-my-way/images/051_100_0868.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0869.jpg)](/data/blogs/on-my-way/images/051_100_0869.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0870.jpg)](/data/blogs/on-my-way/images/051_100_0870.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0871.jpg)](/data/blogs/on-my-way/images/051_100_0871.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0873.jpg)](/data/blogs/on-my-way/images/051_100_0873.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0874.jpg)](/data/blogs/on-my-way/images/051_100_0874.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0875.jpg)](/data/blogs/on-my-way/images/051_100_0875.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0876.jpg)](/data/blogs/on-my-way/images/051_100_0876.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0877.jpg)](/data/blogs/on-my-way/images/051_100_0877.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0878.jpg)](/data/blogs/on-my-way/images/051_100_0878.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0882.jpg)](/data/blogs/on-my-way/images/051_100_0882.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0883.jpg)](/data/blogs/on-my-way/images/051_100_0883.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0884.jpg)](/data/blogs/on-my-way/images/051_100_0884.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0885.jpg)](/data/blogs/on-my-way/images/051_100_0885.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0886.jpg)](/data/blogs/on-my-way/images/051_100_0886.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0887.jpg)](/data/blogs/on-my-way/images/051_100_0887.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0890.jpg)](/data/blogs/on-my-way/images/051_100_0890.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0891.jpg)](/data/blogs/on-my-way/images/051_100_0891.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0895.jpg)](/data/blogs/on-my-way/images/051_100_0895.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0899.jpg)](/data/blogs/on-my-way/images/051_100_0899.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0900.jpg)](/data/blogs/on-my-way/images/051_100_0900.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0901.jpg)](/data/blogs/on-my-way/images/051_100_0901.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0902.jpg)](/data/blogs/on-my-way/images/051_100_0902.jpg)
 [![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0903.jpg)](/data/blogs/on-my-way/images/051_100_0903.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_100_0904.jpg)](/data/blogs/on-my-way/images/051_100_0904.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_internet_001.jpg)](/data/blogs/on-my-way/images/051_internet_001.jpg)
-[![Rome](/data/blogs/on-my-way/images/thumbs/051_internet_002.jpg)](/data/blogs/on-my-way/images/051_internet_002.jpg)
 
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_100_0929.jpg)](/data/blogs/on-my-way/images/052_100_0929.jpg)
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_100_0930.jpg)](/data/blogs/on-my-way/images/052_100_0930.jpg)
+### Florence
+
 [![Florence](/data/blogs/on-my-way/images/thumbs/052_100_0931.jpg)](/data/blogs/on-my-way/images/052_100_0931.jpg)
-
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_001.jpg)](/data/blogs/on-my-way/images/052_wegwerp_001.jpg)
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_002.jpg)](/data/blogs/on-my-way/images/052_wegwerp_002.jpg)
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_003.jpg)](/data/blogs/on-my-way/images/052_wegwerp_003.jpg)
 [![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_004.jpg)](/data/blogs/on-my-way/images/052_wegwerp_004.jpg)
 [![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_007.jpg)](/data/blogs/on-my-way/images/052_wegwerp_007.jpg)
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_010.jpg)](/data/blogs/on-my-way/images/052_wegwerp_010.jpg)
 [![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_011.jpg)](/data/blogs/on-my-way/images/052_wegwerp_011.jpg)
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_012.jpg)](/data/blogs/on-my-way/images/052_wegwerp_012.jpg)
-[![Florence](/data/blogs/on-my-way/images/thumbs/052_wegwerp_014.jpg)](/data/blogs/on-my-way/images/052_wegwerp_014.jpg)
+
+### Pisa
 
 [![Pisa](/data/blogs/on-my-way/images/thumbs/053_wegwerp_015.jpg)](/data/blogs/on-my-way/images/053_wegwerp_015.jpg)
 [![Pisa](/data/blogs/on-my-way/images/thumbs/053_wegwerp_016.jpg)](/data/blogs/on-my-way/images/053_wegwerp_016.jpg)
 [![Pisa](/data/blogs/on-my-way/images/thumbs/053_wegwerp_018.jpg)](/data/blogs/on-my-way/images/053_wegwerp_018.jpg)
 [![Pisa](/data/blogs/on-my-way/images/thumbs/053_wegwerp_019.jpg)](/data/blogs/on-my-way/images/053_wegwerp_019.jpg)
-[![Pisa](/data/blogs/on-my-way/images/thumbs/053_wegwerp_020.jpg)](/data/blogs/on-my-way/images/053_wegwerp_020.jpg)
+
+### Maranello
 
 [![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_021.jpg)](/data/blogs/on-my-way/images/054_wegwerp_021.jpg)
 [![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_022.jpg)](/data/blogs/on-my-way/images/054_wegwerp_022.jpg)
-[![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_023.jpg)](/data/blogs/on-my-way/images/054_wegwerp_023.jpg)
 [![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_024.jpg)](/data/blogs/on-my-way/images/054_wegwerp_024.jpg)
 [![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_025.jpg)](/data/blogs/on-my-way/images/054_wegwerp_025.jpg)
 [![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_026.jpg)](/data/blogs/on-my-way/images/054_wegwerp_026.jpg)
-[![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_027.jpg)](/data/blogs/on-my-way/images/054_wegwerp_027.jpg)
-[![Maranello](/data/blogs/on-my-way/images/thumbs/054_wegwerp_028.jpg)](/data/blogs/on-my-way/images/054_wegwerp_028.jpg)
+
+### Venice
 
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0933.jpg)](/data/blogs/on-my-way/images/056_100_0933.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0935.jpg)](/data/blogs/on-my-way/images/056_100_0935.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0936.jpg)](/data/blogs/on-my-way/images/056_100_0936.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0937.jpg)](/data/blogs/on-my-way/images/056_100_0937.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0938.jpg)](/data/blogs/on-my-way/images/056_100_0938.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0939.jpg)](/data/blogs/on-my-way/images/056_100_0939.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0940.jpg)](/data/blogs/on-my-way/images/056_100_0940.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0941.jpg)](/data/blogs/on-my-way/images/056_100_0941.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0942.jpg)](/data/blogs/on-my-way/images/056_100_0942.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0943.jpg)](/data/blogs/on-my-way/images/056_100_0943.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0945.jpg)](/data/blogs/on-my-way/images/056_100_0945.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0947.jpg)](/data/blogs/on-my-way/images/056_100_0947.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0948.jpg)](/data/blogs/on-my-way/images/056_100_0948.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0949.jpg)](/data/blogs/on-my-way/images/056_100_0949.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0950.jpg)](/data/blogs/on-my-way/images/056_100_0950.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0951.jpg)](/data/blogs/on-my-way/images/056_100_0951.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0952.jpg)](/data/blogs/on-my-way/images/056_100_0952.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0953.jpg)](/data/blogs/on-my-way/images/056_100_0953.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0954.jpg)](/data/blogs/on-my-way/images/056_100_0954.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0955.jpg)](/data/blogs/on-my-way/images/056_100_0955.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0960.jpg)](/data/blogs/on-my-way/images/056_100_0960.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0961.jpg)](/data/blogs/on-my-way/images/056_100_0961.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0962.jpg)](/data/blogs/on-my-way/images/056_100_0962.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0963.jpg)](/data/blogs/on-my-way/images/056_100_0963.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0964.jpg)](/data/blogs/on-my-way/images/056_100_0964.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0965.jpg)](/data/blogs/on-my-way/images/056_100_0965.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0966.jpg)](/data/blogs/on-my-way/images/056_100_0966.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0967.jpg)](/data/blogs/on-my-way/images/056_100_0967.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0969.jpg)](/data/blogs/on-my-way/images/056_100_0969.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0970.jpg)](/data/blogs/on-my-way/images/056_100_0970.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0971.jpg)](/data/blogs/on-my-way/images/056_100_0971.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0972.jpg)](/data/blogs/on-my-way/images/056_100_0972.jpg)
 [![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0973.jpg)](/data/blogs/on-my-way/images/056_100_0973.jpg)
-[![Venice](/data/blogs/on-my-way/images/thumbs/056_100_0975.jpg)](/data/blogs/on-my-way/images/056_100_0975.jpg)
+
+### The Vatican
 
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0905.jpg)](/data/blogs/on-my-way/images/061_100_0905.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0906.jpg)](/data/blogs/on-my-way/images/061_100_0906.jpg)
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0907.jpg)](/data/blogs/on-my-way/images/061_100_0907.jpg)
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0908.jpg)](/data/blogs/on-my-way/images/061_100_0908.jpg)
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0909.jpg)](/data/blogs/on-my-way/images/061_100_0909.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0910.jpg)](/data/blogs/on-my-way/images/061_100_0910.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0912.jpg)](/data/blogs/on-my-way/images/061_100_0912.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0913.jpg)](/data/blogs/on-my-way/images/061_100_0913.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0914.jpg)](/data/blogs/on-my-way/images/061_100_0914.jpg)
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0915.jpg)](/data/blogs/on-my-way/images/061_100_0915.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0916.jpg)](/data/blogs/on-my-way/images/061_100_0916.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0917.jpg)](/data/blogs/on-my-way/images/061_100_0917.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0918.jpg)](/data/blogs/on-my-way/images/061_100_0918.jpg)
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0919.jpg)](/data/blogs/on-my-way/images/061_100_0919.jpg)
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0920.jpg)](/data/blogs/on-my-way/images/061_100_0920.jpg)
-[![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0926.jpg)](/data/blogs/on-my-way/images/061_100_0926.jpg)
 [![The Vatican](/data/blogs/on-my-way/images/thumbs/061_100_0928.jpg)](/data/blogs/on-my-way/images/061_100_0928.jpg)
 
 ## Austria
@@ -407,55 +294,31 @@ I needed to have a Wiener Schnitzel of local produce, now I'm in Vienna, and als
 
 Tonight I'm catching the train to Belgrade and from there I guess I'll take the train to Skopje. I can't stay long in Belgrade, because if you are in Serbia for more than 24 hours, you have to request a visa. The trip gets a little bit more frightening, now I'm off to Eastern Europe. Especially former Yugoslavia, where there hasn't been a war for a very long time of course, but I guess the ambiance is stil there. But it is all part of the experience and I'm sure it will all be easy.
 
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0977.jpg)](/data/blogs/on-my-way/images/071_100_0977.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0978.jpg)](/data/blogs/on-my-way/images/071_100_0978.jpg)
+### Salzburg
+
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0979.jpg)](/data/blogs/on-my-way/images/071_100_0979.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0981.jpg)](/data/blogs/on-my-way/images/071_100_0981.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0982.jpg)](/data/blogs/on-my-way/images/071_100_0982.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0985.jpg)](/data/blogs/on-my-way/images/071_100_0985.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0986.jpg)](/data/blogs/on-my-way/images/071_100_0986.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0987.jpg)](/data/blogs/on-my-way/images/071_100_0987.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0988.jpg)](/data/blogs/on-my-way/images/071_100_0988.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_0997.jpg)](/data/blogs/on-my-way/images/071_100_0997.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1000.jpg)](/data/blogs/on-my-way/images/071_100_1000.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1001.jpg)](/data/blogs/on-my-way/images/071_100_1001.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1002.jpg)](/data/blogs/on-my-way/images/071_100_1002.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1003.jpg)](/data/blogs/on-my-way/images/071_100_1003.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1004.jpg)](/data/blogs/on-my-way/images/071_100_1004.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1005.jpg)](/data/blogs/on-my-way/images/071_100_1005.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1007.jpg)](/data/blogs/on-my-way/images/071_100_1007.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1008.jpg)](/data/blogs/on-my-way/images/071_100_1008.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1009.jpg)](/data/blogs/on-my-way/images/071_100_1009.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1010.jpg)](/data/blogs/on-my-way/images/071_100_1010.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1011.jpg)](/data/blogs/on-my-way/images/071_100_1011.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1012.jpg)](/data/blogs/on-my-way/images/071_100_1012.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1014.jpg)](/data/blogs/on-my-way/images/071_100_1014.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1015.jpg)](/data/blogs/on-my-way/images/071_100_1015.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1016.jpg)](/data/blogs/on-my-way/images/071_100_1016.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1017.jpg)](/data/blogs/on-my-way/images/071_100_1017.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1018.jpg)](/data/blogs/on-my-way/images/071_100_1018.jpg)
 [![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1019.jpg)](/data/blogs/on-my-way/images/071_100_1019.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1020.jpg)](/data/blogs/on-my-way/images/071_100_1020.jpg)
-[![Salzburg](/data/blogs/on-my-way/images/thumbs/071_100_1021.jpg)](/data/blogs/on-my-way/images/071_100_1021.jpg)
 
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1023.jpg)](/data/blogs/on-my-way/images/072_100_1023.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1024.jpg)](/data/blogs/on-my-way/images/072_100_1024.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1025.jpg)](/data/blogs/on-my-way/images/072_100_1025.jpg)
+### Vienna
+
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1026.jpg)](/data/blogs/on-my-way/images/072_100_1026.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1027.jpg)](/data/blogs/on-my-way/images/072_100_1027.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1028.jpg)](/data/blogs/on-my-way/images/072_100_1028.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1029.jpg)](/data/blogs/on-my-way/images/072_100_1029.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1030.jpg)](/data/blogs/on-my-way/images/072_100_1030.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1032.jpg)](/data/blogs/on-my-way/images/072_100_1032.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1033.jpg)](/data/blogs/on-my-way/images/072_100_1033.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1036.jpg)](/data/blogs/on-my-way/images/072_100_1036.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1041.jpg)](/data/blogs/on-my-way/images/072_100_1041.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1042.jpg)](/data/blogs/on-my-way/images/072_100_1042.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1043.jpg)](/data/blogs/on-my-way/images/072_100_1043.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1044.jpg)](/data/blogs/on-my-way/images/072_100_1044.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1045.jpg)](/data/blogs/on-my-way/images/072_100_1045.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1046.jpg)](/data/blogs/on-my-way/images/072_100_1046.jpg)
-[![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1047.jpg)](/data/blogs/on-my-way/images/072_100_1047.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1058.jpg)](/data/blogs/on-my-way/images/072_100_1058.jpg)
 [![Vienna](/data/blogs/on-my-way/images/thumbs/072_100_1059.jpg)](/data/blogs/on-my-way/images/072_100_1059.jpg)
 
@@ -475,20 +338,15 @@ And so it was, so I took a look inside, in here you can see a bit of wealth that
 
 I've lost my diary, but luckily I have an online backup which is updated regularly, so I'm only missing one or two pages, which were easily rewritten.
 
+### Belgrade
+
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1060.jpg)](/data/blogs/on-my-way/images/081_100_1060.jpg)
-[![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1061.jpg)](/data/blogs/on-my-way/images/081_100_1061.jpg)
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1062.jpg)](/data/blogs/on-my-way/images/081_100_1062.jpg)
-[![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1064.jpg)](/data/blogs/on-my-way/images/081_100_1064.jpg)
-[![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1065.jpg)](/data/blogs/on-my-way/images/081_100_1065.jpg)
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1066.jpg)](/data/blogs/on-my-way/images/081_100_1066.jpg)
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1068.jpg)](/data/blogs/on-my-way/images/081_100_1068.jpg)
-[![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1072.jpg)](/data/blogs/on-my-way/images/081_100_1072.jpg)
-[![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1073.jpg)](/data/blogs/on-my-way/images/081_100_1073.jpg)
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1076.jpg)](/data/blogs/on-my-way/images/081_100_1076.jpg)
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1077.jpg)](/data/blogs/on-my-way/images/081_100_1077.jpg)
-[![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1078.jpg)](/data/blogs/on-my-way/images/081_100_1078.jpg)
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1079.jpg)](/data/blogs/on-my-way/images/081_100_1079.jpg)
-[![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1081.jpg)](/data/blogs/on-my-way/images/081_100_1081.jpg)
 [![Belgrade](/data/blogs/on-my-way/images/thumbs/081_100_1082.jpg)](/data/blogs/on-my-way/images/081_100_1082.jpg)
 
 ## Bulgaria
@@ -499,31 +357,17 @@ While walking to the train, which was in front of me for some time, I met a fell
 
 My plan was to go to Sofia and visit the city, but Thomas went to an abbey, about 50 kilometres south of Sofia and almost on the route Sofia-Thessaloniki. It was nice to visit a village for once, it was named Rila and there was an abbey in the neighbourhood, in the middle of nature and mountains. The hay wagons were still pulled by donkeys and the trains don't seem to go faster than 30 kilometres an hour. The overall mentality is nice and easy-going, it wasn't weird that the bus was long gone when you arrived at the stop right on time. Thomas had studied Polish, so he seemed to find his way with Slavic languages and partly with the Cyrillic alphabet. That way we found our way to the abbey and back to the railway station. I left at the evening from Blagoevgrad and Thessaloniki. Around the border the Bulgarian border police needed to check passports and train tickets, and a little while later again by the Greek border police. So I had a delay of two hours and had to find a place to sleep at 1 o' clock at night.
 
+### Rila
+
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1083.jpg)](/data/blogs/on-my-way/images/091_100_1083.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1084.jpg)](/data/blogs/on-my-way/images/091_100_1084.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1085.jpg)](/data/blogs/on-my-way/images/091_100_1085.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1086.jpg)](/data/blogs/on-my-way/images/091_100_1086.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1087.jpg)](/data/blogs/on-my-way/images/091_100_1087.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1088.jpg)](/data/blogs/on-my-way/images/091_100_1088.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1089.jpg)](/data/blogs/on-my-way/images/091_100_1089.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1090.jpg)](/data/blogs/on-my-way/images/091_100_1090.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1091.jpg)](/data/blogs/on-my-way/images/091_100_1091.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1092.jpg)](/data/blogs/on-my-way/images/091_100_1092.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1093.jpg)](/data/blogs/on-my-way/images/091_100_1093.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1094.jpg)](/data/blogs/on-my-way/images/091_100_1094.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1095.jpg)](/data/blogs/on-my-way/images/091_100_1095.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1096.jpg)](/data/blogs/on-my-way/images/091_100_1096.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1097.jpg)](/data/blogs/on-my-way/images/091_100_1097.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1098.jpg)](/data/blogs/on-my-way/images/091_100_1098.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1099.jpg)](/data/blogs/on-my-way/images/091_100_1099.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1100.jpg)](/data/blogs/on-my-way/images/091_100_1100.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1101.jpg)](/data/blogs/on-my-way/images/091_100_1101.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1102.jpg)](/data/blogs/on-my-way/images/091_100_1102.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1103.jpg)](/data/blogs/on-my-way/images/091_100_1103.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1104.jpg)](/data/blogs/on-my-way/images/091_100_1104.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1107.jpg)](/data/blogs/on-my-way/images/091_100_1107.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1108.jpg)](/data/blogs/on-my-way/images/091_100_1108.jpg)
-[![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1109.jpg)](/data/blogs/on-my-way/images/091_100_1109.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1110.jpg)](/data/blogs/on-my-way/images/091_100_1110.jpg)
 [![Rila](/data/blogs/on-my-way/images/thumbs/091_100_1111.jpg)](/data/blogs/on-my-way/images/091_100_1111.jpg)
 
@@ -547,58 +391,33 @@ This morning I've arrived at the station of Alexandropolis, it's already friday 
 
 Finally the train to Istanbul, this will arrive at 21:30, so I'll need to find a sleeping spot in Istanbul. The train is very slow, but it's quite nice with all windows open and the possibility to put my nose in the wind. I'll also need to get a visa, earlier it seemed like fun to have my passport filled with stamps, but that fun is rapidly falling away.
 
-[![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1112.jpg)](/data/blogs/on-my-way/images/101_100_1112.jpg)
-[![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1113.jpg)](/data/blogs/on-my-way/images/101_100_1113.jpg)
-[![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1114.jpg)](/data/blogs/on-my-way/images/101_100_1114.jpg)
+### Thessaloniki
+
 [![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1115.jpg)](/data/blogs/on-my-way/images/101_100_1115.jpg)
-[![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1116.jpg)](/data/blogs/on-my-way/images/101_100_1116.jpg)
 [![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1117.jpg)](/data/blogs/on-my-way/images/101_100_1117.jpg)
 [![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1118.jpg)](/data/blogs/on-my-way/images/101_100_1118.jpg)
-[![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1119.jpg)](/data/blogs/on-my-way/images/101_100_1119.jpg)
-[![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1120.jpg)](/data/blogs/on-my-way/images/101_100_1120.jpg)
-[![Thessaloniki](/data/blogs/on-my-way/images/thumbs/101_100_1121.jpg)](/data/blogs/on-my-way/images/101_100_1121.jpg)
+
+### Athens
 
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1122.jpg)](/data/blogs/on-my-way/images/102_100_1122.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1123.jpg)](/data/blogs/on-my-way/images/102_100_1123.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1124.jpg)](/data/blogs/on-my-way/images/102_100_1124.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1125.jpg)](/data/blogs/on-my-way/images/102_100_1125.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1126.jpg)](/data/blogs/on-my-way/images/102_100_1126.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1127.jpg)](/data/blogs/on-my-way/images/102_100_1127.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1128.jpg)](/data/blogs/on-my-way/images/102_100_1128.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1129.jpg)](/data/blogs/on-my-way/images/102_100_1129.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1130.jpg)](/data/blogs/on-my-way/images/102_100_1130.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1131.jpg)](/data/blogs/on-my-way/images/102_100_1131.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1132.jpg)](/data/blogs/on-my-way/images/102_100_1132.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1133.jpg)](/data/blogs/on-my-way/images/102_100_1133.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1134.jpg)](/data/blogs/on-my-way/images/102_100_1134.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1135.jpg)](/data/blogs/on-my-way/images/102_100_1135.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1136.jpg)](/data/blogs/on-my-way/images/102_100_1136.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1138.jpg)](/data/blogs/on-my-way/images/102_100_1138.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1139.jpg)](/data/blogs/on-my-way/images/102_100_1139.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1140.jpg)](/data/blogs/on-my-way/images/102_100_1140.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1141.jpg)](/data/blogs/on-my-way/images/102_100_1141.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1142.jpg)](/data/blogs/on-my-way/images/102_100_1142.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1143.jpg)](/data/blogs/on-my-way/images/102_100_1143.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1144.jpg)](/data/blogs/on-my-way/images/102_100_1144.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1145.jpg)](/data/blogs/on-my-way/images/102_100_1145.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1146.jpg)](/data/blogs/on-my-way/images/102_100_1146.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1147.jpg)](/data/blogs/on-my-way/images/102_100_1147.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1148.jpg)](/data/blogs/on-my-way/images/102_100_1148.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1149.jpg)](/data/blogs/on-my-way/images/102_100_1149.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1150.jpg)](/data/blogs/on-my-way/images/102_100_1150.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1151.jpg)](/data/blogs/on-my-way/images/102_100_1151.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1153.jpg)](/data/blogs/on-my-way/images/102_100_1153.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1155.jpg)](/data/blogs/on-my-way/images/102_100_1155.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1156.jpg)](/data/blogs/on-my-way/images/102_100_1156.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1157.jpg)](/data/blogs/on-my-way/images/102_100_1157.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1161.jpg)](/data/blogs/on-my-way/images/102_100_1161.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1162.jpg)](/data/blogs/on-my-way/images/102_100_1162.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1163.jpg)](/data/blogs/on-my-way/images/102_100_1163.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1165.jpg)](/data/blogs/on-my-way/images/102_100_1165.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1166.jpg)](/data/blogs/on-my-way/images/102_100_1166.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1167.jpg)](/data/blogs/on-my-way/images/102_100_1167.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1168.jpg)](/data/blogs/on-my-way/images/102_100_1168.jpg)
-[![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1170.jpg)](/data/blogs/on-my-way/images/102_100_1170.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1171.jpg)](/data/blogs/on-my-way/images/102_100_1171.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1172.jpg)](/data/blogs/on-my-way/images/102_100_1172.jpg)
 [![Athens](/data/blogs/on-my-way/images/thumbs/102_100_1173.jpg)](/data/blogs/on-my-way/images/102_100_1173.jpg)
@@ -625,33 +444,24 @@ The train to Bucharest was supposed to arrive at 17:00, but according to the con
 
 I thought of going to Luxembourg while I was waiting. If I get home, my ticket would be valid for another week, so I guess it wouldn't be a problem to spend a day or two in Luxembourg.
 
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1174.jpg)](/data/blogs/on-my-way/images/111_100_1174.jpg)
+### Istanbul
+
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1175.jpg)](/data/blogs/on-my-way/images/111_100_1175.jpg)
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1176.jpg)](/data/blogs/on-my-way/images/111_100_1176.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1177.jpg)](/data/blogs/on-my-way/images/111_100_1177.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1178.jpg)](/data/blogs/on-my-way/images/111_100_1178.jpg)
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1179.jpg)](/data/blogs/on-my-way/images/111_100_1179.jpg)
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1180.jpg)](/data/blogs/on-my-way/images/111_100_1180.jpg)
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1181.jpg)](/data/blogs/on-my-way/images/111_100_1181.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1182.jpg)](/data/blogs/on-my-way/images/111_100_1182.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1183.jpg)](/data/blogs/on-my-way/images/111_100_1183.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1184.jpg)](/data/blogs/on-my-way/images/111_100_1184.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1185.jpg)](/data/blogs/on-my-way/images/111_100_1185.jpg)
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1186.jpg)](/data/blogs/on-my-way/images/111_100_1186.jpg)
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1187.jpg)](/data/blogs/on-my-way/images/111_100_1187.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1188.jpg)](/data/blogs/on-my-way/images/111_100_1188.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1189.jpg)](/data/blogs/on-my-way/images/111_100_1189.jpg)
 [![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1190.jpg)](/data/blogs/on-my-way/images/111_100_1190.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1191.jpg)](/data/blogs/on-my-way/images/111_100_1191.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1192.jpg)](/data/blogs/on-my-way/images/111_100_1192.jpg)
-[![Istanbul](/data/blogs/on-my-way/images/thumbs/111_100_1193.jpg)](/data/blogs/on-my-way/images/111_100_1193.jpg)
 
 ## Romania
 
 Günther also brought raki, a Turkish drink that looks a lot like ouzo from Greece. And he brought turkish bread and tomatoes, cucumbers and salads. So we invited three girls who appeared to be in that same wagon. Anna from Australia and another Anna and Julie from Denmark. The girls from Denmark were also going to Budapest, so I didn't see much of Bucharest. We spent a couple of minutes outside the station, but the whole city was asleep, so we drank something on the station, waiting for the train. Outside of the station I asked someone where I could find a bar, but the only thing that was still open, was on the station. Nice to know we didn't miss anything here and we're back in the train to Budapest. At first glance we had the same goal: get some coffee, an internet cafe and relaxing in a bathhouse.
 
+### Bucharest
+
 [![Bucharest](/data/blogs/on-my-way/images/thumbs/121_100_1194.jpg)](/data/blogs/on-my-way/images/121_100_1194.jpg)
-[![Bucharest](/data/blogs/on-my-way/images/thumbs/121_100_1199.jpg)](/data/blogs/on-my-way/images/121_100_1199.jpg)
 [![Bucharest](/data/blogs/on-my-way/images/thumbs/121_100_1200.jpg)](/data/blogs/on-my-way/images/121_100_1200.jpg)
 [![Bucharest](/data/blogs/on-my-way/images/thumbs/121_100_1201.jpg)](/data/blogs/on-my-way/images/121_100_1201.jpg)
 [![Bucharest](/data/blogs/on-my-way/images/thumbs/121_100_1202.jpg)](/data/blogs/on-my-way/images/121_100_1202.jpg)
@@ -685,20 +495,14 @@ Again it seems that you have to ask everything a dozen times. I wanted to go to 
 
 Once I got at the station I found out that the train doesn't even leave, so I'll get the next one at 5:30. Again with parts of the route with a bus, the train had technical issues. Damnit, can't they do anything right? **If everything goes well** the train will now arrive at 12:30 in Bratislava. I'm used to a delay of a couple of hours now and normally it wouldn't bother me, but a delay of sixteen hours seemed a bit overdone.
 
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1208.jpg)](/data/blogs/on-my-way/images/131_100_1208.jpg)
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1209.jpg)](/data/blogs/on-my-way/images/131_100_1209.jpg)
+### Budapest
+
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1211.jpg)](/data/blogs/on-my-way/images/131_100_1211.jpg)
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1212.jpg)](/data/blogs/on-my-way/images/131_100_1212.jpg)
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1213.jpg)](/data/blogs/on-my-way/images/131_100_1213.jpg)
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1214.jpg)](/data/blogs/on-my-way/images/131_100_1214.jpg)
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1215.jpg)](/data/blogs/on-my-way/images/131_100_1215.jpg)
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1216.jpg)](/data/blogs/on-my-way/images/131_100_1216.jpg)
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1217.jpg)](/data/blogs/on-my-way/images/131_100_1217.jpg)
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1218.jpg)](/data/blogs/on-my-way/images/131_100_1218.jpg)
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1219.jpg)](/data/blogs/on-my-way/images/131_100_1219.jpg)
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1220.jpg)](/data/blogs/on-my-way/images/131_100_1220.jpg)
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1221.jpg)](/data/blogs/on-my-way/images/131_100_1221.jpg)
-[![Budapest](/data/blogs/on-my-way/images/thumbs/131_100_1222.jpg)](/data/blogs/on-my-way/images/131_100_1222.jpg)
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_internet_001.jpg)](/data/blogs/on-my-way/images/131_internet_001.jpg)
 [![Budapest](/data/blogs/on-my-way/images/thumbs/131_internet_002.jpg)](/data/blogs/on-my-way/images/131_internet_002.jpg)
 
@@ -706,23 +510,16 @@ Once I got at the station I found out that the train doesn't even leave, so I'll
 
 I always thought Bratislava was like a secondary city of Czechoslovakia, but it seemed to be a prosperous and beautifil city with a presidential building that looked a lot like the stronghold on a mountain that I visited, which had a magnificent view, or the White House. From that point of view you could see clearly that on the one side of the Donau was an historical part of the city and on the other side there were a lot of modern buildings. It all was pretty small, so I decided to catch the night train to Prague. But then I saw a train leaving at 18:40, which seemed a lot better, with the sky getting pretty cloudy. It started raining right at the moment I've arrived at the station. Prague is known about its cheap food and drinks and the train will arrive at 23:40, so I think I'll get the chance to see some of the nightlife in Prague.
 
+### Bratislava
+
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1227.jpg)](/data/blogs/on-my-way/images/141_100_1227.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1229.jpg)](/data/blogs/on-my-way/images/141_100_1229.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1230.jpg)](/data/blogs/on-my-way/images/141_100_1230.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1231.jpg)](/data/blogs/on-my-way/images/141_100_1231.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1232.jpg)](/data/blogs/on-my-way/images/141_100_1232.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1233.jpg)](/data/blogs/on-my-way/images/141_100_1233.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1234.jpg)](/data/blogs/on-my-way/images/141_100_1234.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1235.jpg)](/data/blogs/on-my-way/images/141_100_1235.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1236.jpg)](/data/blogs/on-my-way/images/141_100_1236.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1237.jpg)](/data/blogs/on-my-way/images/141_100_1237.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1238.jpg)](/data/blogs/on-my-way/images/141_100_1238.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1239.jpg)](/data/blogs/on-my-way/images/141_100_1239.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1240.jpg)](/data/blogs/on-my-way/images/141_100_1240.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1241.jpg)](/data/blogs/on-my-way/images/141_100_1241.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1242.jpg)](/data/blogs/on-my-way/images/141_100_1242.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1243.jpg)](/data/blogs/on-my-way/images/141_100_1243.jpg)
-[![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1244.jpg)](/data/blogs/on-my-way/images/141_100_1244.jpg)
 [![Bratislava](/data/blogs/on-my-way/images/thumbs/141_100_1245.jpg)](/data/blogs/on-my-way/images/141_100_1245.jpg)
 
 ## Czech Republic
@@ -733,6 +530,8 @@ I was searching for a hostel and walked into a hotel in a small alley, of which 
 
 On my way back I saw some hotels, but there weren't any with less than four stars, so now I'll try to avoid paying for another night outside of home. Now I'm in the train to Frankfurt, which should arrive at 13:00 and I got some sleep in the train to Nürnberg.
 
+### Praha
+
 [![Praha](/data/blogs/on-my-way/images/thumbs/151_100_1247.jpg)](/data/blogs/on-my-way/images/151_100_1247.jpg)
 
 ## Germany
@@ -741,32 +540,20 @@ The train to Frankfurt arrived on time and I took a short look around, but the r
 
 The next train went to Köln and I wanted to find the Dom, this appeared to be right in front of the station, which was a godsend. A very tall and beautiful church in which I spent some time looking around. I only was interested in one thing of Köln, so right after visiting the church, I went straight to the station and arrived at home at around 20:00. I went to the Hema straight away to bring in my throwaway camera's. I lost my USB adapter for SD cards and at the moment I can't do anything with all the pictures. I think I'll post an update at tuesday, when the rest of the photo's will be developed and I guess the new USB stick will have arrived by then.
 
+### Frankfurt
+
 [![Frankfurt](/data/blogs/on-my-way/images/thumbs/161_100_1248.jpg)](/data/blogs/on-my-way/images/161_100_1248.jpg)
-[![Frankfurt](/data/blogs/on-my-way/images/thumbs/161_100_1250.jpg)](/data/blogs/on-my-way/images/161_100_1250.jpg)
 [![Frankfurt](/data/blogs/on-my-way/images/thumbs/161_100_1252.jpg)](/data/blogs/on-my-way/images/161_100_1252.jpg)
 
+### Cologne
+
 [![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1254.jpg)](/data/blogs/on-my-way/images/162_100_1254.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1255.jpg)](/data/blogs/on-my-way/images/162_100_1255.jpg)
 [![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1256.jpg)](/data/blogs/on-my-way/images/162_100_1256.jpg)
 [![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1258.jpg)](/data/blogs/on-my-way/images/162_100_1258.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1259.jpg)](/data/blogs/on-my-way/images/162_100_1259.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1260.jpg)](/data/blogs/on-my-way/images/162_100_1260.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1261.jpg)](/data/blogs/on-my-way/images/162_100_1261.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1262.jpg)](/data/blogs/on-my-way/images/162_100_1262.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1264.jpg)](/data/blogs/on-my-way/images/162_100_1264.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1266.jpg)](/data/blogs/on-my-way/images/162_100_1266.jpg)
 [![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1267.jpg)](/data/blogs/on-my-way/images/162_100_1267.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1269.jpg)](/data/blogs/on-my-way/images/162_100_1269.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1270.jpg)](/data/blogs/on-my-way/images/162_100_1270.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1272.jpg)](/data/blogs/on-my-way/images/162_100_1272.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1274.jpg)](/data/blogs/on-my-way/images/162_100_1274.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1275.jpg)](/data/blogs/on-my-way/images/162_100_1275.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1276.jpg)](/data/blogs/on-my-way/images/162_100_1276.jpg)
 [![Cologne](/data/blogs/on-my-way/images/thumbs/162_100_1277.jpg)](/data/blogs/on-my-way/images/162_100_1277.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/163_100_1278.jpg)](/data/blogs/on-my-way/images/162_100_1278.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/163_100_1279.jpg)](/data/blogs/on-my-way/images/162_100_1279.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/163_100_1280.jpg)](/data/blogs/on-my-way/images/162_100_1280.jpg)
-[![Cologne](/data/blogs/on-my-way/images/thumbs/164_100_1286.jpg)](/data/blogs/on-my-way/images/162_100_1286.jpg)
+[![Cologne](/data/blogs/on-my-way/images/thumbs/163_100_1280.jpg)](/data/blogs/on-my-way/images/163_100_1280.jpg)
+[![Cologne](/data/blogs/on-my-way/images/thumbs/164_100_1286.jpg)](/data/blogs/on-my-way/images/164_100_1286.jpg)
 
 ## Back to The Netherlands
 
@@ -789,33 +576,18 @@ Luxembourg is a nice city with lots of nature. It seems like it has two floors, 
 I had some time left on the station, so I booked all the trains I'm going to use, which tightens my schedule, but I don't want to be in the middle of Warsaw with a fully booked train and a ticket that's expired. I'll get home later than expected and I have to miss the soccer game between The Netherlands and France, but I'm ready with a beer in the train by tonight.
 
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1288.jpg)](/data/blogs/on-my-way/images/171_100_1288.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1289.jpg)](/data/blogs/on-my-way/images/171_100_1289.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1290.jpg)](/data/blogs/on-my-way/images/171_100_1290.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1291.jpg)](/data/blogs/on-my-way/images/171_100_1291.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1292.jpg)](/data/blogs/on-my-way/images/171_100_1292.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1293.jpg)](/data/blogs/on-my-way/images/171_100_1293.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1294.jpg)](/data/blogs/on-my-way/images/171_100_1294.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1295.jpg)](/data/blogs/on-my-way/images/171_100_1295.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1296.jpg)](/data/blogs/on-my-way/images/171_100_1296.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1297.jpg)](/data/blogs/on-my-way/images/171_100_1297.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1298.jpg)](/data/blogs/on-my-way/images/171_100_1298.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1299.jpg)](/data/blogs/on-my-way/images/171_100_1299.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1300.jpg)](/data/blogs/on-my-way/images/171_100_1300.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1301.jpg)](/data/blogs/on-my-way/images/171_100_1301.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1302.jpg)](/data/blogs/on-my-way/images/171_100_1302.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1303.jpg)](/data/blogs/on-my-way/images/171_100_1303.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1304.jpg)](/data/blogs/on-my-way/images/171_100_1304.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1305.jpg)](/data/blogs/on-my-way/images/171_100_1305.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1306.jpg)](/data/blogs/on-my-way/images/171_100_1306.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1307.jpg)](/data/blogs/on-my-way/images/171_100_1307.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1308.jpg)](/data/blogs/on-my-way/images/171_100_1308.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1309.jpg)](/data/blogs/on-my-way/images/171_100_1309.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1310.jpg)](/data/blogs/on-my-way/images/171_100_1310.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1311.jpg)](/data/blogs/on-my-way/images/171_100_1311.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1312.jpg)](/data/blogs/on-my-way/images/171_100_1312.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1313.jpg)](/data/blogs/on-my-way/images/171_100_1313.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1314.jpg)](/data/blogs/on-my-way/images/171_100_1314.jpg)
-[![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1315.jpg)](/data/blogs/on-my-way/images/171_100_1315.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1316.jpg)](/data/blogs/on-my-way/images/171_100_1316.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1317.jpg)](/data/blogs/on-my-way/images/171_100_1317.jpg)
 [![Luxembourg](/data/blogs/on-my-way/images/thumbs/171_100_1318.jpg)](/data/blogs/on-my-way/images/171_100_1318.jpg)
@@ -838,61 +610,38 @@ There were a lot of showcases in which they tried to illustrate the massiveness 
 
 The second camp "Auschwitz-Birkenau" was a lot bigger and a lot more "efficient", a camp for men and a camp for women and children. The barracks seemed like horse stables, furbished with triple bunks, each bed housing four prisoners.
 
-[![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1319.jpg)](/data/blogs/on-my-way/images/181_100_1319.jpg)
+### Warsaw
+
 [![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1320.jpg)](/data/blogs/on-my-way/images/181_100_1320.jpg)
 [![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1321.jpg)](/data/blogs/on-my-way/images/181_100_1321.jpg)
-[![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1322.jpg)](/data/blogs/on-my-way/images/181_100_1322.jpg)
 [![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1323.jpg)](/data/blogs/on-my-way/images/181_100_1323.jpg)
-[![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1324.jpg)](/data/blogs/on-my-way/images/181_100_1324.jpg)
 [![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1325.jpg)](/data/blogs/on-my-way/images/181_100_1325.jpg)
-[![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1326.jpg)](/data/blogs/on-my-way/images/181_100_1326.jpg)
 [![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1327.jpg)](/data/blogs/on-my-way/images/181_100_1327.jpg)
 [![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1328.jpg)](/data/blogs/on-my-way/images/181_100_1328.jpg)
-[![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1329.jpg)](/data/blogs/on-my-way/images/181_100_1329.jpg)
 [![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1330.jpg)](/data/blogs/on-my-way/images/181_100_1330.jpg)
-[![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1331.jpg)](/data/blogs/on-my-way/images/181_100_1331.jpg)
-[![Warsaw](/data/blogs/on-my-way/images/thumbs/181_100_1332.jpg)](/data/blogs/on-my-way/images/181_100_1332.jpg)
 
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1333.jpg)](/data/blogs/on-my-way/images/182_100_1333.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1334.jpg)](/data/blogs/on-my-way/images/182_100_1334.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1335.jpg)](/data/blogs/on-my-way/images/182_100_1335.jpg)
+### Krakow
+
 [![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1336.jpg)](/data/blogs/on-my-way/images/182_100_1336.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1337.jpg)](/data/blogs/on-my-way/images/182_100_1337.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1338.jpg)](/data/blogs/on-my-way/images/182_100_1338.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1339.jpg)](/data/blogs/on-my-way/images/182_100_1339.jpg)
 [![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1340.jpg)](/data/blogs/on-my-way/images/182_100_1340.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1341.jpg)](/data/blogs/on-my-way/images/182_100_1341.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1342.jpg)](/data/blogs/on-my-way/images/182_100_1342.jpg)
 [![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1343.jpg)](/data/blogs/on-my-way/images/182_100_1343.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1344.jpg)](/data/blogs/on-my-way/images/182_100_1344.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1345.jpg)](/data/blogs/on-my-way/images/182_100_1345.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1346.jpg)](/data/blogs/on-my-way/images/182_100_1346.jpg)
 [![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1347.jpg)](/data/blogs/on-my-way/images/182_100_1347.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1348.jpg)](/data/blogs/on-my-way/images/182_100_1348.jpg)
-[![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1349.jpg)](/data/blogs/on-my-way/images/182_100_1349.jpg)
 [![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1350.jpg)](/data/blogs/on-my-way/images/182_100_1350.jpg)
 [![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1351.jpg)](/data/blogs/on-my-way/images/182_100_1351.jpg)
 [![Krakow](/data/blogs/on-my-way/images/thumbs/182_100_1352.jpg)](/data/blogs/on-my-way/images/182_100_1352.jpg)
 
+### Auschwitz
+
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1353.jpg)](/data/blogs/on-my-way/images/183_100_1353.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1354.jpg)](/data/blogs/on-my-way/images/183_100_1354.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1355.jpg)](/data/blogs/on-my-way/images/183_100_1355.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1356.jpg)](/data/blogs/on-my-way/images/183_100_1356.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1357.jpg)](/data/blogs/on-my-way/images/183_100_1357.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1358.jpg)](/data/blogs/on-my-way/images/183_100_1358.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1359.jpg)](/data/blogs/on-my-way/images/183_100_1359.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1360.jpg)](/data/blogs/on-my-way/images/183_100_1360.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1361.jpg)](/data/blogs/on-my-way/images/183_100_1361.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1363.jpg)](/data/blogs/on-my-way/images/183_100_1363.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_100_1364.jpg)](/data/blogs/on-my-way/images/183_100_1364.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_001.jpg)](/data/blogs/on-my-way/images/183_internet_001.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_002.jpg)](/data/blogs/on-my-way/images/183_internet_002.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_003.jpg)](/data/blogs/on-my-way/images/183_internet_003.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_004.jpg)](/data/blogs/on-my-way/images/183_internet_004.jpg)
 [![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_005.jpg)](/data/blogs/on-my-way/images/183_internet_005.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_006.jpg)](/data/blogs/on-my-way/images/183_internet_006.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_007.jpg)](/data/blogs/on-my-way/images/183_internet_007.jpg)
-[![Auschwitz](/data/blogs/on-my-way/images/thumbs/183_internet_008.jpg)](/data/blogs/on-my-way/images/183_internet_008.jpg)
 
 ## TL;DR
 
@@ -936,5 +685,3 @@ Below a list of places I spent the nights:
 * Train Luxembourg - Warsaw
 * Night on the trainstation, Krakow
 * Train Auschwitz - Venlo
-
-![Louvre Paris](/data/blogs/on-my-way/images/panorama_louvre.jpg)
