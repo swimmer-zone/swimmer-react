@@ -92,15 +92,17 @@ const Post = () => {
             <Async.Fulfilled>
                 {blog => {
                     return (
-                        <section className="blog">
-                        	<img className="avatar" src={"../data/blogs/" + blogId + "/avatar.png"} alt="Avatar"/>
-							
-							<SimpleReactLightbox>
-	      						<SRLWrapper options={options}>
-	                        		<div className="article"><ReactMarkdown>{blog}</ReactMarkdown></div>
-	      						</SRLWrapper>
-	      					</SimpleReactLightbox>
-                        </section>
+	                    <>
+	                        <section className="blog">
+	                        	<img className="avatar" src={"../data/blogs/" + blogId + "/avatar.png"} alt="Avatar"/>
+								
+								<SimpleReactLightbox>
+		      						<SRLWrapper options={options}>
+		                        		<div className="article"><ReactMarkdown>{blog}</ReactMarkdown></div>
+		      						</SRLWrapper>
+		      					</SimpleReactLightbox>
+	                        </section>
+	                    </>
                     )
                 }}
             </Async.Fulfilled>

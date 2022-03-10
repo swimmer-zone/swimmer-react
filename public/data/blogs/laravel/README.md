@@ -1,5 +1,7 @@
 # Laravel
 
+**This is a first concept of this post, updates are pending**
+
 ## Table of contents
 
 * [Introduction](#introduction)
