@@ -1,5 +1,5 @@
 import React from 'react';
-import Logo from './Components/Logo';
+import Header from '../Layout/Header';
 
 const Error = (colors) => {
 	var styles = {
@@ -37,12 +37,6 @@ const Error = (colors) => {
 			'top': '32vh',
 			'margin': '0 0 0 40px'
 		},
-		img: {
-			'position': 'absolute',
-			'bottom': '2vh',
-			'right': '2vw',
-			'width': '16vw !important'
-		},
 		a: {
 			'color': colors.code
 		}
@@ -50,10 +44,7 @@ const Error = (colors) => {
 
 	return (
 		<>
-			<header id="menu">
-				<Logo/>
-			</header>
-
+			<Header />
 			<section>
 				<h1 style={styles.h1}>404</h1>
 				<p style={styles.p1}>Not found</p>

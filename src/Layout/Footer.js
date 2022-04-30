@@ -54,6 +54,9 @@ const Footer = () => {
                     } else return '';
                 })}
             </ul>
+            <ul>
+                <li><a href="/whisky">My whisky tastings</a></li>
+            </ul>
 
             <h2>Links</h2>
             <ul>
