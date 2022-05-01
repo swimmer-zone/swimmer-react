@@ -1,12 +1,11 @@
-import { useState } from 'react';
 import { Star } from 'react-feather';
 
-const Rating = ({value}) => {
+const Rating = (props) => {
 	const max = 5;
-  	const percentage = 50;//Math.round((value / max) * 100);
-console.log(value)
+	const value = props.value;
+  	const percentage = Math.round((value / max) * 100);
 
-	return (<div className="stars">
+	return (<div className="stars" title={"Rating: " + value + " / 5"}>
 		{Array.from(Array(max).keys()).map((_, i) => (
 			<Star key={String(i)} className="star" />
 		))}

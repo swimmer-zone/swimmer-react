@@ -1,6 +1,10 @@
 section.whisky {
-	margin-top: 300px;
-	margin-left: 40px;
+	margin-top: 12vh;
+
+	h2 {
+		margin-left: 440px;
+	}
+
 	& > div {
 		display: inline-block;
 		width: 400px;
@@ -8,7 +12,7 @@ section.whisky {
 		vertical-align: top;
 		margin-left: 40px;
 	}
-	a {
+	a.buy {
 		display: block;
 		margin: 10px;
 		padding: 10px;
@@ -57,9 +61,6 @@ section.whisky {
 		}
 	}
 }
-
-
-
 
 // Mobile
 @media screen and (max-width:800px) {

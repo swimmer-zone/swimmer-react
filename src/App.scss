@@ -72,7 +72,7 @@ button:hover {
 // Header.js
 header {
 	color: $black;
-	height: 14vh;
+	height: 10vh;
 
 	#wave {
 	    height: 600px;
@@ -94,7 +94,7 @@ header {
 	#logo,
 	#jack {
 		position: fixed;
-		top: 20px;
+		top: 10px;
 		left: 6vw;
 		width: 400px;
 	    z-index: 1010;
@@ -317,6 +317,8 @@ footer {
 
 // Blog.js
 .blog {
+	margin-top: 12vh;
+
     .avatar {
         color: $black;
         display: inline-block;
@@ -453,6 +455,38 @@ footer {
         p a {
         	text-decoration: underline;
         }
+	}
+}
+
+a.homeButton {
+	font-size: 22px;
+	display: block;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	transition: all .3s linear;
+	z-index: 1;
+	color: #333;
+	padding: 10px;
+	text-decoration: none;
+	backface-visibility: hidden;
+	height: 60px;
+
+	svg {
+		fill: #6c6eec;
+		margin-right: 10px;
+		display: inline-block;
+		vertical-align: middle;
+	}
+	span {
+		display: inline-block;
+		height: 28px;
+		vertical-align: middle;
+	}
+
+	&:hover {
+		transform: scale(1.1);
+		cursor: pointer;
 	}
 }
 
@@ -613,6 +647,10 @@ footer {
 			margin: 2vw;
 			position: relative;
 		}
+	}
+
+	a.homeButton {
+		display: none;
 	}
 }
 

@@ -1,13 +1,13 @@
 import React from 'react';
 import ReactMarkdown from 'react-markdown';
 import {
-	BrowserRouter as Router,
 	Switch,
 	Route,
 	useRouteMatch,
 	useParams
 } from 'react-router-dom';
 import Async from 'react-async';
+import Back from '../Components/Back';
 import SimpleReactLightbox, { SRLWrapper } from 'simple-react-lightbox';
 
 const Blog = () => {
@@ -53,7 +53,7 @@ const Post = () => {
 		}
 	};
 
-	return (
+	return (<>
         <Async promiseFn={loadBlog}>
             <Async.Loading>Loading...</Async.Loading>
             <Async.Fulfilled>
@@ -77,6 +77,7 @@ const Post = () => {
                 {error => `Something went wrong: ${error.message}`}
             </Async.Rejected>
         </Async>
+        		<Back /></>
     );
 }
 
