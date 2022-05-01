@@ -529,13 +529,22 @@ a.homeButton {
 	// Header.js
 	header {
 		.social {
-			width: 200px;
+			width: 160px;
+			right: 24vw;
+
+			a {
+				width: 48px;
+				height: 48px;
+			}
 		}
 		#logo {
 			display: none;
 		}
 		#jack {
 			display: block;
+			top: -20px;
+		    width: 80px;
+		    transform: rotate(90deg);
 		}
 		#wave {
 			top: 0;

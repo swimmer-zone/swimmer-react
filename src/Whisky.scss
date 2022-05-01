@@ -64,4 +64,34 @@ section.whisky {
 
 // Mobile
 @media screen and (max-width:800px) {
+	section.whisky {
+		margin-top: 16vh;
+
+		h2 {
+			margin-left: 20px;
+			margin-top: 80px;
+		}
+
+		& > div {
+			display: inline-block;
+			width: 400px;
+			height: auto;
+			vertical-align: top;
+			margin-left: 40px;
+			margin-top: 40px;
+
+			ul {
+				margin-left: 20px;
+			}
+		}
+
+		& > div:nth-of-type(3n + 1) {
+			margin-top: 0;
+		}
+
+		.map {
+			width: 80vw;
+			height: auto;
+		}
+	}
 }

@@ -10,7 +10,7 @@ const Whisky = () => {
             return (<>
     			<h2>{whisky[key].brand}</h2>
     			<div>
-                	<img src={"../data/whisky/scotland_" + whisky[key].region + ".svg"} alt="" height="300" />
+                	<img src={"../data/whisky/scotland_" + whisky[key].region + ".svg"} alt="" height="300" className="map" />
             	</div>
         		<div>
                 	<h3>Origin</h3>
