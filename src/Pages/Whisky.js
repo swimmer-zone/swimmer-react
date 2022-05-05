@@ -10,7 +10,7 @@ const Whisky = () => {
             return (<>
     			<h2>{whisky[key].brand}</h2>
     			<div>
-                	<img src={"../data/whisky/scotland_" + whisky[key].region + ".svg"} alt="" height="300" className="map" />
+                	<img src={"../data/whisky/" + whisky[key].region + ".svg"} alt="" height="300" className="map" />
             	</div>
         		<div>
                 	<h3>Origin</h3>
@@ -18,8 +18,8 @@ const Whisky = () => {
     				<Rating value={whisky[key].tasting.rating} /><br/>
                 	{whisky[key].tasting.would_buy && <>Would buy again<br /></>}
                 	<ul>
-                		<li>Age: <strong>{whisky[key].age}</strong></li>
-                		<li>Strength: <strong>{whisky[key].strength}</strong></li>
+                		<li>Age: <strong>{whisky[key].age} years</strong></li>
+                		<li>Strength: <strong>{whisky[key].strength} %</strong></li>
                 		{whisky[key].cask_strength && <li>Cask strength</li>}
                 	</ul>
                 	<a href={whisky[key].url} className="buy">Buy</a>
@@ -31,7 +31,7 @@ const Whisky = () => {
                 		<li>Date: <strong>{whisky[key].date_of_tasting}</strong></li>
                 		<li>Flavour: <strong>{whisky[key].tasting.flavour}</strong></li>
                 		<li>Finish: <strong>{whisky[key].tasting.finish}</strong></li>
-                		<li>Glance: <strong>{whisky[key].tasting.glance}</strong></li>
+                		<li>Glance: <strong>{whisky[key].tasting.glance} % oily</strong></li>
                 		<li>Color: <strong>{whisky[key].tasting.color}</strong></li>
                 	</ul>
                 	{whisky[key].notes && <>Other notes: <strong>{whisky[key].notes}</strong></>}
