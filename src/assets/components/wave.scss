@@ -1,0 +1,30 @@
+@import '../_variables.scss';
+
+#wave {
+    height: 600px;
+    position: fixed;
+    top: -50px;
+    left: 0;
+    z-index: 1000;
+    pointer-events: none;
+
+    path {
+        &.light {
+        	fill: $purple;
+    		filter: drop-shadow(8px 8px 4px rgba(0, 0, 0, .2));
+        }
+
+        &.dark {
+        	fill: $purple-dark;
+    		filter: drop-shadow(4px 4px 2px rgba(0, 0, 0, .2));
+        }
+    }
+}
+
+
+@media(max-width: $mobile-breakpoint) {
+	#wave {
+		top: 0;
+		height: 400px;
+	}
+}

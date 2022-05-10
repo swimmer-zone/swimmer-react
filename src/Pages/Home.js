@@ -1,16 +1,26 @@
 import React from 'react';
-import Music from '../Layout/Music';
-import Footer from '../Layout/Footer';
-import Error from '../Pages/Error';
+import { Me, Music, List, ListBlogs, Social, Intro } from '../Components';
+import '../assets/home.scss';
 
 const Home = () => {
-    if (false) {
-        return (<Error/>);
-    }
   	return (
     	<>
       		<Music />
-      		<Footer />
+            <footer id="footer">
+                <Intro />
+                
+                <ListBlogs />
+
+                <List type="Portfolio" />
+                <List type="Links" />
+
+                <Social location="footer" />
+                    
+                <p className="copy">
+                    &copy; Swimmer 2005&thinsp;/&thinsp;{(new Date().getFullYear())} - Version 17.2.0
+                </p>
+                <Me />
+            </footer>
     	</>
   	);
 }

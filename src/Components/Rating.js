@@ -1,4 +1,5 @@
 import { Star } from 'react-feather';
+import '../assets/components/rating.scss';
 
 const Rating = (props) => {
 	const max = 5;

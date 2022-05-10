@@ -1,8 +1,7 @@
 import React from 'react';
-import Rating from '../Components/Rating';
-import Back from '../Components/Back';
-import whisky from '../json/whisky.json';
-import '../Whisky.scss';
+import { Back, Rating } from '../Components';
+import { whisky } from '../json';
+import '../assets/whisky.scss';
 
 const Whisky = () => {
   	return (<section className="whisky">

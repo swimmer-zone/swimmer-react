@@ -1,0 +1,34 @@
+@import '_variables.scss';
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+header {
+	color: $black;
+	height: 10vh;
+}
+
+::-webkit-scrollbar {
+	height: 2px;
+	width: 8px;
+	background: $white;
+}
+::-webkit-scrollbar-thumb {
+	background: $purple;
+  	border: 1px solid $white;
+}
+::-webkit-scrollbar-thumb:window-inactive {
+  	background: $white;
+}
+::-webkit-scrollbar-button {
+	background: $white;
+	border: 0;
+}
+::-webkit-scrollbar-corner,
+::-webkit-scrollbar-track,
+::-webkit-scrollbar-track-piece {
+  	background: $white;
+}

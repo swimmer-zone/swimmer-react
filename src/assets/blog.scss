@@ -1,0 +1,191 @@
+@import '_variables.scss';
+
+.blog {
+	margin-top: 12vh;
+
+    .avatar {
+        color: $black;
+        display: inline-block;
+        vertical-align: top;
+        margin: 8vh 4vw;
+        width: 160px;
+        position: fixed;
+    }
+
+	.article {
+		margin: 0 24vw 40vh 20vw;
+		height: auto !important;
+        display: inline-block;
+        vertical-align: top;
+
+		* {
+			max-width: 40vw;
+		}
+
+		h1,
+		h2,
+		h3 {
+			margin: 8vh 0 4vh 0;
+		}
+
+		p,
+		ul {
+			margin-bottom: 4vh;
+		}
+
+        p,
+        li {
+            & > code {
+      			font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+                background-color: $light;
+                padding: 0 2px;
+                color: $quotes;
+                font-size: 0.8rem;
+                line-height: 1rem;
+                letter-spacing: 2px;
+                text-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+    			box-shadow: 1px 1px 10px 1px rgba(0, 0, 0, 0.05);
+            }
+        }
+
+        blockquote {
+            border-left: 4px solid $light;
+            margin-left: 20px;
+            padding-left: 20px;
+            position: relative;
+
+            &:before {
+                color: $purple;
+                content: "\201D";
+                speak: none;
+                font-style: normal;
+                font-weight: bold;
+                text-transform: none;
+                line-height: 1;
+                font-size: 56px;
+                left: 100%;
+                padding-left: 20px;
+                top: 0;
+                position: absolute;
+            }
+        }
+
+        sourcecode,
+        pre {
+  			font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New', monospace;
+            white-space: pre;
+            background-color: $light;
+            margin: 20px;
+            padding: 20px;
+            display: block;
+            min-width: 80%;
+            max-width: 90%;
+            font-size: 0.8rem;
+            line-height: 1rem;
+            letter-spacing: 2px;
+            position: relative;
+            color: $quotes;
+            overflow-x: auto;
+            text-shadow: 0 2px 2px rgba(0, 0, 0, 0.1);
+			box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.05), 1px 1px 10px 1px rgba(0, 0, 0, 0.05);
+
+            &:after {
+                content: attr(language);
+                display: block;
+                position: absolute;
+                right: 20px;
+                top: 20px;
+                font-size: 1.6rem;
+                color: $white;
+                font-weight: bold;
+                text-transform: uppercase;
+            }
+        }
+
+        table {
+            width: 80%;
+            background-color: $light;
+            margin: 4vh 4vw;
+
+            td {
+                padding: 5px;
+                background-color: $light;
+            }
+        }
+
+        iframe {
+            border: 0;
+            display: block;
+            margin-bottom: 4vh;
+        }
+
+        img {
+            max-width: 600px;
+            margin-bottom: 4vh;
+
+            &:not(.noshade) {
+                box-shadow: 2px 2px 20px 2px rgba(0, 0, 0, 0.2), 1px 1px 10px 1px rgba(0, 0, 0, 0.1);
+            }
+
+            &.small {
+                height: 180px;
+            }
+        }
+
+        table {
+            table-layout: fixed;
+        }
+
+        sup a {
+            color: $purple !important;
+            padding-left: 1px;
+        }
+
+        hr {
+            box-shadow: -6px -6px 0 0 $purple;
+            border: 1px solid $purple;
+            margin: 60px auto 80px;
+            width: 60%;
+        }
+
+        ul li:nth-of-type(10n) {
+            margin-bottom:25px;
+        }
+
+        p a {
+        	text-decoration: underline;
+        }
+	}
+}
+
+
+@media(max-width: $mobile-breakpoint) {
+    .blog {
+        width: 90vw;
+        margin: 2vw;
+        padding: 0;
+
+        .article {
+            width: 90vw;
+            margin: 2vw;
+            padding: 0;
+
+            * {
+                max-width: 90vw;
+            }
+
+            ul {
+                margin-left: 4vw;
+            }
+
+            img.small {
+                height: 30vw;
+            }
+        }
+
+        .avatar {
+            margin: 2vw;
+            position: relative;
+        }
+    }
+}

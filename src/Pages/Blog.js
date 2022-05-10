@@ -7,8 +7,9 @@ import {
 	useParams
 } from 'react-router-dom';
 import Async from 'react-async';
-import Back from '../Components/Back';
+import { Back } from '../Components';
 import SimpleReactLightbox, { SRLWrapper } from 'simple-react-lightbox';
+import '../assets/blog.scss';
 
 const Blog = () => {
 	let match = useRouteMatch();
@@ -77,8 +78,8 @@ const Post = () => {
                 {error => `Something went wrong: ${error.message}`}
             </Async.Rejected>
         </Async>
-        		<Back /></>
-    );
+        <Back />
+    </>);
 }
 
 export default Blog;

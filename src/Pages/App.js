@@ -1,9 +1,7 @@
 import React from 'react';
-import Header from './Layout/Header';
-import Home from './Pages/Home';
-import Blog from './Pages/Blog';
-import Whisky from './Pages/Whisky';
-import './App.scss';
+import { Home, Blog, Whisky } from '../Pages';
+import { Social, Logo, Wave } from '../Components';
+import '../assets/app.scss';
 import {
 	BrowserRouter as Router,
 	Switch,
@@ -13,7 +11,12 @@ import {
 const App = () => {
   	return (
 	    <Router>
-      		<Header />
+			<header>
+				<Wave />
+				<Logo />
+
+	            <Social location="header" />
+			</header>
 	        <Switch>
 	          	<Route path="/blog">
 	            	<Blog />

@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import Slider from 'react-animated-slider';
-import '../Carousel.scss';
-import albums from '../json/albums.json';
+import '../assets/components/music.scss';
+import { albums } from '../json';
 
 function countDown(duration, time) {
     if (!isNaN(time)) {

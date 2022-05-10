@@ -1,4 +1,5 @@
 import React from 'react';
+import '../assets/components/wave.scss';
 
 const Wave = () => {
     return (

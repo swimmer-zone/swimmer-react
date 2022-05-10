@@ -1,0 +1,116 @@
+@import '../_variables.scss';
+
+.social {
+	&.header {
+		position: fixed;
+		top: 20px;
+		right: 6vw;
+		width: 40N0px;
+		display: flex;
+		justify-content: flex-end;
+		flex-wrap: wrap;
+		z-index: 1010;
+	}
+
+	a {
+		position: relative;
+		width: 64px;
+		height: 64px;
+
+		svg {
+			width: 24px;
+			height: 24px;
+			margin: 20px;
+			fill: $white;
+		}
+
+		&::after,
+		&::before {
+			content: "";
+			position: absolute;
+			border: 2px solid $white;
+			z-index: 1020;
+			top: 50%;
+			left: 50%;
+			margin: -30px 0 0 -30px;
+			width: 56px;
+			height: 56px;
+			border-radius: 50%;
+			opacity: 0;
+			pointer-events: none;
+		}
+
+		&:hover::after {
+			animation-name: anim-3, anim-1;
+			animation-duration: 5s, 2s;
+			animation-iteration-count: 1, infinite;
+			animation-timing-function: ease, linear;
+			animation-fill-mode: forwards;
+		}
+
+		&:hover::before {
+			animation-name: anim-3, anim-2;
+			animation-duration: 5s, 2s;
+			animation-iteration-count: 1, infinite;
+			animation-timing-function: ease, linear;
+			animation-fill-mode: forwards;
+		}
+	}
+
+	&.footer svg {
+		fill: $purple;
+	}
+
+	&.footer a::before,
+	&.footer a::after {
+		border-color: $purple;
+		margin-top: -64px;
+	}
+}
+
+@keyframes anim-1 {
+	0% {
+		transform: perspective(1000px) rotate3d(1, 1, 1, 0deg);
+	}
+	100% {
+		transform: perspective(1000px) rotate3d(1, 1, 1, 360deg);
+	}
+}
+
+@keyframes anim-2 {
+	0% {
+		transform: perspective(1000px) rotate3d(1, -1, 1, 0deg);
+	}
+	100% {
+		transform: perspective(1000px) rotate3d(1, -1, 1, 360deg);
+	}
+}
+
+@keyframes anim-3 {
+	0%, 100% {
+		opacity: 0;
+	}
+	25%, 75% {
+		opacity: 0.3;
+	}
+}
+
+
+@media(max-width: $mobile-breakpoint) {
+	.social {
+		&.header {
+			width: 160px;
+			right: 24vw;
+		}
+
+		a {
+			width: 48px;
+			height: 48px;
+
+		    svg {
+				width: 8vw;
+				height: 8vw;
+			}
+		}
+	}
+}

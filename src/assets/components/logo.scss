@@ -1,0 +1,29 @@
+@import '../_variables.scss';
+
+#logo,
+#jack {
+    position: fixed;
+    top: 10px;
+    left: 6vw;
+    width: 400px;
+    z-index: 1010;
+}
+
+#jack {
+    width: 100px;
+    display: none;
+}
+
+
+@media(max-width: $mobile-breakpoint) {
+    #logo {
+        display: none;
+    }
+
+    #jack {
+        display: block;
+        top: -20px;
+        width: 80px;
+        transform: rotate(90deg);
+    }
+}

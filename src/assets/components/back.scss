@@ -1,0 +1,40 @@
+@import '../_variables.scss';
+
+a.homeButton {
+	font-size: 22px;
+	display: block;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	transition: all .3s linear;
+	z-index: 1;
+	color: #333;
+	padding: 10px;
+	text-decoration: none;
+	backface-visibility: hidden;
+	height: 60px;
+
+	svg {
+		fill: #6c6eec;
+		margin-right: 10px;
+		display: inline-block;
+		vertical-align: middle;
+	}
+	span {
+		display: inline-block;
+		height: 28px;
+		vertical-align: middle;
+	}
+
+	&:hover {
+		transform: scale(1.1);
+		cursor: pointer;
+	}
+}
+
+
+@media(max-width: $mobile-breakpoint) {
+	a.homeButton {
+		display: none;
+	}
+}

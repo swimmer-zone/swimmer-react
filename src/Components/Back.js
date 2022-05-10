@@ -1,4 +1,5 @@
 import React from 'react';
+import '../assets/components/back.scss';
 
 const Back = () => {
     return (<>

@@ -1,0 +1,123 @@
+@import '_variables.scss';
+
+body,
+button {
+	font-family: 'Indie Flower';
+	overflow-x: hidden;
+	font-size: 1rem;
+}
+
+html {
+	font-size: 18px;
+}
+
+body {
+	margin: 0;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+	color: $black;
+}
+
+h1 {
+	font-size: 4rem;
+	color: $purple;
+}
+
+h2 {
+	font-size: 2rem;
+	color: $purple;
+	margin-bottom: 2vh;
+}
+
+ul,
+ol {
+	margin-left: 2vw;
+}
+
+#root {
+	& > header,
+	& > section,
+	& > footer {
+		width: 100vw;
+	    box-sizing: border-box;
+	}
+
+	& > section {
+		height: 100vh;
+	}
+
+	& > footer {
+		height: 120vh;
+	}
+}
+
+a,
+button {
+	color: $black;
+	text-decoration: none;
+	transition: all 0.5s ease-in-out;
+
+	&:hover {
+		color: $code;
+		transition: all 0.5s ease-in-out;
+	}
+}
+
+footer {
+	padding: 4vh 4vw 0 4vw;
+
+    ul {
+        width: 50vw;
+        list-style: none;
+		display: flex;
+		flex-wrap: wrap;
+		margin: 4vh 0 8vh 2vw;
+
+	    li {
+	        color: $purple;
+	        line-height: 30px;
+			margin: 0 12px;
+	    }
+    }
+
+    .copy {
+    	margin-top: 4vh;
+    }
+}
+
+
+@media(max-width: $mobile-breakpoint) {
+	h1 {
+		font-size: 2rem;
+		max-width: 80vw;
+	}
+	
+	h2 {
+		font-size: 1.5rem;
+		margin-bottom: 1vh;
+		margin-top: 0;
+		padding-top: 0;
+	}
+
+	footer {
+		padding: 1vh 1vw;
+
+		h2 {
+			padding-left: 1vw;
+		}
+
+	    ul {
+			margin-left: 2vw;
+			font-size: 0.7rem;
+			width: 90vw;
+		}
+
+	    .copy {
+	    	margin-top: 4vh;
+	    }
+	}
+
+	#root > footer {
+		height: 160vh;
+	}
+}
