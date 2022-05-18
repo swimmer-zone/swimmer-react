@@ -1,7 +1,6 @@
 import React from 'react';
 import Async from 'react-async';
 import ReactMarkdown from 'react-markdown';
-import { links } from '../json';
 import '../assets/components/intro.scss';
 
 const Intro = () => {
