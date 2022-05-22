@@ -1,6 +1,5 @@
 import React from 'react';
 import { blogs } from '../json';
-import '../assets/components/list.scss';
 
 const ListBlogs = () => {
 	return (<>

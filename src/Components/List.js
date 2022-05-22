@@ -1,6 +1,5 @@
 import React from 'react';
 import { links } from '../json';
-import '../assets/components/list.scss';
 
 const List = (props) => {
 	let typeId = '0';
