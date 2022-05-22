@@ -17,7 +17,7 @@ const Home = () => {
                 <Social location="footer" />
                     
                 <p className="copy">
-                    &copy; Swimmer 2005&thinsp;/&thinsp;{(new Date().getFullYear())} - Version 17.2.0
+                    &copy; Swimmer 2005&thinsp;/&thinsp;{(new Date().getFullYear())} - Version 18.1.0
                 </p>
                 <Me />
             </footer>
