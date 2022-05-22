@@ -1,5 +1,5 @@
 import React, { useState, useEffect, useRef } from 'react';
-import Slider from 'react-animated-slider';
+import Slider from './Slider';
 import '../assets/components/music.scss';
 import { albums } from '../json';
 
