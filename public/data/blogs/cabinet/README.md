@@ -121,6 +121,13 @@ For Ableton Live there is a Max4Live plugin to control the Arduino, I'm not sure
 * 20x [JST-SM 3p Compatible Extension Cable - 100cm](https://www.tinytronics.nl/shop/en/lighting/led-strips/accessories/jst-sm-3p-compatible-extension-cable-100cm) € 2,50
 * 1x [ESP8266 WiFi Module ESP-01 1MB](https://www.tinytronics.nl/shop/en/communication-and-signals/wireless/wi-fi/modules/esp8266-wifi-module-esp-01-1mb) € 5,00
 
+
+*1x [Segment Display - 1 Character - Red](https://www.tinytronics.nl/shop/en/displays/segments/segment-display-1-character-red
+*1x [LCD Display 16*2 characters with white text and blue backlight](https://www.tinytronics.nl/shop/en/displays/lcd/lcd-display-16*2-characters-with-white-text-and-blue-backlight
+
+[](https://docs.arduino.cc/learn/electronics/lcd-displays)
+[](https://www.google.com/search?q=connect%20object%20sensor%20arduino#kpvalbx=_Mmb6YZ7dHMqwkwXBn7ngAg36)
+
 **Totals: € 891,38**
 
 
@@ -135,6 +142,7 @@ For Ableton Live there is a Max4Live plugin to control the Arduino, I'm not sure
 * Connect all to the Arduino and the power supply - determine how many power supplies are needed.
 * Include programming for the IR-sensor and the remote
 * Include programming for the object detection
+* [Tutorial for LCD usage](https://docs.arduino.cc/learn/electronics/lcd-displays)
 
 
 
