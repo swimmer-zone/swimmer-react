@@ -74,7 +74,13 @@ We stayed in Ho Chi Minh for 2 nights, got a hotel in District 1 which is more o
 
 ## Nha Trang
 
-After the second night in Ho Chi Minh we had to wake up early to take the train to Nhà Tráng at 6am. There we also walked around for a bit, got a speedboat ferry to the island at the island there was an amusement park and a swimming paradise. Wouldn't have been my first choice, but the sky wheel was very nice, it offered a nice view over the skyline of Nhà Tráng. The second day we rented a scooter for the first time, which was way too scary in Hanoi or Ho Chi Minh, we climbed a mountain with the scooter and climbed the other half to the lookout point, where we enjoyed the view of the other side of town. The third day I went for a dive at the other side of that island and in the evening we took off to Da Nang.
+After the second night in Ho Chi Minh we had to wake up early to take the train to Nhà Tráng at 6am. We enjoyed our first bowl of [pho](https://www.phopalace.menu/product-category/pho/) there, we also walked around for a bit, got a speedboat ferry to the island at the island there was an amusement park and a swimming paradise. Wouldn't have been my first choice, but the sky wheel was very nice, it offered a nice view over the skyline of Nhà Tráng. The second day we rented a scooter for the first time, which was way too scary in Hanoi or Ho Chi Minh, we climbed a mountain with the scooter and climbed the other half to the lookout point, where we enjoyed the view of the other side of town. 
+
+On the first day someone tried to sell us something on the streets, it was a tour of a couple of hours including a mountain and waterfalls, maybe some swimming, but also making our own rice paper and having a good meal with those. It's a custom to put dry rice paper on the tabel, so you could roll your own spring roll. When dipping in soy sauce or some other watery sauce, the rice paper became soft.
+
+They sell a lot on the streets, often sunglasses. I got some sandals on a market and got a Vietnamese cap for free. Another guy on the beach tried to sell us [silk paintings](https://www.google.com/search?q=Vietnamese+painting&prmd=isvn&source=lnms&tbm=isch&sa=X&ved=2ahUKEwix1Nr03I77AhWvplYBHQ6uALsQ_AUoAXoECAIQAQ&biw=393&bih=720&dpr=2.75#imgrc=vhI7Z-amq2zJvM&imgdii=ENUZC1fkigDVOM) which were beautiful, but unfortunately a bit of a drag to haul around for 3 weeks.
+
+Unfortunately we didn't make it to the tour on the second day due to sickness and the plan was to leave to Da Nang on the third day, the evening after I went for a dive at the other side of that island.
 
 [![Nha Trang](/data/blogs/vietnam/images/thumbs/03_nha-trang_01.jpg)](/data/blogs/vietnam/images/03_nha-trang_01.jpg)
 [![Nha Trang](/data/blogs/vietnam/images/thumbs/03_nha-trang_02.jpg)](/data/blogs/vietnam/images/03_nha-trang_02.jpg)
@@ -340,7 +346,9 @@ The sleeper train arrived at 3am, so we spent the rest of the night in a hotel. 
 
 ## Ha Giang
 
-...
+We went to the far north of Vietnam to do the [Ha Giang loop tour](https://vietnam.travel/things-to-do/ha-giang-loop-four-day-road-trip), it is a route of around 450 kilometers in total. Usually people do that on a bike or they choose to be driven by a guide (an easy rider). We also chose to be driven, but in our case we chose a car. I don't really like to be on the back of a bike, I'd rather drive myself, but I'm not really comfortable driving a non-automatic bike. This choice was quite fortunate, because the second day it was really foggy and rainy. With a view of around 5 meters it's quite scary drive alongside cliffs. We were in a group with 3 others, who chose to go by bike.
+
+It was a really nice tour, in total it took 3 days, including meals and spending nights in home stays. In the home stays we met other people who also did the tour, we did a lot of karaoke, drank 'happy water' which is called rượu Vietnam, had great meals like we didn't have before and spent time between the locals. It was like being really submerged in the culture. I'm glad we started in the south and went up north, because everything became increasingly beautiful.
 
 [![Ha Giang](/data/blogs/vietnam/images/thumbs/12_ha-giang_001.jpg)](/data/blogs/vietnam/images/12_ha-giang_001.jpg)
 [![Ha Giang](/data/blogs/vietnam/images/thumbs/12_ha-giang_002.jpg)](/data/blogs/vietnam/images/12_ha-giang_002.jpg)
