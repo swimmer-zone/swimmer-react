@@ -24,7 +24,9 @@
 
 ## Hanoi
 
-At Saturday morning we arrived in Hanoi after making a quick stop in Taipei, I hoped to see the 101 tower but no such luck. I thought Thailand was a culture shock with the traffic, but Hanoi was utter chaos, cars and scooters everywhere. The sidewalk was a parking space for scooters and sometimes even cars, so pedestrians also use the road. When manouvring the sidewalks you could end up in the middle of a terrace or even a dishwashing tray, the people live on the streets in front of their home. After one night in Hanoi we took the plane to Ho Chi Minh and then travel up north and visit Hanoi once more at the end. The first food experience was a nightmare, I ordered fried beef and vegetables and got cows intestines, I guess you could also see that as fried beef. It's pretty hard to find a good meal here, they eat absolutely anything. Nothing like Thailand, where anything you could order would taste good. Next stop is Nhà Tráng, a city at the beach, an 8 hour train ride which is an attraction in itself.
+At Saturday morning we arrived in Hanoi after making a quick stop in Taipei, I hoped to see the 101 tower but no such luck. I thought Thailand was a culture shock with the traffic, but Hanoi was utter chaos, cars and scooters everywhere. The sidewalk was a parking space for scooters and sometimes even cars, so pedestrians also use the road. When manouvring the sidewalks you could end up in the middle of a terrace or even a dishwashing tray, the people live on the streets in front of their home. There is a lot of [honking](https://tuoitrenews.vn/news/audio/20140414/vietnamese%E2%80%99s-bad-habits-honking-horns-in-saigon/25383.html#:~:text=To%20me%2C%20honking%20a%20horn,as%20you%20pass%20an%20acquaintance) going on during the day, usually this is quite annoying but with the sharp corners in the mountains you're glad that you can count on people honking before they pass by.
+
+After one night in Hanoi we took the plane to Ho Chi Minh and then travel up north and visit Hanoi once more at the end. The first food experience was a nightmare, I ordered fried beef and vegetables and got cows intestines, I guess you could also see that as fried beef. It's pretty hard to find a good meal here, they eat absolutely anything. Nothing like Thailand, where anything you could order would taste good. Next stop is Nhà Tráng, a city at the beach, an 8 hour train ride which is an attraction in itself.
 
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_01.jpg)](/data/blogs/vietnam/images/01_hanoi_01.jpg)
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_02.jpg)](/data/blogs/vietnam/images/01_hanoi_02.jpg)
@@ -116,7 +118,7 @@ Unfortunately we didn't make it to the tour on the second day due to sickness an
 
 ## Da Nang & Hoi An
 
-Da Nang was similar to Nhà Tráng (although much less like a resort) so we combined it with a scooter trip to Hoi An, which is an old town. Everything was preserved because of Unesco world heritage. We took a boat tour there and it was very nice to see. I felt the Vietnam vibe here more than before, I think it would have been even more beautiful at night with the many lanterns hanging everywhere. The next day we went to marble mountains. The five mountains are named after the five elements: Kim (metal), Thuy (water), Moc (wood), Hoa (fire) and Tho (earth). From above they would resemble a hand. All of the mountains have cave entrances and numerous tunnels. Several Buddhist sanctuaries can be found there.
+Da Nang was similar to Nhà Tráng (although much less like a resort) so we combined it with a scooter trip to Hoi An, which is an old town. Everything was preserved because of Unesco world heritage. We took a boat tour there and it was very nice to see. I felt the Vietnam vibe here more than before, I think it would have been even more beautiful at night with the many lanterns hanging everywhere. The next day we went to [marble mountains](https://en.m.wikipedia.org/wiki/Marble_Mountains_(Vietnam)). The five mountains are named after the five elements: Kim (metal), Thuy (water), Moc (wood), Hoa (fire) and Tho (earth). From above they would resemble a hand. All of the mountains have cave entrances and numerous tunnels. Several Buddhist sanctuaries can be found there.
 
 [![Da Nang](/data/blogs/vietnam/images/thumbs/04_da-nang_01.jpg)](/data/blogs/vietnam/images/04_da-nang_01.jpg)
 [![Da Nang](/data/blogs/vietnam/images/thumbs/04_da-nang_02.jpg)](/data/blogs/vietnam/images/04_da-nang_02.jpg)
@@ -299,7 +301,9 @@ We didn't really had anything planned for Dong Hoi, but we needed to go there to
 
 ## Ninh Binh
 
-The sleeper train arrived at 3am, so we spent the rest of the night in a hotel. Ninh Binh was recommended for the scenery, but it couldn't compete with Phòng Nhà, so at the end of the day we took the bus to Ha Long Bay.
+The sleeper train arrived at 3am, so we spent the rest of the night in a hotel. Ninh Binh was recommended for the scenery, but it couldn't compete with Phòng Nhà. Something that is worth mentioning however, is that we rented a scooter to explore and we ordered a coffee half way. We were given a [Vietnamese coffee](https://www.cremashop.eu/en/shop-by-brand/trung-nguyen) with a [tiny filter](https://www.tokogembira.nl/nl/trung-nguyen-vietnamese-koffiefilter.html). She said she could have given us ready made coffee, but she gave us this so we could enjoy the scenery while waiting. 
+
+At the end of our road trip it started raining, at a certain point we were soaking wet and it wouldn't stop raining, so at the end of the day we took the bus to Ha Long Bay.
 
 [![Ninh Binh](/data/blogs/vietnam/images/thumbs/09_ninh-binh_01.jpg)](/data/blogs/vietnam/images/09_ninh-binh_01.jpg)
 [![Ninh Binh](/data/blogs/vietnam/images/thumbs/09_ninh-binh_02.jpg)](/data/blogs/vietnam/images/09_ninh-binh_02.jpg)
@@ -318,14 +322,56 @@ The sleeper train arrived at 3am, so we spent the rest of the night in a hotel. 
 
 ## Ha Long Bay
 
-...
+In Ha Long Bay we booked a 5-star hotel which was on a hilltop, it had a lot of facilities and offered a nice view over the city and the bay. Also there was an all you can eat breakfast so we made good use of that. It was also the busiest hotel so far, which was quite nice. Most of the hotels we booked were empty, still suffering from the consequences of COVID-19.
+
+The second day we booked a cruise through the bay, which is more or less a must when you go to Ha Long. We were the only 2 on the boat, so it was more or less a private cruise. We walked through another cave and we also rented a canoe to be able to see yet another cave.
 
 [![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_01.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_01.jpg)
-- 39
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_02.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_02.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_03.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_03.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_04.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_04.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_05.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_05.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_06.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_06.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_07.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_07.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_08.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_08.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_09.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_09.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_10.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_10.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_11.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_11.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_12.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_12.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_13.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_13.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_14.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_14.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_15.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_15.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_16.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_16.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_17.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_17.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_18.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_18.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_19.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_19.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_20.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_20.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_21.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_21.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_22.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_22.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_23.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_23.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_24.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_24.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_25.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_25.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_26.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_26.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_27.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_27.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_28.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_28.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_29.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_29.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_30.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_30.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_31.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_31.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_32.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_32.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_33.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_33.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_34.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_34.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_35.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_35.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_36.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_36.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_37.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_37.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_38.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_38.jpg)
+[![Ha Long Bay](/data/blogs/vietnam/images/thumbs/10_ha-long-bay_39.jpg)](/data/blogs/vietnam/images/10_ha-long-bay_39.jpg)
+
 
 ## Back in Hanoi
 
-...
+The first time we were in Hanoi we missed the [train street](https://www.tripadvisor.com/Attraction_Review-g293924-d15190048-Reviews-Train_Street-Hanoi.html), although in hindsight we noticed that our hotel was just one street away. This time around we booked a hotel in the same area, we wanted to be in the old town again and old town Hanoi isn't too big. When we went to our room and sat down on the balcony, we noticed a train passing by, so we booked a hotel next to train street by accident.
+
+At first it was a happy accident, but every 30 minutes a train came passing by. Because people are living on train street and use the tracks as their terrace, the train always passes by with a lot of loud honking to notice the people that they have to move their stuff inside. This left us with not a lot of sleep.
 
 [![Hanoi](/data/blogs/vietnam/images/thumbs/11_hanoi_01.jpg)](/data/blogs/vietnam/images/11_hanoi_01.jpg)
 [![Hanoi](/data/blogs/vietnam/images/thumbs/11_hanoi_02.jpg)](/data/blogs/vietnam/images/11_hanoi_02.jpg)
@@ -503,7 +549,7 @@ It was a really nice tour, in total it took 3 days, including meals and spending
 
 ## Back in Hanoi again
 
-...
+We had to go back to Hanoi again, because our plane left from Hanoi airport. This time we decided to go to a hotel in a newer part of town, it was a 5-star hotel but it had absolutely no facilities and it was empty, I don't have a clue why this hotel ever got 5 stars. There wasn't anything going on in the neighbourhood either, so we decided to get up early and go back to the old town again to explore some more and to get some souvenirs on the market.
 
 [![Hanoi](/data/blogs/vietnam/images/thumbs/13_hanoi_01.jpg)](/data/blogs/vietnam/images/13_hanoi_01.jpg)
 [![Hanoi](/data/blogs/vietnam/images/thumbs/13_hanoi_02.jpg)](/data/blogs/vietnam/images/13_hanoi_02.jpg)
