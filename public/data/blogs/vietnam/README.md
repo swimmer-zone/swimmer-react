@@ -20,17 +20,17 @@
 
 ## Introduction
 
-[![Introduction](/data/blogs/thailand/images/thumbs/01_phuket_01.jpg)](/data/blogs/thailand/images/01_phuket_01.jpg)
-
-## Hanoi
-
 At Saturday morning we arrived in Hanoi after making a quick stop in Taipei, I hoped to see the 101 tower but no such luck. I thought Thailand was a culture shock with the traffic, but Hanoi was utter chaos, cars and scooters everywhere. The sidewalk was a parking space for scooters and sometimes even cars, so pedestrians also use the road. When manouvring the sidewalks you could end up in the middle of a terrace or even a dishwashing tray, the people live on the streets in front of their home. There is a lot of [honking](https://tuoitrenews.vn/news/audio/20140414/vietnamese%E2%80%99s-bad-habits-honking-horns-in-saigon/25383.html#:~:text=To%20me%2C%20honking%20a%20horn,as%20you%20pass%20an%20acquaintance) going on during the day, usually this is quite annoying but with the sharp corners in the mountains you're glad that you can count on people honking before they pass by.
-
-After one night in Hanoi we took the plane to Ho Chi Minh and then travel up north and visit Hanoi once more at the end. The first food experience was a nightmare, I ordered fried beef and vegetables and got cows intestines, I guess you could also see that as fried beef. It's pretty hard to find a good meal here, they eat absolutely anything. Nothing like Thailand, where anything you could order would taste good. Next stop is Nhà Tráng, a city at the beach, an 8 hour train ride which is an attraction in itself.
 
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_01.jpg)](/data/blogs/vietnam/images/01_hanoi_01.jpg)
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_02.jpg)](/data/blogs/vietnam/images/01_hanoi_02.jpg)
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_03.jpg)](/data/blogs/vietnam/images/01_hanoi_03.jpg)
+
+
+## Hanoi
+
+After one night in Hanoi we took the plane to Ho Chi Minh and then travel up north and visit Hanoi once more at the end. The first food experience was a nightmare, I ordered fried beef and vegetables and got cows intestines, I guess you could also see that as fried beef. It's pretty hard to find a good meal here, they eat absolutely anything. Nothing like Thailand, where anything you could order would taste good. Next stop is Nhà Tráng, a city at the beach, an 8 hour train ride which is an attraction in itself.
+
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_04.jpg)](/data/blogs/vietnam/images/01_hanoi_04.jpg)
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_05.jpg)](/data/blogs/vietnam/images/01_hanoi_05.jpg)
 [![Hanoi](/data/blogs/vietnam/images/thumbs/01_hanoi_06.jpg)](/data/blogs/vietnam/images/01_hanoi_06.jpg)
