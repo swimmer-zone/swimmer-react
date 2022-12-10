@@ -13,7 +13,7 @@
 
 ## Introduction
 
-![Route](/data/blogs/vietnam/images/map_thailand.png)
+![Route](/data/blogs/thailand/images/map_thailand.png)
 
 [![Introduction](/data/blogs/thailand/images/thumbs/01_phuket_01.jpg)](/data/blogs/thailand/images/01_phuket_01.jpg)
 
