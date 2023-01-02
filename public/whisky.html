@@ -1,0 +1,284 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Whisky Notes</title>
+        <script src="https://code.jquery.com/jquery-3.6.3.slim.min.js" integrity="sha256-ZwqZIVdD3iXNyGHbSYdsmWP//UBokj2FHAxKuSBKDSo=" crossorigin="anonymous"></script>
+        <script>
+            $(document).ready(function() {
+                let date = new Date();
+
+                let day = date.getDate();
+                let month = date.getMonth() + 1;
+                let year = date.getFullYear();
+
+                if (month < 10) month = "0" + month;
+                if (day < 10) day = "0" + day;
+
+                $("[name=date_of_tasting]").val(year + "-" + month + "-" + day);
+
+                $("#region_select").hide();
+                $("[name=brand]").change(function() {
+                    $("[name=brand]").val($(this).val());
+                });
+                $("[name=country]").change(function() {
+                    if ($(this).val() == 'Scotland') {
+                        $("#region_select").show();
+                        $("[name=region_select]").change(function() {
+                            $("[name=region]").val($(this).val());
+                        });
+                    } else {
+                        switch ($(this).val()) {
+                            case 'Canada':
+                                $("[name=region]").val('canada');
+                                break;
+                            case 'Ireland':
+                                $("[name=region]").val('ireland');
+                                break;
+                            case 'Japan':
+                                $("[name=region]").val('japan');
+                                break;
+                            case 'The Netherlands':
+                                $("[name=region]").val('netherlands');
+                                break;
+                            case 'United States':
+                                $("[name=region]").val('usa');
+                                break;
+                        }
+
+                        $("#region_select").hide();
+                    }
+                });
+                $("form").submit(function(e) {
+                    e.preventDefault();
+
+                    let json_string = $(".json_input").text()
+                        .replace("BRAND", $("[name=brand]").val())
+                        .replace("DATE_OF_TASTING", $("[name=date_of_tasting]").val())
+                        .replace("COUNTRY", $("[name=country]").val())
+                        .replace("REGION", $("[name=region]").val())
+                        .replace("NEAREST_TOWN", $("[name=nearest_town]").val())
+                        .replace("CASK_STRENGTH", $("[name=cask_strength]").val())
+                        .replace("AGE", $("[name=age]").val())
+                        .replace("STRENGTH", $("[name=strength]").val())
+                        .replace("PRICE", $("[name=price]").val())
+                        .replace("VOLUME", $("[name=volume]").val())
+                        .replace("URL", $("[name=url]").val())
+                        .replace("NOTES", $("[name=notes]").val())
+                        .replace("FLAVOUR", $("[name=flavour]").val())
+                        .replace("GLANCE", $("[name=glance]").val())
+                        .replace("COLOR", $("[name=color]").val())
+                        .replace("FINISH", $("[name=finish]").val())
+                        .replace("RATING", $("[name=rating]").val())
+                        .replace("WOULD_BUY", $("[name=would_buy]").val());
+
+                    $(".json_output").text(json_string);
+                });
+            });
+        </script>
+        <style type="text/css">
+            @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+
+            html,
+            body {
+                font-family: "Indie Flower", "Open Sans", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
+                /*$dark: #4a4b50;*/
+                /*$quotes: #5c5d62;*/
+                /*$modal: #6a6b70;*/
+            }
+            fieldset,
+            .json_output {
+                margin: 20px auto;
+                max-width: 800px;
+                border: 1px solid #6c6eec;
+            }
+            .json_input {
+                display: none;
+            }
+            .json_output {
+                background-color: #dddddd;
+                min-height: 200px;
+                font-family: monospace;
+                color: #aaaaaa;
+                white-space: pre;
+            }
+            label {
+                margin: 10px;
+                display: flex;
+            }
+            label span {
+                width: 200px;
+            }
+            label select,
+            label input:not([type=checkbox]),
+            label textarea {
+                width: 400px;
+                margin: 4px;
+                padding: 8px;
+                border: 1px solid #5c5edc;
+            }
+            input[type=submit] {
+                background-color: #6c6eec;
+                color: #ffffff;
+                padding: 8px;
+                border: none;
+            }
+        </style>
+    </head>
+    <body>
+        <form>
+            <fieldset>
+                <legend>General</legend>
+                <label>
+                    <span>Brand</span>
+                    <input type="text" name="brand">
+                </label>
+                <label>
+                    <span>Date of Tasting</span>
+                    <input type="date" name="date_of_tasting">
+                </label>
+                <label>
+                    <span>Country</span>
+                    <select name="country">
+                        <option>-- Select --</option>
+                        <option value="Canada">Canada</option>
+                        <option value="Ireland">Ireland</option>
+                        <option value="Japan">Japan</option>
+                        <option value="The Netherlands">The Netherlands</option>
+                        <option value="Scotland">Scotland</option>
+                        <option value="United States">United States</option>
+                    </select>
+                </label>
+                <label id="region_select">
+                    <span>Region</span>
+                    <select name="region_select">
+                        <option>-- Select --</option>
+                        <option value="highland">Highland</option>
+                        <option value="lowland">Lowland</option>
+                        <option value="speyside">Speyside</option>
+                        <option value="islay">Islay</option>
+                        <option value="islands">Islands</option>
+                        <option value="campbeltown">Campbeltown</option>
+                        <option value="blend">Blend</option>
+                    </select>
+                </label>
+                <input type="hidden" name="region">
+                <label>
+                    <span>Nearest Town</span>
+                    <input type="text" name="nearest_town">
+                </label>
+                <label>
+                    <span>Cask Strength</span>
+                    <input type="checkbox" name="cask_strength" value="true">
+                </label>
+                <label>
+                    <span>Age</span>
+                    <input type="number" name="age" placeholder="How many years has it aged in the cask">
+                </label>
+                <label>
+                    <span>Strength</span>
+                    <input type="number" name="strength" placeholder="Alcohol level in %">
+                </label>
+                <label>
+                    <span>Price</span>
+                    <input type="number" name="price" placeholder="Usually the price of a regular 700ml bottle">
+                </label>
+                <label>
+                    <span>Volume</span>
+                    <input type="number" name="volume" placeholder="Volume in ml of the bottle we bought">
+                </label>
+                <label>
+                    <span>URL</span>
+                    <input type="text" name="url" placeholder="Preferably https://www.heijdenwijnimport.nl/">
+                </label>
+                <label>
+                    <span>Notes</span>
+                    <textarea name="notes"></textarea>
+                </label>
+            </fieldset>
+            <fieldset>
+                <legend>Tasting Notes</legend>
+                <label>
+                    <span>Flavour</span>
+                    <select name="flavour">
+                        <option>-- Select --</option>
+                        <option value="Dark Fruit">Dark Fruit</option>
+                        <option value="Floral">Floral</option>
+                        <option value="Spicy">Spicy</option>
+                        <option value="Cereal">Cereal</option>
+                        <option value="Peaty">Peaty</option>
+                        <option value="Malty">Malty</option>
+                        <option value="Toffee">Toffee</option>
+                        <option value="Nutty">Nutty</option>
+                        <option value="Woody">Woody</option>
+                        <option value="Chocolate">Chocolate</option>
+                        <option value="Citrus">Citrus</option>
+                    </select>
+                </label>
+                <label>
+                    <span>Glance</span>
+                    <input type="number" name="glance" placeholder="Glance in %, 0 means watery and 100 means oily">
+                </label>
+                <label>
+                    <span>Color</span>
+                    <select name="color">
+                        <option>-- Select --</option>
+                        <option value="Clear">Clear</option>
+                        <option value="White Wine">White Wine</option>
+                        <option value="Straw">Straw</option>
+                        <option value="Honey">Honey</option>
+                        <option value="Golden">Golden</option>
+                        <option value="Amber">Amber</option>
+                        <option value="Copper">Copper</option>
+                        <option value="Mahogany">Mahogany</option>
+                        <option value="Dark Oak">Dark Oak</option>
+                    </select>
+                </label>
+                <label>
+                    <span>Finish</span>
+                    <select name="finish">
+                        <option>-- Select --</option>
+                        <option value="Clean">Clean</option>
+                        <option value="Sweet">Sweet</option>
+                        <option value="Sour">Sour</option>
+                        <option value="Salty">Salty</option>
+                        <option value="Bitter">Bitter</option>
+                    </select>
+                </label>
+                <label>
+                    <span>Rating</span>
+                    <input type="text" name="rating" placeholder="x out of 5">
+                </label>
+                <label>
+                    <span>Would Buy Again</span>
+                    <input type="checkbox" name="would_buy" value="true">
+                </label>
+            </fieldset>
+            <input type="submit" value="Generate JSON">
+        </form>
+        <div class="json_output"></div>
+        <div class="json_input">
+            {
+                "brand": "BRAND",
+                "date_of_tasting": "DATE_OF_TASTING",
+                "country": "COUNTRY",
+                "region": "REGION",
+                "nearest_town": "NEAREST_TOWN",
+                "cask_strength": "CASK_STRENGTH",
+                "age": "AGE",
+                "strength": "STRENGTH",
+                "price": "PRICE",
+                "volume": "VOLUME",
+                "url": "URL",
+                "notes": "NOTES",
+                "tasting": {
+                    "flavour": "FLAVOUR",
+                    "glance": "GLANCE",
+                    "color": "COLOR",
+                    "finish": "FINISH",
+                    "rating": "RATING",
+                    "would_buy": "WOULD_BUY"
+                }
+            }
+        </div>
+    </body>
+</html>
