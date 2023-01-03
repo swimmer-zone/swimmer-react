@@ -73,9 +73,6 @@
                         .replace("WOULD_BUY", $("[name=would_buy]").is(":checked"));
 
                     $(".json_output").text(json_string);
-                });
-                $("#copy").click(function(e) {
-                    e.preventDefault();
 
                     let $temp = $("<input>");
                     $("body").append($temp);
@@ -90,7 +87,7 @@
 
             * {
                 font-family: "Indie Flower", "Open Sans", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
-                font-size: 32px;
+                font-size: 24px;
                 box-sizing: border-box;
             }
             body {
@@ -114,7 +111,7 @@
                 white-space: pre;
             }
             label {
-                margin: 20px;
+                margin: 20px 10px 10px 10px;
                 display: block;
             }
             label > span {
@@ -125,7 +122,7 @@
             label input:not([type=checkbox]),
             label textarea {
                 width: calc(100% - 40px);
-                margin: 4px;
+                margin: 2px 4px;
                 padding: 8px;
                 border: 1px solid #5c5edc;
             }
@@ -137,7 +134,7 @@
                 color: #ffffff;
                 padding: 8px;
                 border: none;
-                margin: 20px auto;
+                margin: 10px auto;
                 max-width: 800px;
                 display: inline-block;
             }
@@ -149,141 +146,136 @@
     </head>
     <body>
         <form>
-            <fieldset>
-                <legend>General</legend>
-                <label>
-                    <span>Brand</span>
-                    <input type="text" name="brand">
-                </label>
-                <label>
-                    <span>Date of Tasting</span>
-                    <input type="date" name="date_of_tasting">
-                </label>
-                <label>
-                    <span>Country</span>
-                    <select name="country">
-                        <option>-- Select --</option>
-                        <option value="Canada">Canada</option>
-                        <option value="Ireland">Ireland</option>
-                        <option value="Japan">Japan</option>
-                        <option value="The Netherlands">The Netherlands</option>
-                        <option value="Scotland">Scotland</option>
-                        <option value="United States">United States</option>
-                    </select>
-                </label>
-                <label id="region_select">
-                    <span>Region</span>
-                    <select name="region_select">
-                        <option>-- Select --</option>
-                        <option value="highland">Highland</option>
-                        <option value="lowland">Lowland</option>
-                        <option value="speyside">Speyside</option>
-                        <option value="islay">Islay</option>
-                        <option value="islands">Islands</option>
-                        <option value="campbeltown">Campbeltown</option>
-                        <option value="blend">Blend</option>
-                    </select>
-                </label>
-                <input type="hidden" name="region">
-                <label>
-                    <span>Nearest Town</span>
-                    <input type="text" name="nearest_town">
-                </label>
-                <label>
-                    <input type="checkbox" name="cask_strength" value="true">
-                    <span>Cask Strength</span>
-                </label>
-                <label>
-                    <span>Age</span>
-                    <input type="number" name="age" placeholder="How many years has it aged in the cask">
-                </label>
-                <label>
-                    <span>Strength</span>
-                    <input type="number" name="strength" placeholder="Alcohol level in %">
-                </label>
-                <label>
-                    <span>Price</span>
-                    <input type="number" name="price" placeholder="Usually the price of a regular 700ml bottle">
-                </label>
-                <label>
-                    <span>Volume</span>
-                    <input type="number" name="volume" placeholder="Volume in ml of the bottle we bought">
-                </label>
-                <label>
-                    <span>URL</span>
-                    <input type="text" name="url" placeholder="Preferably https://www.heijdenwijnimport.nl/">
-                    <ul>
-                        <li><a href="https://www.heijdenwijnimport.nl/" target="_blank">Van der Heijden</a></li>
-                        <li><a href="https://www.topdrinks.nl/" target="_blank">Topdrinks</a></li>
-                        <li><a href="https://www.drankgigant.nl/" target="_blank">Drankgigant</a></li>
-                        <li><a href="https://www.gall.nl/" target="_blank">Gall & Gall</a></li>
-                    </ul>
-                </label>
-                <label>
-                    <span>Notes</span>
-                    <textarea name="notes"></textarea>
-                </label>
-            </fieldset>
-            <fieldset>
-                <legend>Tasting Notes</legend>
-                <label>
-                    <span>Flavour</span>
-                    <select name="flavour" multiple>
-                        <option>-- Select --</option>
-                        <option value="Dark Fruit">Dark Fruit</option>
-                        <option value="Floral">Floral</option>
-                        <option value="Spicy">Spicy</option>
-                        <option value="Cereal">Cereal</option>
-                        <option value="Peaty">Peaty</option>
-                        <option value="Malty">Malty</option>
-                        <option value="Toffee">Toffee</option>
-                        <option value="Nutty">Nutty</option>
-                        <option value="Woody">Woody</option>
-                        <option value="Chocolate">Chocolate</option>
-                        <option value="Citrus">Citrus</option>
-                    </select>
-                </label>
-                <label>
-                    <span>Glance</span>
-                    <input type="number" name="glance" placeholder="Glance in %, 0 means watery and 100 means oily">
-                </label>
-                <label>
-                    <span>Color</span>
-                    <select name="color">
-                        <option>-- Select --</option>
-                        <option value="Clear">Clear</option>
-                        <option value="White Wine">White Wine</option>
-                        <option value="Straw">Straw</option>
-                        <option value="Honey">Honey</option>
-                        <option value="Golden">Golden</option>
-                        <option value="Amber">Amber</option>
-                        <option value="Copper">Copper</option>
-                        <option value="Mahogany">Mahogany</option>
-                        <option value="Dark Oak">Dark Oak</option>
-                    </select>
-                </label>
-                <label>
-                    <span>Finish</span>
-                    <select name="finish">
-                        <option>-- Select --</option>
-                        <option value="Clean">Clean</option>
-                        <option value="Sweet">Sweet</option>
-                        <option value="Sour">Sour</option>
-                        <option value="Salty">Salty</option>
-                        <option value="Bitter">Bitter</option>
-                    </select>
-                </label>
-                <label>
-                    <span>Rating</span>
-                    <input type="text" name="rating" placeholder="x out of 5">
-                </label>
-                <label>
-                    <input type="checkbox" name="would_buy" value="true">
-                    <span>Would Buy Again</span>
-                </label>
-            </fieldset>
+            <h2>General</h2>
+            <label>
+                <span>Brand</span>
+                <input type="text" name="brand">
+            </label>
+            <label>
+                <span>Date of Tasting</span>
+                <input type="date" name="date_of_tasting">
+            </label>
+            <label>
+                <span>Country</span>
+                <select name="country">
+                    <option>-- Select --</option>
+                    <option value="Canada">Canada</option>
+                    <option value="Ireland">Ireland</option>
+                    <option value="Japan">Japan</option>
+                    <option value="The Netherlands">The Netherlands</option>
+                    <option value="Scotland">Scotland</option>
+                    <option value="United States">United States</option>
+                </select>
+            </label>
+            <label id="region_select">
+                <span>Region</span>
+                <select name="region_select">
+                    <option>-- Select --</option>
+                    <option value="highland">Highland</option>
+                    <option value="lowland">Lowland</option>
+                    <option value="speyside">Speyside</option>
+                    <option value="islay">Islay</option>
+                    <option value="islands">Islands</option>
+                    <option value="campbeltown">Campbeltown</option>
+                    <option value="blend">Blend</option>
+                </select>
+            </label>
+            <input type="hidden" name="region">
+            <label>
+                <span>Nearest Town</span>
+                <input type="text" name="nearest_town">
+            </label>
+            <label>
+                <input type="checkbox" name="cask_strength" value="true">
+                <span>Cask Strength</span>
+            </label>
+            <label>
+                <span>Age</span>
+                <input type="number" name="age" placeholder="How many years has it aged in the cask">
+            </label>
+            <label>
+                <span>Strength</span>
+                <input type="number" name="strength" placeholder="Alcohol level in %">
+            </label>
+            <label>
+                <span>Price</span>
+                <input type="number" name="price" placeholder="Usually the price of a regular 700ml bottle">
+            </label>
+            <label>
+                <span>Volume</span>
+                <input type="number" name="volume" placeholder="Volume in ml of the bottle we bought">
+            </label>
+            <label>
+                <span>URL</span>
+                <input type="text" name="url" placeholder="Preferably https://www.heijdenwijnimport.nl/">
+                <ul>
+                    <li><a href="https://www.heijdenwijnimport.nl/" target="_blank">Van der Heijden</a></li>
+                    <li><a href="https://www.topdrinks.nl/" target="_blank">Topdrinks</a></li>
+                    <li><a href="https://www.drankgigant.nl/" target="_blank">Drankgigant</a></li>
+                    <li><a href="https://www.gall.nl/" target="_blank">Gall & Gall</a></li>
+                </ul>
+            </label>
+            <label>
+                <span>Notes</span>
+                <textarea name="notes"></textarea>
+            </label>
+            <h2>Tasting Notes</h2>
+            <label>
+                <span>Flavour</span>
+                <select name="flavour" multiple>
+                    <option>-- Select --</option>
+                    <option value="Dark Fruit">Dark Fruit</option>
+                    <option value="Floral">Floral</option>
+                    <option value="Spicy">Spicy</option>
+                    <option value="Cereal">Cereal</option>
+                    <option value="Peaty">Peaty</option>
+                    <option value="Malty">Malty</option>
+                    <option value="Toffee">Toffee</option>
+                    <option value="Nutty">Nutty</option>
+                    <option value="Woody">Woody</option>
+                    <option value="Chocolate">Chocolate</option>
+                    <option value="Citrus">Citrus</option>
+                </select>
+            </label>
+            <label>
+                <span>Glance</span>
+                <input type="number" name="glance" placeholder="Glance in %, 0 means watery and 100 means oily">
+            </label>
+            <label>
+                <span>Color</span>
+                <select name="color">
+                    <option>-- Select --</option>
+                    <option value="Clear">Clear</option>
+                    <option value="White Wine">White Wine</option>
+                    <option value="Straw">Straw</option>
+                    <option value="Honey">Honey</option>
+                    <option value="Golden">Golden</option>
+                    <option value="Amber">Amber</option>
+                    <option value="Copper">Copper</option>
+                    <option value="Mahogany">Mahogany</option>
+                    <option value="Dark Oak">Dark Oak</option>
+                </select>
+            </label>
+            <label>
+                <span>Finish</span>
+                <select name="finish">
+                    <option>-- Select --</option>
+                    <option value="Clean">Clean</option>
+                    <option value="Sweet">Sweet</option>
+                    <option value="Sour">Sour</option>
+                    <option value="Salty">Salty</option>
+                    <option value="Bitter">Bitter</option>
+                </select>
+            </label>
+            <label>
+                <span>Rating</span>
+                <input type="text" name="rating" placeholder="x out of 5">
+            </label>
+            <label>
+                <input type="checkbox" name="would_buy" value="true">
+                <span>Would Buy Again</span>
+            </label>
             <button id="generate">Generate JSON</button>
-            <button id="copy">Copy JSON</button>
         </form>
         <div class="json_output"></div>
         <div class="json_input">
