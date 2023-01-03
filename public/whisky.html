@@ -19,6 +19,9 @@
                 if (day < 10) day = "0" + day;
 
                 $("select").select2();
+                $("select[name=flavour").select2({
+                    tags: true
+                });
                 $("[type=checkbox]").toggles();
 
                 $("[name=date_of_tasting]").val(year + "-" + month + "-" + day);
@@ -87,23 +90,23 @@
 
             * {
                 font-family: "Indie Flower", "Open Sans", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
-                font-size: 24px;
+                font-size: 20px;
                 box-sizing: border-box;
+            }
+            h1 {
+                font-weight: bold;
+                font-size: 36px;
             }
             body {
                 background-color: #6c6eec22;
-            }
-            fieldset,
-            .json_output {
-                margin: 20px auto;
-                max-width: 800px;
-                border: 1px solid #6c6eec;
-                background: #fff;
             }
             .json_input {
                 display: none;
             }
             .json_output {
+                margin: 1vw auto;
+                width: 96vw;
+                border: none;
                 background-color: #dddddd;
                 min-height: 200px;
                 font-family: monospace;
@@ -111,7 +114,7 @@
                 white-space: pre;
             }
             label {
-                margin: 20px 10px 10px 10px;
+                margin: 20px 1vw 10px 1vw;
                 display: block;
             }
             label > span {
@@ -121,10 +124,11 @@
             label .select2,
             label input:not([type=checkbox]),
             label textarea {
-                width: calc(100% - 40px);
-                margin: 2px 4px;
-                padding: 8px;
-                border: 1px solid #5c5edc;
+                width: 94vw;
+                margin: 2px 2vw;
+                padding: 1vw;
+                border: none;
+                background-color: #ffffff;
             }
             label .select2 * {
                 border: none;
@@ -132,21 +136,52 @@
             button {
                 background-color: #6c6eec;
                 color: #ffffff;
-                padding: 8px;
+                padding: 2vw 1vw;
                 border: none;
-                margin: 10px auto;
-                max-width: 800px;
+                margin: 2px 2vw 80px 2vw;
+                width: 40vw;
                 display: inline-block;
             }
             input[type=checkbox],
             input[type=checkbox] + span {
                 display: inline-block;
             }
+            .select2-container--default .select2-selection--single {
+                border: none;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-of-type(3) {
+                background-color: #F2E2DA;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-of-type(4) {
+                background-color: #D6B7A5;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(5) {
+                background-color: #BCA597;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(6) {
+                background-color: #996A4E;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(7) {
+                background-color: #765745;
+                color: #ffffff;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(8) {
+                background-color: #563725;
+                color: #ffffff;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(9) {
+                background-color: #3C2517;
+                color: #ffffff;
+            }
+            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(10) {
+                background-color: #1C0507;
+                color: #ffffff;
+            }
         </style>
     </head>
     <body>
         <form>
-            <h2>General</h2>
+            <h1>General</h1>
             <label>
                 <span>Brand</span>
                 <input type="text" name="brand">
@@ -219,7 +254,7 @@
                 <span>Notes</span>
                 <textarea name="notes"></textarea>
             </label>
-            <h2>Tasting Notes</h2>
+            <h1>Tasting Notes</h1>
             <label>
                 <span>Flavour</span>
                 <select name="flavour" multiple>
@@ -275,7 +310,7 @@
                 <input type="checkbox" name="would_buy" value="true">
                 <span>Would Buy Again</span>
             </label>
-            <button id="generate">Generate JSON</button>
+            <button id="generate">Copy JSON</button>
         </form>
         <div class="json_output"></div>
         <div class="json_input">
