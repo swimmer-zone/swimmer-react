@@ -35,20 +35,14 @@
                         });
                     } else {
                         switch ($(this).val()) {
-                            case 'Canada':
-                                $("[name=region]").val('canada');
-                                break;
-                            case 'Ireland':
-                                $("[name=region]").val('ireland');
-                                break;
-                            case 'Japan':
-                                $("[name=region]").val('japan');
-                                break;
                             case 'The Netherlands':
                                 $("[name=region]").val('netherlands');
                                 break;
                             case 'United States':
                                 $("[name=region]").val('usa');
+                                break;
+                            default:
+                                $("[name=region]").val($(this).val().toLowerCase());
                                 break;
                         }
 
@@ -98,8 +92,6 @@
                 font-family: "Indie Flower", "Open Sans", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
                 font-size: 32px;
                 box-sizing: border-box;
-                /*$quotes: #5c5d62;*/
-                /*$modal: #6a6b70;*/
             }
             body {
                 background-color: #6c6eec22;
@@ -126,7 +118,6 @@
                 display: block;
             }
             label > span {
-                width: 600px;
                 display: block;
             }
             label select,
