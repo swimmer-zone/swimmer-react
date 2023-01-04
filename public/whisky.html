@@ -62,8 +62,7 @@
                         .replace("CASK_STRENGTH", $("[name=cask_strength]").is(":checked"))
                         .replace("AGE", $("[name=age]").val())
                         .replace("STRENGTH", $("[name=strength]").val())
-                        .replace("PRICE", $("[name=price]").val())
-                        .replace("VOLUME", $("[name=volume]").val())
+                        .replace("TASTER", $("[name=taster]").is(":checked"))
                         .replace("URL", $("[name=url]").val())
                         .replace("NOTES", $("[name=notes]").val())
                         .replace("FLAVOUR", $("[name=flavour]").val())
@@ -201,8 +200,8 @@
             <label for="cask_strength">Cask Strength</label>
             <input type="number" inputmode="numeric" name="age" placeholder="How many years has it aged in the cask">
             <input type="number" inputmode="numeric" name="strength" min="0" max="100" placeholder="Alcohol level in %">
-            <input type="number" inputmode="numeric" name="price" placeholder="Price: Usually the price of a regular 700ml bottle">
-            <input type="number" inputmode="numeric" name="volume" placeholder="Volume in ml of the bottle we bought">
+            <input type="checkbox" name="taster" id="taster" value="true">
+            <label for="taster">Taster</label>
             <input type="text" name="url" placeholder="URL: Preferably https://www.heijdenwijnimport.nl/">
             <ul>
                 <li><a href="https://www.heijdenwijnimport.nl/" target="_blank">Van der Heijden</a></li>
@@ -274,8 +273,7 @@
         "cask_strength": CASK_STRENGTH,
         "age": "AGE",
         "strength": "STRENGTH",
-        "price": "PRICE",
-        "volume": "VOLUME",
+        "taster": TASTER,
         "url": "URL",
         "notes": "NOTES",
         "tasting": {
