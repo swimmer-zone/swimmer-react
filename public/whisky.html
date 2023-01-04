@@ -21,7 +21,6 @@
                 $('select[name="flavour"]').select2({
                     tags: true
                 });
-                $('[type="checkbox"]').toggles();
 
                 $('[name="date_of_tasting"]').val(year + "-" + month + "-" + day);
 
@@ -82,10 +81,6 @@
                     document.execCommand("copy");
                     $temp.remove();
                 });
-
-                $('[name="rating"]').barrating({
-                    theme: 'fontawesome-stars'
-                });
             });
         </script>
         <style type="text/css">
@@ -107,23 +102,23 @@
                 display: none;
             }
             .json_output {
-                border-radius: 2px;
+                border-radius: 8px;
                 margin: 1vw auto;
                 width: 96vw;
                 border: none;
-                background-color: #6c6eec22;
+                background-color: #000000;
                 min-height: 200px;
                 font-family: monospace;
-                color: #4a4b50;
+                color: #6c6eec;
                 white-space: pre;
             }
             select,
             .select2,
             input:not([type=checkbox]),
             textarea {
-                border-radius: 5px;
+                border-radius: 8px;
                 width: 94vw;
-                margin: 8px 2vw;
+                margin: 16px 2vw;
                 padding: 1vw;
                 border: none;
                 background-color: #ffffff;
@@ -136,14 +131,13 @@
                 color: #ffffff;
                 padding: 2vw 1vw;
                 border: none;
-                margin: 2px 2vw 80px 2vw;
+                margin: 16px auto 80px;
                 width: 40vw;
-                display: inline-block;
+                display: block;
             }
             input[type=checkbox],
             label {
                 display: inline-block;
-                margin: 8px 2vw;
             }
             .select2-container--default .select2-selection--single {
                 border: none;
