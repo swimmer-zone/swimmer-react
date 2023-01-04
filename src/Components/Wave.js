@@ -3,7 +3,7 @@ import '../assets/components/wave.scss';
 
 const Wave = () => {
     return (
-    	<svg version="1.1" id="wave" viewBox="0 0 1920 600">
+    	<svg version="1.1" id="wave" viewBox="0 0 1920 600" preserveAspectRatio="none">
 	        <path d="M0 167 C 273,283 822,60 1920,206 V 0 H 0 V 167 Z" className="dark">
 	            <animate
 	                repeatCount="indefinite"
