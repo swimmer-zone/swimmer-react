@@ -88,16 +88,20 @@
                     min: 0,
                     max: 100,
                     step: 10,
+                    value: 50,
                     slide: function(event, ui) {
                         $('#glance').val(ui.value);
+                        $('#glance_text').val(ui.value + "% oily");
                     }
                 });
                 $('#rating_slider').slider({
                     min: 1,
                     max: 5,
                     step: .5,
+                    value: 2.5,
                     slide: function(event, ui) {
                         $('#rating').val(ui.value);
+                        $('#rating_text').val(ui.value + " stars");
                     }
                 });
             });
@@ -188,26 +192,22 @@
             a {
                 color: #ffffff;
             }
-            .slider-container {
-                margin: 16px 2vw;
-            }
             .slider {
-                width: 70vw;
+                width: 90vw;
                 display: inline-block;
                 line-height: 40px;
-            }
-            .slider + input {
-                width: 16vw;
-                display: inline-block;
+                margin: 16px 4vw;
             }
             .ui-slider {
-                height: 24px;
+                height: 8px;
             }
             .ui-slider-handle {
                 background-color: #000000 !important;
                 border: none !important;
                 outline: none !important;
                 border-radius: 50%;
+                width: 32px;
+                height: 32px;
             }
         </style>
     </head>
@@ -266,11 +266,11 @@
                 <option value="Chocolate">Chocolate</option>
                 <option value="Citrus">Citrus</option>
             </select>
-            <div class="slider-container">
-                <div id="glance_slider" class="slider"></div>
-                <input type="text" name="glance" id="glance">
-                <span>Glance in %, 0 means watery and 100 means oily</span>
-            </div>
+
+            <div id="glance_slider" class="slider"></div>
+            <input type="hidden" name="glance" id="glance">
+            <input type="text" name="glance_text" id="glance_text" value="50% oily" readonly>
+
             <select name="color" id="color">
                 <option>-- Select Color --</option>
                 <option value="Clear">Clear</option>
@@ -291,10 +291,11 @@
                 <option value="Salty">Salty</option>
                 <option value="Bitter">Bitter</option>
             </select>
-            <div class="slider-container">
-                <div id="rating_slider" class="slider"></div>
-                <input type="text" name="rating" id="rating">
-            </div>
+
+            <div id="rating_slider" class="slider"></div>
+            <input type="hidden" name="rating" id="rating">
+            <input type="text" name="rating_text" id="rating_text" value="2.5 stars" readonly>
+
             <input type="checkbox" name="would_buy" id="would_buy" value="true">
             <label for="would_buy">Would Buy Again</label>
             <button id="generate">Copy JSON</button>
