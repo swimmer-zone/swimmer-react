@@ -22,8 +22,11 @@
                 if (month < 10) month = "0" + month;
                 if (day < 10) day = "0" + day;
 
-                $('select').select2();
+                $('select').select2({
+                    minimumResultsForSearch: -1
+                });
                 $('#flavour').select2({
+                    minimumResultsForSearch: 1,
                     tags: true
                 });
 
@@ -65,6 +68,8 @@
                         .replace("REGION", $('#region').val())
                         .replace("NEAREST_TOWN", $('#nearest_town').val())
                         .replace("CASK_STRENGTH", $('[name=cask_strength]:checked').val())
+                        .replace("CHILL_FILTERED", $('[name=chill_filtered]:checked').val())
+                        .replace("TYPE", $('#type').val())
                         .replace("AGE", $('#age').val())
                         .replace("STRENGTH", $('#strength').val())
                         .replace("TASTER", $('[name=taster]:checked').val())
@@ -259,8 +264,11 @@
     <body>
         <form>
             <h1>Whisky Tasting</h1>
+
             <input type="text" name="brand" id="brand" placeholder="Brand / Distillery name">
+
             <input type="date" name="date_of_tasting" id="date_of_tasting">
+
             <select name="country" id="country">
                 <option>-- Select Country --</option>
                 <option value="Canada">Canada</option>
@@ -270,6 +278,7 @@
                 <option value="Scotland">Scotland</option>
                 <option value="United States">United States</option>
             </select>
+            
             <select name="region_select" id="region_select">
                 <option>-- Select Region --</option>
                 <option value="highland">Highland</option>
@@ -278,9 +287,9 @@
                 <option value="islay">Islay</option>
                 <option value="islands">Islands</option>
                 <option value="campbeltown">Campbeltown</option>
-                <option value="blend">Blend</option>
             </select>
             <input type="hidden" name="region" id="region">
+
             <input type="text" name="nearest_town" id="nearest_town" placeholder="Nearest Town">
 
             <div class="switch-toggle switch-3 switch-candy">
@@ -292,8 +301,36 @@
 
                 <a></a>
             </div>
+
+            <div class="switch-toggle switch-3 switch-candy">
+                <input id="chill_filtered_on" name="chill_filtered" type="radio" value="true">
+                <label for="chill_filtered_on" onclick="">Chill filtered</label>
+
+                <input id="chill_filtered_off" name="chill_filtered" type="radio" value="false" checked>
+                <label for="chill_filtered_off" onclick="">Not filtered</label>
+
+                <a></a>
+            </div>
+
+            <select name="type" id="type">
+                <option>-- Select Type --</option>
+                <option value="Single Malt">Single Malt</option>
+                <option value="Single Grain">Single Grain</option>
+                <option value="Blended Malt">Blended Malt</option>
+                <option value="Blended Grain">Blended Grain</option>
+                <option value="Blended Scotch">Blended Scotch</option>
+                <option value="Tenessee">Tenessee</option>
+                <option value="Bourbon">Bourbon</option>
+                <option value="Rye">Rye</option>
+            </select>
+            <ul>
+                <li>See: <a href="https://grimsdyke.com/whisky-types/">whisky types</a></li>
+            </ul>
+
             <input type="number" inputmode="numeric" name="age" id="age" placeholder="How many years has it aged in the cask">
-            <input type="number" inputmode="numeric" name="strength" id="strength" min="0" max="100" placeholder="Alcohol level in %">
+
+            <input type="number" inputmode="numeric" name="strength" id="strength" min="40" max="100" placeholder="Alcohol level in %">
+
             <div class="switch-toggle switch-3 switch-candy">
                 <input id="taster_on" name="taster" type="radio" value="true">
                 <label for="taster_on" onclick="">Taster</label>
@@ -303,15 +340,20 @@
 
                 <a></a>
             </div>
+
             <input type="text" name="url" id="url" placeholder="URL: Preferably https://www.heijdenwijnimport.nl/">
             <ul>
                 <li><a href="https://www.heijdenwijnimport.nl/" target="_blank">Van der Heijden</a></li>
                 <li><a href="https://www.topdrinks.nl/" target="_blank">Topdrinks</a></li>
                 <li><a href="https://www.drankgigant.nl/" target="_blank">Drankgigant</a></li>
                 <li><a href="https://www.gall.nl/" target="_blank">Gall & Gall</a></li>
+                <li><a href="https://whisky-me.com/">Whisky Me</a></li>
             </ul>
+
             <textarea name="notes" id="notes" placeholder="Some notes..."></textarea>
+
             <h2>Personal Notes</h2>
+
             <select name="flavour" id="flavour" multiple>
                 <option>-- Select Flavour --</option>
                 <option value="Dark Fruit">Dark Fruit</option>
@@ -343,6 +385,7 @@
                 <option value="Mahogany">Mahogany</option>
                 <option value="Dark Oak">Dark Oak</option>
             </select>
+
             <select name="finish" id="finish">
                 <option>-- Select Finish --</option>
                 <option value="Clean">Clean</option>
@@ -376,6 +419,8 @@
         "region": "REGION",
         "nearest_town": "NEAREST_TOWN",
         "cask_strength": CASK_STRENGTH,
+        "chill_filtered": CHILL_FILTERED,
+        "type": "TYPE",
         "age": "AGE",
         "strength": "STRENGTH",
         "taster": TASTER,
