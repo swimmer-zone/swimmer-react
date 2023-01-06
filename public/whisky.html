@@ -110,6 +110,45 @@
                         $('#rating_text').val(ui.value + " stars");
                     }
                 });
+                $('#color_slider').slider({
+                    min: 1,
+                    max: 9,
+                    value: 6,
+                    slide: function(event, ui) {
+                        let color = 'Amber';
+                        switch (ui.value) {
+                            case 1:
+                                color = 'Clear';
+                                break;
+                            case 2:
+                                color = 'White Wine';
+                                break;
+                            case 3:
+                                color = 'Straw';
+                                break;
+                            case 4:
+                                color = 'Honey';
+                                break;
+                            case 5:
+                                color = 'Golden';
+                                break;
+                            case 6:
+                                color = 'Amber';
+                                break;
+                            case 7:
+                                color = 'Copper';
+                                break;
+                            case 8:
+                                color = 'Mahogany';
+                                break;
+                            case 9:
+                                color = 'Dark Oak';
+                                break;
+                        }
+                        $('#color').val(color);
+                        $('#color_text').val(color);
+                    }
+                });
             });
         </script>
         <style type="text/css">
@@ -211,29 +250,11 @@
             .select2-container--default .select2-selection--single {
                 border: none;
             }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-of-type(3) {
-                background-color: #EEEDC4; /* white wine */
-            }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-of-type(4) {
-                background-color: #ECBF7A; /* straw */
-            }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(5) {
-                background-color: #EBA937; /* honey */
-            }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(6) {
-                background-color: #C09711; /* golden */
-            }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(7) {
-                background-color: #FFBF00; /* amber */
-            }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(8) {
-                background-color: #B87333; /* copper */
-            }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(9) {
-                background-color: #6C4324; /* mahogany */
-            }
-            .select2-results__options[id*="select2-color"] .select2-results__option:nth-child(10) {
-                background-color: #8B6145; /* dark oak */
+            #color_slider {
+                background: linear-gradient(to right, #ffffff, #EEEDC4, #ECBF7A, #EBA937, #C09711, #FFBF00, #B87333, #6C4324, #8B6145);
+                height: 8px;
+                border: none;
+                outline: none;
             }
             a {
                 color: #ffffff;
@@ -278,7 +299,7 @@
                 <option value="Scotland">Scotland</option>
                 <option value="United States">United States</option>
             </select>
-            
+
             <select name="region_select" id="region_select">
                 <option>-- Select Region --</option>
                 <option value="highland">Highland</option>
@@ -373,18 +394,9 @@
             <input type="hidden" name="glance" id="glance" value="50">
             <input type="text" name="glance_text" id="glance_text" value="50% oily" readonly>
 
-            <select name="color" id="color">
-                <option>-- Select Color --</option>
-                <option value="Clear">Clear</option>
-                <option value="White Wine">White Wine</option>
-                <option value="Straw">Straw</option>
-                <option value="Honey">Honey</option>
-                <option value="Golden">Golden</option>
-                <option value="Amber">Amber</option>
-                <option value="Copper">Copper</option>
-                <option value="Mahogany">Mahogany</option>
-                <option value="Dark Oak">Dark Oak</option>
-            </select>
+            <div id="color_slider" class="slider"></div>
+            <input type="hidden" name="color" id="color" value="Amber">
+            <input type="text" name="color_text" id="color_text" value="Amber" readonly>
 
             <select name="finish" id="finish">
                 <option>-- Select Finish --</option>
