@@ -5,8 +5,9 @@
         <meta name="theme-color" content="#6c6eec">
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1">
-        <link href="//cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css" rel="stylesheet" />
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/css/select2.min.css">
         <link rel="stylesheet" href="//code.jquery.com/ui/1.13.2/themes/base/jquery-ui.css">
+        <link rel="stylesheet" href="//cdn.jsdelivr.net/css-toggle-switch/latest/toggle-switch.css">
         <script src="//code.jquery.com/jquery-3.6.3.min.js" integrity="sha256-pvPw+upLPUjgMXY0G+8O0xUf+/Im1MZjXxxgOcBQBXU=" crossorigin="anonymous"></script>
         <script src="//cdn.jsdelivr.net/npm/select2@4.1.0-rc.0/dist/js/select2.min.js"></script>
         <script src="//code.jquery.com/ui/1.13.2/jquery-ui.js"></script>
@@ -28,13 +29,13 @@
 
                 $('#date_of_tasting').val(year + "-" + month + "-" + day);
 
-                $('#region_select').hide();
+                $('#region_select').next().hide();
                 $('#brand').change(function() {
                     $('#nearest_town').val($(this).val());
                 });
                 $('#country').change(function() {
                     if ($(this).val() == 'Scotland') {
-                        $('#region_select').show();
+                        $('#region_select').next().show();
                         $('#region_select').change(function() {
                             $('#region').val($(this).val());
                         });
@@ -51,7 +52,7 @@
                                 break;
                         }
 
-                        $('#region_select').hide();
+                        $('#region_select').next().hide();
                     }
                 });
                 $('#generate').click(function(e) {
@@ -63,10 +64,10 @@
                         .replace("COUNTRY", $('#country').val())
                         .replace("REGION", $('#region').val())
                         .replace("NEAREST_TOWN", $('#nearest_town').val())
-                        .replace("CASK_STRENGTH", $('#cask_strength').is(":checked"))
+                        .replace("CASK_STRENGTH", $('[name=cask_strength]:checked').val())
                         .replace("AGE", $('#age').val())
                         .replace("STRENGTH", $('#strength').val())
-                        .replace("TASTER", $('#taster').is(":checked"))
+                        .replace("TASTER", $('[name=taster]:checked').val())
                         .replace("URL", $('#url').val())
                         .replace("NOTES", $('#notes').val())
                         .replace("FLAVOUR", $('#flavour').val())
@@ -74,7 +75,7 @@
                         .replace("COLOR", $('#color').val())
                         .replace("FINISH", $('#finish').val())
                         .replace("RATING", $('#rating').val())
-                        .replace("WOULD_BUY", $('#would_buy').is(":checked"));
+                        .replace("WOULD_BUY", $('[name=would_buy]:checked').val());
 
                     $('.json_output').text(json_string);
 
@@ -126,7 +127,7 @@
             }
             .json_output {
                 border-radius: 8px;
-                margin: 1vw auto;
+                margin: 1vw auto 3vw;
                 width: 96vw;
                 border: none;
                 background-color: #000000;
@@ -134,17 +135,40 @@
                 font-family: monospace;
                 color: #6c6eec;
                 white-space: pre;
+                box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05), 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
+                overflow: hidden;
+                font-size: 16px;
             }
             select,
             .select2,
             input:not([type=checkbox]),
-            textarea {
+            textarea,
+            .switch-toggle.switch-candy {
                 border-radius: 8px;
                 width: 94vw;
                 margin: 16px 2vw !important;
                 padding: 1vw !important;
                 border: none;
                 background-color: #ffffff;
+                box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05) inset, 2px 2px 2px 2px rgba(0, 0, 0, 0.2) inset;
+            }
+
+            .switch-toggle.switch-candy {
+                color: #000000 !important;
+                background-color: #ffffff22;
+                outline: none !important;
+            }
+            .switch-candy * {
+                color: #000000 !important;
+                text-shadow: none !important;
+                outline: none !important;
+            }
+            .switch-candy a {
+                color: #000000;
+                background-color: #ffffff;
+                outline: none !important;
+                border-radius: 8px;
+                border: none !important;
             }
             .select2 * {
                 border: none;
@@ -157,6 +181,8 @@
                 margin: 16px auto 80px;
                 width: 40vw;
                 display: block;
+                border-radius: 8px;
+                box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05), 2px 2px 2px 2px rgba(0, 0, 0, 0.2);
             }
             input[type=checkbox],
             label {
@@ -208,7 +234,7 @@
                 border-radius: 50%;
                 width: 32px !important;
                 height: 32px !important;
-                box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.1),1px 1px 2px 2px rgba(0, 0, 0, 0.5),3px 3px 8px 4px #6c6eec44 inset;
+                box-shadow: 2px 2px 4px 4px rgba(0, 0, 0, 0.1),1px 1px 2px 2px rgba(0, 0, 0, 0.3),3px 3px 8px 4px #6c6eec44 inset;
             }
             input[readonly] {
                 background-color: #ffffff22;
@@ -241,12 +267,27 @@
             </select>
             <input type="hidden" name="region" id="region">
             <input type="text" name="nearest_town" id="nearest_town" placeholder="Nearest Town">
-            <input type="checkbox" name="cask_strength" id="cask_strength" value="true">
-            <label for="cask_strength">Cask Strength</label>
+
+            <div class="switch-toggle switch-3 switch-candy">
+                <input id="cask_strength_on" name="cask_strength" type="radio" value="true">
+                <label for="cask_strength_on" onclick="">Cask strength</label>
+
+                <input id="cask_strength_off" name="cask_strength" type="radio" value="false" checked>
+                <label for="cask_strength_off" onclick="">Regular</label>
+
+                <a></a>
+            </div>
             <input type="number" inputmode="numeric" name="age" id="age" placeholder="How many years has it aged in the cask">
             <input type="number" inputmode="numeric" name="strength" id="strength" min="0" max="100" placeholder="Alcohol level in %">
-            <input type="checkbox" name="taster" id="taster" value="true">
-            <label for="taster">Taster</label>
+            <div class="switch-toggle switch-3 switch-candy">
+                <input id="taster_on" name="taster" type="radio" value="true">
+                <label for="taster_on" onclick="">Taster</label>
+
+                <input id="taster_off" name="taster" type="radio" value="false" checked>
+                <label for="taster_off" onclick="">Regular bottle</label>
+
+                <a></a>
+            </div>
             <input type="text" name="url" id="url" placeholder="URL: Preferably https://www.heijdenwijnimport.nl/">
             <ul>
                 <li><a href="https://www.heijdenwijnimport.nl/" target="_blank">Van der Heijden</a></li>
@@ -300,8 +341,15 @@
             <input type="hidden" name="rating" id="rating">
             <input type="text" name="rating_text" id="rating_text" value="2.5 stars" readonly>
 
-            <input type="checkbox" name="would_buy" id="would_buy" value="true">
-            <label for="would_buy">Would Buy Again</label>
+            <div class="switch-toggle switch-3 switch-candy">
+                <input id="would_buy_on" name="would_buy" type="radio" value="true">
+                <label for="would_buy_on" onclick="">Would buy again</label>
+
+                <input id="would_buy_off" name="would_buy" type="radio" value="false" checked>
+                <label for="would_buy_off" onclick="">Not again</label>
+
+                <a></a>
+            </div>
             <button id="generate">Copy JSON</button>
         </form>
         <div class="json_output"></div>
