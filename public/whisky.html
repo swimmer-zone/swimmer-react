@@ -112,11 +112,19 @@
 
             * {
                 font-family: "Indie Flower", "Open Sans", "Helvetica Neue", "Arial", "Helvetica", sans-serif;
-                font-size: 32px;
+                font-size: 28px;
                 box-sizing: border-box;
             }
-            h1 {
+            h1,
+            h2 {
                 font-weight: bold;
+                font-size: 48px;
+                display: block;
+                text-align: center;
+                margin-top: 60px;
+                margin-bottom: 20px;
+            }
+            h1 {
                 font-size: 64px;
             }
             body {
@@ -152,7 +160,14 @@
                 background-color: #ffffff;
                 box-shadow: 4px 4px 4px 4px rgba(0, 0, 0, 0.05) inset, 2px 2px 2px 2px rgba(0, 0, 0, 0.2) inset;
             }
-
+            select:focus,
+            .select2:focus,
+            input:not([type=checkbox]):focus,
+            textarea:focus,
+            .switch-toggle.switch-candy:focus {
+                outline: none !important;
+                background-color: #ffffffaa;
+            }
             .switch-toggle.switch-candy {
                 color: #000000 !important;
                 background-color: #ffffff22;
@@ -243,7 +258,7 @@
     </head>
     <body>
         <form>
-            <h1>General</h1>
+            <h1>Whisky Tasting</h1>
             <input type="text" name="brand" id="brand" placeholder="Brand / Distillery name">
             <input type="date" name="date_of_tasting" id="date_of_tasting">
             <select name="country" id="country">
@@ -296,7 +311,7 @@
                 <li><a href="https://www.gall.nl/" target="_blank">Gall & Gall</a></li>
             </ul>
             <textarea name="notes" id="notes" placeholder="Some notes..."></textarea>
-            <h1>Tasting Notes</h1>
+            <h2>Personal Notes</h2>
             <select name="flavour" id="flavour" multiple>
                 <option>-- Select Flavour --</option>
                 <option value="Dark Fruit">Dark Fruit</option>
