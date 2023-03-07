@@ -8,7 +8,8 @@ const ListBlogs = () => {
             {Object.keys(blogs).map(key => (
                 <li key={key}>
                     <span className="a">
-                        <a href={"/blog/" + blogs[key].title.toLowerCase().replace(/ /g, '-')} dataid={key} title={"Posted: " + blogs[key].created_at}>
+                        <a href={"/blog/" + blogs[key].title.toLowerCase().replace(/ /g, '-')}
+                           dataid={key} title={"Posted: " + blogs[key].created_at}>
                             {blogs[key].title}
                         </a>
                     </span>

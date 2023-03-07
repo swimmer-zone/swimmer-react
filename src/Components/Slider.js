@@ -35,6 +35,8 @@ function Arrow({ direction = 'right' }) {
 	);
 }
 
+// Port from https://github.com/erichbehrens/react-animated-slider
+
 class Slider extends React.PureComponent {
 	constructor(props) {
 		super(props);

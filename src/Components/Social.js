@@ -59,6 +59,8 @@ const Social = (props) => {
         ]
     };
 
+    let pathKey = 0;
+
     return (
         <div className={'social ' + props.location}>
 
@@ -66,11 +68,12 @@ const Social = (props) => {
                 const icon = icons[props.location][key];
 
                 return (
-                    <a href={icon.url} title={icon.title} key={key}>
+                    <a id={'social_' + key} key={'social_' + key} href={icon.url} title={icon.title}>
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" className={icon.class}>
-                            {icon.paths.map(path => (
-                                <path d={path} />
-                            ))}
+                            {icon.paths.map(path => {
+                                pathKey++;
+                                return (<path key={'path_' + pathKey} d={path} />)
+                            })}
                         </svg>
                     </a>
                 );
