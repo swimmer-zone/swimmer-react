@@ -46,7 +46,7 @@ const Music = () => {
 	      			return(
 						<article key={"album_" + key} id={"album_" + key}>
 							<div className="cover-wrapper">
-								<img src={"/data/albums/" + album.title.toLowerCase().replace(/ /g, '-') + "/cover.jpg"} alt="cover" className="cover" />
+								<img src={"/data/albums/" + album.title.toLowerCase().replace(/ /g, '-') + ".jpg"} alt="cover" className="cover" />
 							</div>
 							<div className="tracklist" data-set={key}>
 
@@ -54,7 +54,7 @@ const Music = () => {
 									{album.title}
 								</h2>
 
-								<p>{album.comment}</p>
+								<p>{album.intro}</p>
 
 								<ul>
 									{Object.keys(album.tracks).map(trackKey => {

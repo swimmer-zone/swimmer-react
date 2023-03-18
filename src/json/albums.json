@@ -1,6 +1,7 @@
 [
     {
         "title": "The Dive",
+		"intro": "It's been a while since I made any music, the new tracks are a bit different than the aesthetic of the previous tracks, but I quite like it!",
         "tracks": [
             {
                 "title":"Up And Down",
@@ -38,6 +39,7 @@
     },
     {
         "title": "The Lake",
+		"intro": "It's been a while, so I decided to create a new album with my current creations. Keeping the water theme, the new album is called 'The Lake', some might recognize the picture.",
         "tracks": [
             {
                 "title":"Sun Dance",
@@ -99,6 +101,7 @@
     },
     {
         "title": "The Beach",
+		"intro": "I started creating music when I was about 12 years old, somehow I came up with the name Yupsie and I kept using that name for quite a while. I started with FastTracker and later on I started using Propellerhead's Reason. Nowadays I use Ableton. Recently I decided to change my name to Swimmer and these are the tracks I actually created with my new alias. There are many more to come, so check back regularly!",
         "tracks": [
             {
                 "title":"Miracles",
@@ -168,6 +171,7 @@
     },
     {
         "title": "The Pool",
+		"intro": "These are the top 20 tracks I picked from the 80 tracks released under my previous alias.",
         "tracks": [
             {
                 "title":"Calm",
@@ -333,12 +337,84 @@
     },
     {
         "title": "Collectifest",
+		"intro": "We organised a festival for a small group of people to be able to show our talents. I created a set of some of my favorite tracks, where it was a necessity to be able to control it while on stage. I plan to make more of them in the future, using more recent tracks or maybe more like some sort of soundscape. I hope you enjoy it! Click to the next page to view the tracklisting.",
         "tracks": [
             {
                 "title":"Live @ Swimmer's Attic",
                 "filename":"707210269-swimmer-zone-live-swimmers-space-attic-collectifest-2019",
                 "playtime":2178,
                 "bpm":0,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+            }
+        ]
+    },
+    {
+        "title": "Collectifest",
+		"intro": "This is the tracklisting of my set on the previous page.",
+        "tracks": [
+            {
+                "title":"The After",
+                "filename":"1471722346-swimmer-zone-the-after",
+                "playtime":432,
+                "bpm":120,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+            },
+            {
+                "title":"Version",
+                "filename":"1471723009-swimmer-zone-version",
+                "playtime":240,
+                "bpm":120,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+            },
+            {
+                "title":"Dubplate",
+                "filename":"1471722553-swimmer-zone-dubplate",
+                "playtime":288,
+                "bpm":120,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+            },
+            {
+                "title":"Merry Marimba",
+                "filename":"737966014-swimmer-zone-merry-marimba",
+                "playtime":258,
+                "bpm":120,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+            },
+            {
+                "title":"Flam",
+                "filename":"737965993-swimmer-zone-flam",
+                "playtime":254,
+                "bpm":120,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+            },
+            {
+                "title":"Whim",
+                "filename":"737965987-swimmer-zone-whim",
+                "playtime":340,
+                "bpm":120,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+            },
+            {
+                "title":"Grim",
+                "filename":"1471722742-swimmer-zone-grim",
+                "playtime":263,
+                "bpm":120,
+                "genre":"Techno",
+                "comment":"2019-10-10"
+				
+            },
+            {
+                "title":"Swim",
+                "filename":"737965951-swimmer-zone-swim",
+                "playtime":240,
+                "bpm":120,
                 "genre":"Techno",
                 "comment":"2019-10-10"
             }
