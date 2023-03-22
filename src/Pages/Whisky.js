@@ -6,29 +6,41 @@ import '../assets/whisky.scss';
 const Whisky = () => {
     const [ sorted, setSorted ] = useState(tastings);
 
+// console.log(sorted)
     const sortByBrand = () => {
         sorted.sort(function (a, b) {
             return a.brand.localeCompare(b.brand);
         });
         setSorted(sorted);
-    }
+    };
     const sortByCountry = () => {
         sorted.sort(function (a, b) {
             return a.country.localeCompare(b.country);
         });
         setSorted(sorted);
-    }
+    };
     const sortByDate = () => {
         sorted.sort(function (a, b) {
             return a.dateOfTasting.localeCompare(b.dateOfTasting);
         });
         setSorted(sorted);
-    }
+    };
     const sortByRating = () => {
         sorted.sort(function (a, b) {
             return a.tasting.rating.localeCompare(b.tasting.rating);
         });
         setSorted(sorted);
+    };
+
+    const filterByFlavour = (flavour) => {
+        // sorted.filter((sort) => sort.tasting.flavour === flavour);
+        // setSorted(sorted);
+    };
+    const filterByWouldBuy = () => {
+        // console.log('filterByWouldBuy');
+        // sorted.filter((sort) => sort.tasting.wouldBuy === true);
+        // console.log(sorted);
+        // setSorted(sorted);
     }
 
   	return (<section key="whisky_section" className="whisky">
@@ -40,11 +52,18 @@ const Whisky = () => {
             distillery and the whiskey museum in Dublin my interest in Irish whiskey grew as well.
         </p>
         <nav key="sorting">
-            <span key="label">Sorting:</span>
+            <span key="label">Sort:</span>
             <button key="brand" onClick={sortByBrand}>Brand</button>
             <button key="country" onClick={sortByCountry}>Country / Region</button>
             <button key="rating" onClick={sortByRating}>Rating</button>
             <button key="dateOfTasting" onClick={sortByDate}>Date of Tasting</button>
+        </nav>
+        <nav key="filtering">
+            <span key="label">Filter:</span>
+            <button key="flavour">Flavour</button> [
+                <button key="flavour-peaty" onClick={filterByFlavour('Peaty')}>Peaty</button>
+                <button key="flavour-fruity" onClick={filterByFlavour('Fruity')}>Fruity</button>]
+            <button key="wouldBuy" onClick={filterByWouldBuy}>Would Buy</button>
         </nav>
         {Object.keys(sorted).map(key => {
             const whisky = sorted[key];
