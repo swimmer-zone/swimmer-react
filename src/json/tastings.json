@@ -2094,7 +2094,7 @@
 		"nearest_town": "Amorik",
 		"cask_strength": false,
 		"chill_filtered": false,
-		"type": "Single Malt
+		"type": "Single Malt",
 		"age": "",
 		"strength": "46",
 		"taster": true,
@@ -2250,7 +2250,7 @@
 	{
 		"brand": "Suntory Toki",
 		"date_of_tasting": "2023-04-29",
-		"country": "Japan"
+		"country": "Japan",
 		"region": "japan",
 		"nearest_town": "Suntory Toki",
 		"cask_strength": false,
