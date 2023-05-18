@@ -4,12 +4,12 @@
 	&.header {
 		position: fixed;
 		top: 20px;
-		right: 6vw;
-		width: 40N0px;
+		right: 4vw;
 		display: flex;
 		justify-content: flex-end;
 		flex-wrap: wrap;
-		z-index: 1010;
+		z-index: 110;
+		width: 320px;
 	}
 
 	a {
@@ -21,14 +21,14 @@
 			width: 40px;
 			height: 24px;
 			margin: 20px 10px;
-			fill: $white;
+			fill: $purple;
 		}
 
 		&::after,
 		&::before {
 			content: "";
 			position: absolute;
-			border: 2px solid $white;
+			border: 2px solid $purple;
 			z-index: 1020;
 			top: 50%;
 			left: 50%;
@@ -99,17 +99,20 @@
 @media(max-width: $mobile-breakpoint) {
 	.social {
 		&.header {
-			width: 160px;
-			right: 24vw;
+			left: 4vw;
+			top: 100px;
+			width: 90vw;
+			display: flex;
+			justify-content: space-between;
 		}
 
 		a {
-			width: 48px;
-			height: 48px;
+			width: 36px;
+			height: 36px;
 
 		    svg {
-				width: 8vw;
-				height: 8vw;
+				width: 6vw;
+				height: 6vw;
 			}
 		}
 	}

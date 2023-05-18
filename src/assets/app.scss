@@ -13,22 +13,23 @@ header {
 
 ::-webkit-scrollbar {
 	height: 2px;
-	width: 8px;
-	background: $white;
+	width: 10px;
+	background: $purple;
 }
 ::-webkit-scrollbar-thumb {
-	background: $purple;
-  	border: 1px solid $white;
+	background: $white;
+  	border: 3px solid $purple;
+	border-radius: 8px;
 }
 ::-webkit-scrollbar-thumb:window-inactive {
-  	background: $white;
+  	background: $purple;
 }
 ::-webkit-scrollbar-button {
-	background: $white;
+	background: $purple;
 	border: 0;
 }
 ::-webkit-scrollbar-corner,
 ::-webkit-scrollbar-track,
 ::-webkit-scrollbar-track-piece {
-  	background: $white;
+  	background: $purple;
 }

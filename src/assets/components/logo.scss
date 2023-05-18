@@ -1,29 +1,184 @@
 @import '../_variables.scss';
 
-#logo,
-#jack {
+#logo {
     position: fixed;
-    top: 10px;
-    left: 6vw;
-    width: 400px;
-    z-index: 1010;
+    top: 0;
+    left: 4vw;
+    width: 500px;
+    z-index: 999999999;
+
+	path {
+		filter: drop-shadow(5px 5px 3px #6c6eec88);
+	}
 }
 
-#jack {
-    width: 100px;
-    display: none;
-}
+#logo_bubbles {
+	position: fixed;
+	width: 500px;
+	height: 150px;
+	overflow: hidden;
+	top: 10px;
+	left: 10vw;
+    z-index: 999999999;
 
+	.bubble {
+		position: absolute;
+		bottom: 0;
+		width: 8px;
+		height: 8px;
+		background: #ffffff;
+		border-radius: 50%;
+		opacity: 0.5;
+		animation: floating 10s infinite ease-in;
+
+		&:nth-child(1) {
+			width: 8px;
+			height: 8px;
+			left: 10%;
+			animation-duration: 8s;
+		}
+		&:nth-child(2) {
+			width: 14px;
+			height: 14px;
+			left: 20%;
+			animation-duration: 8s;
+			animation-delay: 1s;
+		}
+		&:nth-child(3) {
+			width: 10px;
+			height: 10px;
+			left: 35%;
+			animation-duration: 10s;
+			animation-delay: 2s;
+		}
+		&:nth-child(4) {
+			width: 16px;
+			height: 16px;
+			left: 50%;
+			animation-duration: 7s;
+			animation-delay: 0s;
+		}
+		&:nth-child(5) {
+			width: 7px;
+			height: 7px;
+			left: 55%;
+			animation-duration: 6s;
+			animation-delay: 1s;
+		}
+		&:nth-child(6) {
+			width: 9px;
+			height: 9px;
+			left: 65%;
+			animation-duration: 8s;
+			animation-delay: 3s;
+		}
+		&:nth-child(7) {
+			width: 5px;
+			height: 5px;
+			left: 75%;
+			animation-duration: 7s;
+			animation-delay: 2s;
+		}
+		&:nth-child(8) {
+			width: 16px;
+			height: 16px;
+			left: 80%;
+			animation-duration: 6s;
+			animation-delay: 1s;
+		}
+		&:nth-child(9) {
+			width: 30px;
+			height: 30px;
+			left: 70%;
+			animation-duration: 9s;
+			animation-delay: 0s;
+		}
+		&:nth-child(10) {
+			width: 10px;
+			height: 10px;
+			left: 5%;
+			animation-duration: 5s;
+			animation-delay: 3s;
+		}
+		&:nth-child(11) {
+			width: 8px;
+			height: 8px;
+			left: 15%;
+			animation-duration: 12s;
+		}
+		&:nth-child(12) {
+			width: 24px;
+			height: 24px;
+			left: 25%;
+			animation-duration: 14s;
+			animation-delay: 1s;
+		}
+		&:nth-child(13) {
+			width: 10px;
+			height: 10px;
+			left: 45%;
+			animation-duration: 11s;
+			animation-delay: 2s;
+		}
+		&:nth-child(14) {
+			width: 16px;
+			height: 16px;
+			left: 55%;
+			animation-duration: 13s;
+			animation-delay: 4s;
+		}
+		&:nth-child(15) {
+			width: 7px;
+			height: 7px;
+			left: 60%;
+			animation-duration: 12s;
+			animation-delay: 1s;
+		}
+		&:nth-child(16) {
+			width: 9px;
+			height: 9px;
+			left: 65%;
+			animation-duration: 7s;
+			animation-delay: 3s;
+		}
+		&:nth-child(17) {
+			width: 5px;
+			height: 5px;
+			left: 75%;
+			animation-duration: 5s;
+			animation-delay: 2s;
+		}
+		&:nth-child(18) {
+			width: 16px;
+			height: 16px;
+			left: 80%;
+			animation-duration: 6s;
+			animation-delay: 1s;
+		}
+		&:nth-child(19) {
+			width: 3px;
+			height: 3px;
+			left: 70%;
+			animation-duration: 15s;
+			animation-delay: 0s;
+		}
+		&:nth-child(20) {
+			width: 10px;
+			height: 10px;
+			left: 85%;
+			animation-duration: 8s;
+			animation-delay: 3s;
+		}
+	}
+}
 
 @media(max-width: $mobile-breakpoint) {
-    #logo {
-        display: none;
+    #logo,
+	#logo_bubbles {
+		width: 90vw !important;
+		left: 6vw;
     }
-
-    #jack {
-        display: block;
-        top: -20px;
-        width: 80px;
-        transform: rotate(90deg);
-    }
+	#logo_bubbles {
+		height: 80px;
+	}
 }

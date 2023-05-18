@@ -7,6 +7,6 @@ import Me from './Me.js';
 import Music from './Music.js';
 import Rating from './Rating.js';
 import Social from './Social.js';
-import Wave from './Wave.js';
+import Water from './Water.js';
 
-export { Back, Intro, List, ListBlogs, Logo, Me, Music, Rating, Social, Wave };
+export { Back, Intro, List, ListBlogs, Logo, Me, Music, Rating, Social, Water };

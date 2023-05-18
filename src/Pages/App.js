@@ -1,6 +1,6 @@
 import React from 'react';
 import { Home, Blog, Whisky } from '../Pages';
-import { Social, Logo, Wave } from '../Components';
+import { Social, Logo, Water } from '../Components';
 import '../assets/app.scss';
 import {
 	BrowserRouter as Router,
@@ -12,7 +12,6 @@ const App = () => {
   	return (
 	    <Router>
 			<header>
-				<Wave />
 				<Logo />
 
 	            <Social location="header" />
@@ -25,6 +24,7 @@ const App = () => {
 	            	<Whisky />
 	          	</Route>
 	          	<Route path="/">
+					<Water />
 	            	<Home />
 	          	</Route>
 	        </Switch>

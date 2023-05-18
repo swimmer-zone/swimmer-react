@@ -20,12 +20,12 @@ body {
 
 h1 {
 	font-size: 4rem;
-	color: $purple;
+	color: $white;
 }
 
 h2 {
 	font-size: 2rem;
-	color: $purple;
+	color: $white;
 	margin-bottom: 2vh;
 }
 
@@ -40,14 +40,51 @@ ol {
 	& > footer {
 		width: 100vw;
 	    box-sizing: border-box;
+		z-index: 100;
+		position: relative;
+	}
+	#waves {
+		z-index: 10;
+	}
+	#bubbles {
+		z-index: 2000000;
+		pointer-events: none;
 	}
 
 	& > section {
 		height: 100vh;
+		pointer-events: none;
+
+		a,
+		button,
+		.cover-wrapper {
+			pointer-events: all;
+		}
 	}
 
 	& > footer {
 		height: 120vh;
+		pointer-events: none;
+
+		a,
+		button,
+		.cover-wrapper {
+			pointer-events: all;
+		}
+	}
+
+	@keyframes floating {
+		0% {
+			bottom: -100px;
+			transform: translateX(0);
+		}
+		50% {
+			transform: translateX(100px);
+		}
+		100% {
+			bottom: 1080px;
+			transform: translateX(-200px);
+		}
 	}
 }
 
@@ -58,8 +95,8 @@ button {
 	transition: all 0.5s ease-in-out;
 
 	&:hover {
-		color: $code;
-		transition: all 0.5s ease-in-out;
+		color: $white;
+		transition: all 2s ease-in-out;
 	}
 }
 

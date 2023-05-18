@@ -268,13 +268,7 @@ class Slider extends React.PureComponent {
 	getClassNames = () => ({ ...DEFAULT_CLASSNAMES, ...this.props.classNames });
 
 	initTouchEvents = (sliderRef) => {
-		if (this.isDisabled() || !sliderRef) return;
-		this.sliderRef = sliderRef;
-		this.sliderRef.addEventListener('touchstart', this.handleTouchStart);
-		this.sliderRef.addEventListener('touchmove', this.handleTouchMove, {
-			passive: false,
-		});
-		this.sliderRef.addEventListener('touchend', this.handleTouchEnd);
+		return;
 	}
 
 	handleMouseOver = () => {

@@ -8,22 +8,21 @@
 	.previousButton,
 	.nextButton {
 		polygon {
-			fill: $purple;
+			fill: $white;
 		}
 
 		&.disabled polygon {
-			fill: $light;
+			opacity: .1;
 		}
 	}
 
 	article {
 		display: flex;
-		align-items: center;
 		padding: 1vh 1vw 1vh 10vw;
 		box-sizing: border-box;
-		border-bottom: 1px solid $white;
 
 		.cover-wrapper {
+			margin-top: 24vh;
 			width: 20vw;
 			height: 20vw;
 			transform-origin: bottom left;
@@ -47,11 +46,15 @@
 		.tracklist {
 			margin-left: 16vw;
 			width: 44vw;
+			margin-top: 20vh;
 
 			h2 {
 				margin-top: 2vh;
 			}
 
+			p:nth-of-type(3) {
+				display: none;
+			}
 			ul {
 				margin-top: 4vh;
 				width: 32vw;
@@ -59,7 +62,7 @@
 				li {
 					text-indent: 0;
 					line-height: 30px;
-					color: $purple;
+					color: $white;
 
 					button {
 						display: inline-block;
@@ -107,7 +110,7 @@
 		transform: translateY(-50%);
 		transition: all .3s linear;
 		z-index: 1;
-		color: #333;
+		color: $white;
 		padding: 10px;
 		text-decoration: none;
 		backface-visibility: hidden;
@@ -132,6 +135,7 @@
 	height: 100%;
 	position: absolute;
 	overflow: hidden;
+	border: none;
 
 	&.hidden {
 		visibility: hidden;
@@ -228,23 +232,24 @@
 	.music {
 		height: 150vh !important;
 
-		.slider {
-			height: 150vh;
-
-			a.previousButton,
-			a.nextButton {
-				top: 18%;
-			}
+		a.previousButton,
+		a.nextButton {
+			top: 18%;
 		}
 
-		.cover-wrapper {
-			position: absolute;
-		    top: 38vh;
-		    left: 4vw;
+		.slider {
+			height: 150vh;
 		}
 
 		article {
 			padding: 1vh 1vw 1vh 1vw;
+
+			.cover-wrapper {
+				position: absolute;
+				top: 38vh;
+				left: 4vw;
+				margin-top: 0;
+			}
 
 			p {
 				font-size: 0.7rem;
@@ -259,20 +264,25 @@
 			.tracklist {
 				padding: 1vh 1vw 1vh 1vw;
 				margin-left: 1vw;
+				margin-top: 0;
 				width: 90vw;
 
 				p {
 					display: none;
 				}
-			}
 			
-			ul {
-				position: absolute;
-			    top: 50vh;
-			    left: 8vw;
-					
-				li button {
-					width: 68vw !important;
+				ul {
+					position: absolute;
+					top: 50vh;
+					left: 8vw;
+						
+					li {
+						width: 80vw;
+						
+						button {
+							width: 68vw !important;
+						}
+					}
 				}
 			}
 		}
