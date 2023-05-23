@@ -35,7 +35,7 @@ const Music = () => {
             }));
         });
     }, [state.currentTrack]);
-
+	
   	return (
 		<section className="music" id="music">
 			<Slider infinite={false}>
@@ -71,18 +71,26 @@ const Music = () => {
 													className="duration">{playTime}</span>
 										}
 
-										return (
+										return (<>
 											<li key={track.filename}>
 												<span className="a">
 													<button 
 														data-permalink={track.title}
-														onClick={() => setState({currentTrack: scName})}>
+														onClick={() => {
+															if (state.currentTrack === scName && !player.current.paused) {
+																player.current.pause();
+															} else if (state.currentTrack === scName && player.current.paused) {
+																player.current.play();
+															} else {
+																setState({currentTrack: scName});
+															}
+														}}>
 														{track.title}
 													</button>
 												</span>
 												{timer}
 											</li>
-										);
+										</>);
 									})}
 								</ul>
 							</div>
@@ -90,6 +98,7 @@ const Music = () => {
 					)
 				})}
 			</Slider>
+			{state.currentTrack && <div id="progress" style={{width: ((state.currentTime / state.duration) * 100) + 'vw'}}></div>}
 			<audio ref={player} />
 		</section>
   	);

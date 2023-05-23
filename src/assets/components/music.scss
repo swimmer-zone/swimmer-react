@@ -83,6 +83,15 @@
 			}
 		}
 	}
+	#progress {
+		position: fixed;
+		top: 0;
+		left: 0;
+		width: 0;
+		height: 50vh;
+		pointer-events: none;
+		background: linear-gradient(to bottom, #6c6eec66, #6c6eec00 40%);
+	}
 }
 
 .player {

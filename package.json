@@ -1,6 +1,6 @@
 {
   "name": "swimmer",
-  "version": "19.0.5",
+  "version": "19.1.1",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
